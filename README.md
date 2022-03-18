@@ -4,7 +4,7 @@ Human, « [footer de merde](https://open-time.net/post/2013/07/17/La-veritable-h
 
 ### Last news
 
-\<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:START -->
 - [TIL, Today I Learned](https://open-time.net/post/2022/03/17/TIL-Today-I-Learned)
 - [Peu roulé](https://open-time.net/post/2022/03/16/Peu-roule)
 - [Déplacer des trucs](https://open-time.net/post/2022/03/15/Deplacer-des-trucs)
