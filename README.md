@@ -5,9 +5,9 @@ Human, « [footer de merde](https://open-time.net/post/2013/07/17/La-veritable-h
 ### Last news (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Circonspectricitation](https://open-time.net/post/2022/04/13/Circonspectricitation)
 - [Barrage](https://open-time.net/post/2022/04/12/Barrage)
 - [Notules non diplomatiques n° 6](https://open-time.net/post/2022/04/11/Notules-non-diplomatiques-n-6)
 - [Capteur CO2](https://open-time.net/post/2022/04/10/Capteur-CO2)
 - [Notules non diplomatiques n° 5](https://open-time.net/post/2022/04/09/Notules-non-diplomatiques-n-5)
-- [En fait j&#39;y avais pensé](https://open-time.net/post/2022/04/08/En-fait-j-y-avais-pense)
 <!-- BLOG-POST-LIST:END -->
