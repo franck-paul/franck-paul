@@ -5,9 +5,9 @@ Human, « [footer de merde](https://open-time.net/post/2013/07/17/La-veritable-h
 ### Last news (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Croquant libanais](https://open-time.net/post/2022/04/20/Croquant-libanais)
 - [Molles](https://open-time.net/post/2022/04/19/Molles)
 - [La loose du DSL](https://open-time.net/post/2022/04/18/La-loose-du-DSL)
 - [Alors alors](https://open-time.net/post/2022/04/17/Alors-alors)
 - [Bon ça sera](https://open-time.net/post/2022/04/16/Bon-ca-sera)
-- [Idée alakon](https://open-time.net/post/2022/04/15/Idee-alakon)
 <!-- BLOG-POST-LIST:END -->
