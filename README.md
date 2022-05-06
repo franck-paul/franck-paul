@@ -5,9 +5,9 @@ Human, « [footer de merde](https://open-time.net/post/2013/07/17/La-veritable-h
 ### Last news (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Alors alors](https://open-time.net/post/2022/05/06/Alors-alors)
 - [M&#39;enfin ?](https://open-time.net/post/2022/05/05/M-enfin)
 - [Aller](https://open-time.net/post/2022/05/04/Aller)
 - [NUPES](https://open-time.net/post/2022/05/03/NUPES)
 - [11 jours](https://open-time.net/post/2022/05/02/11-jours)
-- [Pies pas nid](https://open-time.net/post/2022/05/01/Pies-pas-nid)
 <!-- BLOG-POST-LIST:END -->
