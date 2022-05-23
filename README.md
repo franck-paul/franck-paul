@@ -5,9 +5,9 @@ Human, « [footer de merde](https://open-time.net/post/2013/07/17/La-veritable-h
 ### Last news (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Piafs de mer](https://open-time.net/post/2022/05/23/Piafs-de-mer)
 - [La tête ailleurs](https://open-time.net/post/2022/05/22/La-tete-ailleurs)
 - [À chaque fois](https://open-time.net/post/2022/05/21/A-chaque-fois)
 - [Un rôle à jouer](https://open-time.net/post/2022/05/20/Un-role-a-jouer)
 - [Sablés au Roquefort](https://open-time.net/post/2022/05/19/Sables-au-Roquefort)
-- [Notules non diplomatiques n° 9](https://open-time.net/post/2022/05/18/Notules-non-diplomatiques-n-9)
 <!-- BLOG-POST-LIST:END -->
