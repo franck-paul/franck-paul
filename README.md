@@ -5,9 +5,9 @@ Human, « [footer de merde](https://open-time.net/post/2013/07/17/La-veritable-h
 ### Last news (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Saturation](https://open-time.net/post/2022/08/16/Saturation)
 - [CSP mon amour en public](https://open-time.net/post/2022/08/15/CSP-mon-amour-en-public)
 - [Breaking news](https://open-time.net/post/2022/08/14/Breaking-news)
 - [On passe à la suite](https://open-time.net/post/2022/08/13/On-passe-a-la-suite)
 - [Rassuré je suis !](https://open-time.net/post/2022/08/12/Rassure-je-suis-)
-- [Nonobstant](https://open-time.net/post/2022/08/11/Nonobstant)
 <!-- BLOG-POST-LIST:END -->
