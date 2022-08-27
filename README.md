@@ -5,9 +5,9 @@ Human, He/His, « [footer de merde](https://open-time.net/post/2013/07/17/La-ver
 ### Last news (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Usure](https://open-time.net/post/2022/08/27/Usure)
 - [J&#39;ai vini vidi vici ze bad karma](https://open-time.net/post/2022/08/26/J-ai-vini-vidi-vici-ze-bad-karma)
 - [Plugin proxy](https://open-time.net/post/2022/08/25/Plugin-proxy)
 - [Seuil de pouvoir](https://open-time.net/post/2022/08/24/Seuil-de-pouvoir)
 - [La génance est perceptible](https://open-time.net/post/2022/08/23/La-genance-est-perceptible)
-- [Globalement satisfait](https://open-time.net/post/2022/08/22/Globalement-satisfait)
 <!-- BLOG-POST-LIST:END -->
