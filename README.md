@@ -5,9 +5,9 @@ Human, He/His, « [footer de merde](https://open-time.net/post/2013/07/17/La-ver
 ### Last news (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Les permissions](https://open-time.net/post/2022/10/05/Les-permissions)
 - [Hétérogénéité](https://open-time.net/post/2022/10/04/Heterogeneite)
 - [Il en restait encore](https://open-time.net/post/2022/10/03/Il-en-restait-encore)
 - [Peut mieux faire](https://open-time.net/post/2022/10/02/Peut-mieux-faire)
 - [J&#39;attends](https://open-time.net/post/2022/10/01/J-attends)
-- [Po le batard](https://open-time.net/post/2022/09/30/Po-le-batard)
 <!-- BLOG-POST-LIST:END -->
