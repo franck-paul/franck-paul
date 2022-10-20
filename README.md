@@ -5,9 +5,9 @@ Human, He/His, « [footer de merde](https://open-time.net/post/2013/07/17/La-ver
 ### Last news (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Adapter son code pour la 2.24](https://open-time.net/post/2022/10/20/Adapter-son-code-pour-la-224)
 - [Un peu de superflu](https://open-time.net/post/2022/10/19/Un-peu-de-superflu)
 - [Ça se complique n° 2](https://open-time.net/post/2022/10/18/Ca-se-complique-n-2)
 - [On va pas se mytho](https://open-time.net/post/2022/10/17/On-va-pas-se-mytho)
 - [Typage et behavior](https://open-time.net/post/2022/10/16/Typage-et-behavior)
-- [Notules non diplomatiques n° 15](https://open-time.net/post/2022/10/15/Notules-non-diplomatiques-n-15)
 <!-- BLOG-POST-LIST:END -->
