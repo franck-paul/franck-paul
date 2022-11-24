@@ -5,9 +5,9 @@ Human, He/His, « [footer de merde](https://open-time.net/post/2013/07/17/La-ver
 ### Last news (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Macbook Pro 14 pouces](https://open-time.net/post/2022/11/24/Macbook-Pro-14-pouces)
 - [Gouvernance](https://open-time.net/post/2022/11/23/Gouvernance)
 - [Ça tape](https://open-time.net/post/2022/11/22/Ca-tape)
 - [Le vieux monde](https://open-time.net/post/2022/11/21/Le-vieux-monde)
 - [Rétro-planning](https://open-time.net/post/2022/11/20/Retro-planning)
-- [Dodo](https://open-time.net/post/2022/11/19/Dodo)
 <!-- BLOG-POST-LIST:END -->
