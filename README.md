@@ -5,9 +5,9 @@ Human, He/His, « [footer de merde](https://open-time.net/post/2013/07/17/La-ver
 ### Last news (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Miscellanées](https://open-time.net/post/2022/12/07/Miscellanees)
 - [Des fois je me demande](https://open-time.net/post/2022/12/06/Des-fois-je-me-demande)
 - [Nouvelle lubie](https://open-time.net/post/2022/12/05/Nouvelle-lubie)
 - [Interlude](https://open-time.net/post/2022/12/04/Interlude)
 - [Mode de secours de Dotclear 2.24](https://open-time.net/post/2022/12/03/Mode-de-secours-de-Dotclear-224)
-- [Après avoir pris du retard](https://open-time.net/post/2022/12/02/Apres-avoir-pris-du-retard)
 <!-- BLOG-POST-LIST:END -->
