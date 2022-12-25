@@ -5,9 +5,9 @@ Human, He/His, « [footer de merde](https://open-time.net/post/2013/07/17/La-ver
 ### Last news (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Mieux que prévu](https://open-time.net/post/2022/12/25/Mieux-que-prevu)
 - [À chaque fois !](https://open-time.net/post/2022/12/24/A-chaque-fois-)
 - [So far so good](https://open-time.net/post/2022/12/23/So-far-so-good)
 - [Déroutant](https://open-time.net/post/2022/12/22/Deroutant)
 - [Sondage](https://open-time.net/post/2022/12/21/Sondage)
-- [Et hop, sans les mains](https://open-time.net/post/2022/12/20/Et-hop-sans-les-mains)
 <!-- BLOG-POST-LIST:END -->
