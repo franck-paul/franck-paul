@@ -5,7 +5,6 @@
 * 🛠️ Lead dev' of [dotclear](https://git.dotclear.org/dev/dotclear)
 * 📷 photo, 🚲 vélo, 🏍️ moto 
 * 🇫🇷 native, 🇬🇧 speaking, 🇪🇺 living
-* ![Mastodon Follow](https://img.shields.io/mastodon/follow/000003275?domain=https%3A%2F%2Fmstdn.nrkn.fr&style=flat-square)
 
 ### Insights
 
