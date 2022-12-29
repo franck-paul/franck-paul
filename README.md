@@ -1,6 +1,10 @@
 ### Me
 
-Human, He/His, « [footer de merde](https://open-time.net/post/2013/07/17/La-veritable-histoire-du-Footer-de-merde-) » — https://open-time.net — Lead dev' of [dotclear](https://git.dotclear.org/dev/dotclear), photo, vélo, moto — 🇫🇷 native, 🇬🇧 speaking, 🇪🇺 living — he/him
+Human, He/His, « [footer de merde](https://open-time.net/post/2013/07/17/La-veritable-histoire-du-Footer-de-merde-) » 
+* https://open-time.net 
+* Lead dev' of [dotclear](https://git.dotclear.org/dev/dotclear)
+* photo, vélo, moto 
+* 🇫🇷 native, 🇬🇧 speaking, 🇪🇺 living
 
 ### Insights
 
