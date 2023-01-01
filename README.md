@@ -14,9 +14,9 @@
 ### Last news (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Comme promis](https://open-time.net/post/2023/01/01/Comme-promis)
 - [Bascule](https://open-time.net/post/2022/12/31/Bascule)
 - [PHP 7 est mort, vive PHP 8](https://open-time.net/post/2022/12/30/PHP-7-est-mort-vive-PHP-8)
 - [Même pas mal](https://open-time.net/post/2022/12/29/Meme-pas-mal)
 - [Attentat au gluten](https://open-time.net/post/2022/12/28/Attentat-au-gluten)
-- [Le précieux](https://open-time.net/post/2022/12/27/Le-precieux)
 <!-- BLOG-POST-LIST:END -->
