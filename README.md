@@ -14,9 +14,9 @@
 ### Last news (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Passe avec Rector](https://open-time.net/post/2023/01/13/Passe-avec-Rector)
 - [Économiser un clic](https://open-time.net/post/2023/01/12/Economiser-un-clic)
 - [42 and counting](https://open-time.net/post/2023/01/11/42-and-counting)
 - [Des petites cases de couleur](https://open-time.net/post/2023/01/10/Des-petites-cases-de-couleur)
 - [Mastodon web](https://open-time.net/post/2023/01/09/Mastodon-web)
-- [ChatGPT et javascript](https://open-time.net/post/2023/01/08/ChatGPT-et-javascript)
 <!-- BLOG-POST-LIST:END -->
