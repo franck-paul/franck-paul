@@ -14,9 +14,9 @@
 ### Last news (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Neutre ou pas neutre](https://open-time.net/post/2023/01/16/Neutre-ou-pas-neutre)
 - [La veille du blog](https://open-time.net/post/2023/01/15/La-veille-du-blog)
 - [Amélioration progressive](https://open-time.net/post/2023/01/14/Amelioration-progressive)
 - [Passe avec Rector](https://open-time.net/post/2023/01/13/Passe-avec-Rector)
 - [Économiser un clic](https://open-time.net/post/2023/01/12/Economiser-un-clic)
-- [42 and counting](https://open-time.net/post/2023/01/11/42-and-counting)
 <!-- BLOG-POST-LIST:END -->
