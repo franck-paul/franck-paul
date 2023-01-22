@@ -14,9 +14,9 @@
 ### Last news (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Module JS](https://open-time.net/post/2023/01/22/Module-JS)
 - [Raccourcis](https://open-time.net/post/2023/01/21/Raccourcis)
 - [Bon, vous avez fait la mise à jour ?](https://open-time.net/post/2023/01/20/Bon-vous-avez-fait-la-mise-a-jour)
 - [Le discours de la réforme](https://open-time.net/post/2023/01/19/Le-discours-de-la-reforme)
 - [Bon c&#39;est pas tout ça](https://open-time.net/post/2023/01/18/Bon-c-est-pas-tout-ca)
-- [Tu sais pas la meilleure ?](https://open-time.net/post/2023/01/17/Tu-sais-pas-la-meilleure)
 <!-- BLOG-POST-LIST:END -->
