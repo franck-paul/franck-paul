@@ -14,9 +14,9 @@
 ### Last news (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Notules non diplomatiques n° 18](https://open-time.net/post/2023/01/25/Notules-non-diplomatiques-n-18)
 - [Twitter off](https://open-time.net/post/2023/01/24/Twitter-off)
 - [J&#39;me demande](https://open-time.net/post/2023/01/23/J-me-demande)
 - [Module JS](https://open-time.net/post/2023/01/22/Module-JS)
 - [Raccourcis](https://open-time.net/post/2023/01/21/Raccourcis)
-- [Bon, vous avez fait la mise à jour ?](https://open-time.net/post/2023/01/20/Bon-vous-avez-fait-la-mise-a-jour)
 <!-- BLOG-POST-LIST:END -->
