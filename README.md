@@ -14,9 +14,9 @@
 ### Last news (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Flarum](https://open-time.net/post/2023/01/29/Flarum)
 - [TIL : transfert de Mac](https://open-time.net/post/2023/01/28/TIL-%3A-transfert-de-Mac)
 - [Inclusion directe](https://open-time.net/post/2023/01/27/Inclusion-directe)
 - [Overflow](https://open-time.net/post/2023/01/26/Overflow)
 - [Notules non diplomatiques n° 18](https://open-time.net/post/2023/01/25/Notules-non-diplomatiques-n-18)
-- [Twitter off](https://open-time.net/post/2023/01/24/Twitter-off)
 <!-- BLOG-POST-LIST:END -->
