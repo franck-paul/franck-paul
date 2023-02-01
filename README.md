@@ -14,9 +14,9 @@
 ### Last news (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Ah ouais, quand même !](https://open-time.net/post/2023/02/01/Ah-ouais-quand-meme-)
 - [J&#39;ai un peu joué](https://open-time.net/post/2023/01/31/J-ai-un-peu-joue)
 - [Le canapé](https://open-time.net/post/2023/01/30/Le-canape)
 - [Flarum](https://open-time.net/post/2023/01/29/Flarum)
 - [TIL : transfert de Mac](https://open-time.net/post/2023/01/28/TIL-%3A-transfert-de-Mac)
-- [Inclusion directe](https://open-time.net/post/2023/01/27/Inclusion-directe)
 <!-- BLOG-POST-LIST:END -->
