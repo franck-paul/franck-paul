@@ -14,9 +14,9 @@
 ### Last news (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Plagier une bonne idée](https://open-time.net/post/2023/02/04/Plagier-une-bonne-idee)
 - [Et la suite alors ?](https://open-time.net/post/2023/02/03/Et-la-suite-alors)
 - [J&#39;ai bien rigolé](https://open-time.net/post/2023/02/02/J-ai-bien-rigole)
 - [Ah ouais, quand même !](https://open-time.net/post/2023/02/01/Ah-ouais-quand-meme-)
 - [J&#39;ai un peu joué](https://open-time.net/post/2023/01/31/J-ai-un-peu-joue)
-- [Le canapé](https://open-time.net/post/2023/01/30/Le-canape)
 <!-- BLOG-POST-LIST:END -->
