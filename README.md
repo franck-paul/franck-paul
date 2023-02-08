@@ -14,9 +14,9 @@
 ### Last news (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Vous ne comprenez pas](https://open-time.net/post/2023/02/08/Vous-ne-comprenez-pas)
 - [Automatiser des trucs](https://open-time.net/post/2023/02/07/Automatiser-des-trucs)
 - [Will do stuff in staff](https://open-time.net/post/2023/02/06/Will-do-stuff-in-staff)
 - [Journée off](https://open-time.net/post/2023/02/05/Journee-off)
 - [Plagier une bonne idée](https://open-time.net/post/2023/02/04/Plagier-une-bonne-idee)
-- [Et la suite alors ?](https://open-time.net/post/2023/02/03/Et-la-suite-alors)
 <!-- BLOG-POST-LIST:END -->
