@@ -14,9 +14,9 @@
 ### Last news (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Et voilà](https://open-time.net/post/2023/02/14/Et-voila)
 - [Easter-egg](https://open-time.net/post/2023/02/13/Easter-egg)
 - [Lu ailleurs](https://open-time.net/post/2023/02/12/Lu-ailleurs)
 - [Cross machin bidule](https://open-time.net/post/2023/02/11/Cross-machin-bidule)
 - [Podman vs Docker sur MacOS](https://open-time.net/post/2023/02/10/Podman-vs-Docker-sur-MacOS)
-- [Notules non diplomatiques n° 19](https://open-time.net/post/2023/02/09/Notules-non-diplomatiques-n-19)
 <!-- BLOG-POST-LIST:END -->
