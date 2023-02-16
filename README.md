@@ -14,9 +14,9 @@
 ### Last news (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Notules non diplomatiques n° 20](https://open-time.net/post/2023/02/16/Notules-non-diplomatiques-n-20)
 - [Encore une sur la timeline](https://open-time.net/post/2023/02/15/Encore-une-sur-la-timeline)
 - [Et voilà](https://open-time.net/post/2023/02/14/Et-voila)
 - [Easter-egg](https://open-time.net/post/2023/02/13/Easter-egg)
 - [Lu ailleurs](https://open-time.net/post/2023/02/12/Lu-ailleurs)
-- [Cross machin bidule](https://open-time.net/post/2023/02/11/Cross-machin-bidule)
 <!-- BLOG-POST-LIST:END -->
