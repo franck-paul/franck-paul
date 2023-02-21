@@ -14,9 +14,9 @@
 ### Last news (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Dormir](https://open-time.net/post/2023/02/21/Dormir)
 - [Et une de plus](https://open-time.net/post/2023/02/20/Et-une-de-plus)
 - [Mille fois sur l&#39;établi](https://open-time.net/post/2023/02/19/Mille-fois-sur-l-etabli)
 - [Vais essayer](https://open-time.net/post/2023/02/18/Vais-essayer)
 - [Personnage](https://open-time.net/post/2023/02/17/Personnage)
-- [Notules non diplomatiques n° 20](https://open-time.net/post/2023/02/16/Notules-non-diplomatiques-n-20)
 <!-- BLOG-POST-LIST:END -->
