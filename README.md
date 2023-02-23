@@ -14,9 +14,9 @@
 ### Last news (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Tirer des plans](https://open-time.net/post/2023/02/23/Tirer-des-plans)
 - [Le GPS des rêves](https://open-time.net/post/2023/02/22/Le-GPS-des-reves)
 - [Dormir](https://open-time.net/post/2023/02/21/Dormir)
 - [Et une de plus](https://open-time.net/post/2023/02/20/Et-une-de-plus)
 - [Mille fois sur l&#39;établi](https://open-time.net/post/2023/02/19/Mille-fois-sur-l-etabli)
-- [Vais essayer](https://open-time.net/post/2023/02/18/Vais-essayer)
 <!-- BLOG-POST-LIST:END -->
