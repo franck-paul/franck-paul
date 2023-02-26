@@ -14,9 +14,9 @@
 ### Last news (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Promis après celle-ci j&#39;arrête](https://open-time.net/post/2023/02/26/Promis-apres-celle-ci-j-arrete)
 - [Slava Ukraini — Слава Україні](https://open-time.net/post/2023/02/25/Slava-Ukraini-)
 - [Congé](https://open-time.net/post/2023/02/24/Conge)
 - [Tirer des plans](https://open-time.net/post/2023/02/23/Tirer-des-plans)
 - [Le GPS des rêves](https://open-time.net/post/2023/02/22/Le-GPS-des-reves)
-- [Dormir](https://open-time.net/post/2023/02/21/Dormir)
 <!-- BLOG-POST-LIST:END -->
