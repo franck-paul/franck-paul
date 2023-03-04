@@ -14,9 +14,9 @@
 ### Last news (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Mélanger les choux et les Choux](https://open-time.net/post/2023/03/04/Melanger-les-choux-et-les-Choux)
 - [Et finalement](https://open-time.net/post/2023/03/03/Et-finalement)
 - [On n&#39;aura pas chômé](https://open-time.net/post/2023/03/02/On-aura-pas-chome)
 - [Statique ou dynamique](https://open-time.net/post/2023/03/01/Statique-ou-dynamique)
 - [Tout un monde](https://open-time.net/post/2023/02/28/Tout-un-monde)
-- [Non, rien de rien](https://open-time.net/post/2023/02/27/Non-rien-de-rien)
 <!-- BLOG-POST-LIST:END -->
