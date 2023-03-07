@@ -14,9 +14,9 @@
 ### Last news (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Stupeurs et tremblements](https://open-time.net/post/2023/03/07/Stupeurs-et-tremblements)
 - [CQFD](https://open-time.net/post/2023/03/06/CQFD)
 - [La boucle est bouclée](https://open-time.net/post/2023/03/05/La-boucle-est-bouclee)
 - [Mélanger les choux et les Choux](https://open-time.net/post/2023/03/04/Melanger-les-choux-et-les-Choux)
 - [Et finalement](https://open-time.net/post/2023/03/03/Et-finalement)
-- [On n&#39;aura pas chômé](https://open-time.net/post/2023/03/02/On-aura-pas-chome)
 <!-- BLOG-POST-LIST:END -->
