@@ -14,9 +14,9 @@
 ### Last news (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Couverture de code](https://open-time.net/post/2023/03/09/Couverture-de-code)
 - [Si jamais votre souris ne fonctionne plus](https://open-time.net/post/2023/03/08/Si-jamais-votre-souris-ne-fonctionne-plus)
 - [Stupeurs et tremblements](https://open-time.net/post/2023/03/07/Stupeurs-et-tremblements)
 - [CQFD](https://open-time.net/post/2023/03/06/CQFD)
 - [La boucle est bouclée](https://open-time.net/post/2023/03/05/La-boucle-est-bouclee)
-- [Mélanger les choux et les Choux](https://open-time.net/post/2023/03/04/Melanger-les-choux-et-les-Choux)
 <!-- BLOG-POST-LIST:END -->
