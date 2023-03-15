@@ -14,9 +14,9 @@
 ### Last news (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Le SNU c&#39;est Laurence De Cock qui en parle le mieux](https://open-time.net/post/2023/03/15/Le-SNU-c-est-Laurence-De-Cock-qui-en-parle-le-mieux)
 - [Migration](https://open-time.net/post/2023/03/14/Migration)
 - [Rêve gluant](https://open-time.net/post/2023/03/13/Reve-gluant)
 - [Mètres cube](https://open-time.net/post/2023/03/12/Metres-cube)
 - [At&lpar;ch&rpar;oum](https://open-time.net/post/2023/03/11/Atchoum)
-- [Niveau de nécessité](https://open-time.net/post/2023/03/10/Niveau-de-necessite)
 <!-- BLOG-POST-LIST:END -->
