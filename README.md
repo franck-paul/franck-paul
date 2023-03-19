@@ -14,9 +14,9 @@
 ### Last news (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Mock toi plus](https://open-time.net/post/2023/03/19/Mock-toi-plus)
 - [Mock toi moins](https://open-time.net/post/2023/03/18/Mock-toi-moins)
 - [Mock toi pas](https://open-time.net/post/2023/03/17/Mock-toi-pas)
 - [Lunaire](https://open-time.net/post/2023/03/16/Lunaire)
 - [Le SNU c&#39;est Laurence De Cock qui en parle le mieux](https://open-time.net/post/2023/03/15/Le-SNU-c-est-Laurence-De-Cock-qui-en-parle-le-mieux)
-- [Migration](https://open-time.net/post/2023/03/14/Migration)
 <!-- BLOG-POST-LIST:END -->
