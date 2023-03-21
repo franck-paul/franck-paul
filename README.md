@@ -14,9 +14,9 @@
 ### Last news (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Dimanche après-midi](https://open-time.net/post/2023/03/21/Dimanche-apres-midi)
 - [Quatre mois qu&#39;ils disaient](https://open-time.net/post/2023/03/20/Quatre-mois-qu-ils-disaient)
 - [Mock toi plus](https://open-time.net/post/2023/03/19/Mock-toi-plus)
 - [Mock toi moins](https://open-time.net/post/2023/03/18/Mock-toi-moins)
 - [Mock toi pas](https://open-time.net/post/2023/03/17/Mock-toi-pas)
-- [Lunaire](https://open-time.net/post/2023/03/16/Lunaire)
 <!-- BLOG-POST-LIST:END -->
