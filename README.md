@@ -14,9 +14,9 @@
 ### Last news (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [J&#39;peux pas, j&#39;ai séminaire](https://open-time.net/post/2023/03/23/J-peux-pas-j-ai-seminaire)
 - [Dis tu pourrais faire…](https://open-time.net/post/2023/03/22/Dis-tu-pourrais-faire)
 - [Dimanche après-midi](https://open-time.net/post/2023/03/21/Dimanche-apres-midi)
 - [Quatre mois qu&#39;ils disaient](https://open-time.net/post/2023/03/20/Quatre-mois-qu-ils-disaient)
 - [Mock toi plus](https://open-time.net/post/2023/03/19/Mock-toi-plus)
-- [Mock toi moins](https://open-time.net/post/2023/03/18/Mock-toi-moins)
 <!-- BLOG-POST-LIST:END -->
