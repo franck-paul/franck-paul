@@ -14,9 +14,9 @@
 ### Last news (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Tri et recyclage](https://open-time.net/post/2023/03/26/Tri-et-recyclage)
 - [Ça casse les coquilles](https://open-time.net/post/2023/03/25/Ca-casse-les-coquilles)
 - [Atoum et le système de fichier](https://open-time.net/post/2023/03/24/Atoum-et-le-systeme-de-fichier)
 - [J&#39;peux pas, j&#39;ai séminaire](https://open-time.net/post/2023/03/23/J-peux-pas-j-ai-seminaire)
 - [Dis tu pourrais faire…](https://open-time.net/post/2023/03/22/Dis-tu-pourrais-faire)
-- [Dimanche après-midi](https://open-time.net/post/2023/03/21/Dimanche-apres-midi)
 <!-- BLOG-POST-LIST:END -->
