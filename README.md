@@ -14,9 +14,9 @@
 ### Last news (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [C&#39;est dense](https://open-time.net/post/2023/04/02/C-est-dense)
 - [C&#39;est dommage](https://open-time.net/post/2023/04/01/C-est-dommage)
 - [C&#39;est signé](https://open-time.net/post/2023/03/31/C-est-signe)
 - [C&#39;est emballé](https://open-time.net/post/2023/03/30/C-est-emballe)
 - [C&#39;est le plombier](https://open-time.net/post/2023/03/29/C-est-le-plombier)
-- [C&#39;est facile](https://open-time.net/post/2023/03/28/C-est-facile)
 <!-- BLOG-POST-LIST:END -->
