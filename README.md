@@ -14,9 +14,9 @@
 ### Last news (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [CSP côté public](https://open-time.net/post/2023/04/06/CSP-cote-public)
 - [Mozilla observatory](https://open-time.net/post/2023/04/05/Mozilla-observatory)
 - [Bug de l&#39;an 2038](https://open-time.net/post/2023/04/04/Bug-de-l-an-2038)
 - [Violence d&#39;état](https://open-time.net/post/2023/04/03/Violence-d-etat)
 - [C&#39;est dense](https://open-time.net/post/2023/04/02/C-est-dense)
-- [C&#39;est dommage](https://open-time.net/post/2023/04/01/C-est-dommage)
 <!-- BLOG-POST-LIST:END -->
