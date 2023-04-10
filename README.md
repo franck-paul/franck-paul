@@ -14,9 +14,9 @@
 ### Last news (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [De bonne foi](https://open-time.net/post/2023/04/10/De-bonne-foi)
 - [Désinstaller](https://open-time.net/post/2023/04/09/Desinstaller)
 - [Vie de château](https://open-time.net/post/2023/04/08/Vie-de-chateau)
 - [Pas de blues, Bro !](https://open-time.net/post/2023/04/07/Pas-de-blues-Bro-)
 - [CSP côté public](https://open-time.net/post/2023/04/06/CSP-cote-public)
-- [Mozilla observatory](https://open-time.net/post/2023/04/05/Mozilla-observatory)
 <!-- BLOG-POST-LIST:END -->
