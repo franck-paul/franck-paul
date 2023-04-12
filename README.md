@@ -14,9 +14,9 @@
 ### Last news (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Y&#39;en a encore](https://open-time.net/post/2023/04/12/Y-en-a-encore)
 - [Mock toi encore](https://open-time.net/post/2023/04/11/Mock-toi-encore)
 - [De bonne foi](https://open-time.net/post/2023/04/10/De-bonne-foi)
 - [Désinstaller](https://open-time.net/post/2023/04/09/Desinstaller)
 - [Vie de château](https://open-time.net/post/2023/04/08/Vie-de-chateau)
-- [Pas de blues, Bro !](https://open-time.net/post/2023/04/07/Pas-de-blues-Bro-)
 <!-- BLOG-POST-LIST:END -->
