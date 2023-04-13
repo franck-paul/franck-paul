@@ -14,9 +14,9 @@
 ### Last news (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Service-Public, c&#39;était mieux avant](https://open-time.net/post/2023/04/13/Service-Public-c-etait-mieux-avant)
 - [Y&#39;en a encore](https://open-time.net/post/2023/04/12/Y-en-a-encore)
 - [Mock toi encore](https://open-time.net/post/2023/04/11/Mock-toi-encore)
 - [De bonne foi](https://open-time.net/post/2023/04/10/De-bonne-foi)
 - [Désinstaller](https://open-time.net/post/2023/04/09/Desinstaller)
-- [Vie de château](https://open-time.net/post/2023/04/08/Vie-de-chateau)
 <!-- BLOG-POST-LIST:END -->
