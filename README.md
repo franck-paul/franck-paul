@@ -14,9 +14,9 @@
 ### Last news (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Trop optimiste](https://open-time.net/post/2023/04/16/Trop-optimiste)
 - [Quinze jours, déjà](https://open-time.net/post/2023/04/15/Quinze-jours-deja)
 - [C&#39;te feignasse](https://open-time.net/post/2023/04/14/C-te-feignasse)
 - [Service-Public, c&#39;était mieux avant](https://open-time.net/post/2023/04/13/Service-Public-c-etait-mieux-avant)
 - [Y&#39;en a encore](https://open-time.net/post/2023/04/12/Y-en-a-encore)
-- [Mock toi encore](https://open-time.net/post/2023/04/11/Mock-toi-encore)
 <!-- BLOG-POST-LIST:END -->
