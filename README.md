@@ -14,9 +14,9 @@
 ### Last news (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Être radical c&#39;est dangereux](https://open-time.net/post/2023/04/18/Etre-radical-c-est-dangereux)
 - [Point Hal](https://open-time.net/post/2023/04/17/Point-Hal)
 - [Trop optimiste](https://open-time.net/post/2023/04/16/Trop-optimiste)
 - [Quinze jours, déjà](https://open-time.net/post/2023/04/15/Quinze-jours-deja)
 - [C&#39;te feignasse](https://open-time.net/post/2023/04/14/C-te-feignasse)
-- [Service-Public, c&#39;était mieux avant](https://open-time.net/post/2023/04/13/Service-Public-c-etait-mieux-avant)
 <!-- BLOG-POST-LIST:END -->
