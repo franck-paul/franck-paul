@@ -14,9 +14,9 @@
 ### Last news (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Un schéma vaut dix-mille mots, à peu près](https://open-time.net/post/2023/04/19/Un-schema-vaut-dix-mille-mots-a-peu-pres)
 - [Être radical c&#39;est dangereux](https://open-time.net/post/2023/04/18/Etre-radical-c-est-dangereux)
 - [Point Hal](https://open-time.net/post/2023/04/17/Point-Hal)
 - [Trop optimiste](https://open-time.net/post/2023/04/16/Trop-optimiste)
 - [Quinze jours, déjà](https://open-time.net/post/2023/04/15/Quinze-jours-deja)
-- [C&#39;te feignasse](https://open-time.net/post/2023/04/14/C-te-feignasse)
 <!-- BLOG-POST-LIST:END -->
