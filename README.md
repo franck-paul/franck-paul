@@ -14,9 +14,9 @@
 ### Last news (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Ça s&#39;améliore](https://open-time.net/post/2023/04/21/Ca-s-ameliore)
 - [Administration idéale](https://open-time.net/post/2023/04/20/Administration-ideale)
 - [Un schéma vaut dix-mille mots, à peu près](https://open-time.net/post/2023/04/19/Un-schema-vaut-dix-mille-mots-a-peu-pres)
 - [Être radical c&#39;est dangereux](https://open-time.net/post/2023/04/18/Etre-radical-c-est-dangereux)
 - [Point Hal](https://open-time.net/post/2023/04/17/Point-Hal)
-- [Trop optimiste](https://open-time.net/post/2023/04/16/Trop-optimiste)
 <!-- BLOG-POST-LIST:END -->
