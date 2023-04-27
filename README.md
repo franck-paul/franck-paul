@@ -14,9 +14,9 @@
 ### Last news (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Tango du code](https://open-time.net/post/2023/04/27/Tango-du-code)
 - [Le temps du muguet](https://open-time.net/post/2023/04/26/Le-temps-du-muguet)
 - [Première balade nucléaire](https://open-time.net/post/2023/04/25/Premiere-balade-nucleaire)
 - [Dreams](https://open-time.net/post/2023/04/24/Dreams)
 - [Petit plaisir](https://open-time.net/post/2023/04/23/Petit-plaisir)
-- [Support](https://open-time.net/post/2023/04/22/Support)
 <!-- BLOG-POST-LIST:END -->
