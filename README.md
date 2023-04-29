@@ -14,9 +14,9 @@
 ### Last news (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [La longue marche](https://open-time.net/post/2023/04/29/La-longue-marche)
 - [Liu kuo-Sung](https://open-time.net/post/2023/04/28/Liu-kuo-Sung)
 - [Tango du code](https://open-time.net/post/2023/04/27/Tango-du-code)
 - [Le temps du muguet](https://open-time.net/post/2023/04/26/Le-temps-du-muguet)
 - [Première balade nucléaire](https://open-time.net/post/2023/04/25/Premiere-balade-nucleaire)
-- [Dreams](https://open-time.net/post/2023/04/24/Dreams)
 <!-- BLOG-POST-LIST:END -->
