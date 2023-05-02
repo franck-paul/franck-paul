@@ -14,9 +14,9 @@
 ### Last news (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Oh ben ça alors !](https://open-time.net/post/2023/05/02/Oh-ben-ca-alors-)
 - [À propos de longue marche](https://open-time.net/post/2023/05/01/A-propos-de-longue-marche)
 - [Les joies du…, ah non, les affres du bricolage](https://open-time.net/post/2023/04/30/Les-joies-du-ah-non-les-affres-du-bricolage)
 - [La longue marche](https://open-time.net/post/2023/04/29/La-longue-marche)
 - [Liu kuo-Sung](https://open-time.net/post/2023/04/28/Liu-kuo-Sung)
-- [Tango du code](https://open-time.net/post/2023/04/27/Tango-du-code)
 <!-- BLOG-POST-LIST:END -->
