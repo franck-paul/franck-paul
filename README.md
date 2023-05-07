@@ -14,9 +14,9 @@
 ### Last news (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Sélectionner](https://open-time.net/post/2023/05/07/Selectionner)
 - [Signer](https://open-time.net/post/2023/05/06/Signer)
 - [Montée](https://open-time.net/post/2023/05/05/Montee)
 - [Préparer sa valise](https://open-time.net/post/2023/05/04/Preparer-sa-valise)
 - [Calme et tranquilité](https://open-time.net/post/2023/05/03/Calme-et-tranquilite)
-- [Oh ben ça alors !](https://open-time.net/post/2023/05/02/Oh-ben-ca-alors-)
 <!-- BLOG-POST-LIST:END -->
