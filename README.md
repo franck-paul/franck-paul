@@ -14,9 +14,9 @@
 ### Last news (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Redescendre](https://open-time.net/post/2023/05/09/Redescendre)
 - [Journée off](https://open-time.net/post/2023/05/08/Journee-off)
 - [Sélectionner](https://open-time.net/post/2023/05/07/Selectionner)
 - [Signer](https://open-time.net/post/2023/05/06/Signer)
 - [Montée](https://open-time.net/post/2023/05/05/Montee)
-- [Préparer sa valise](https://open-time.net/post/2023/05/04/Preparer-sa-valise)
 <!-- BLOG-POST-LIST:END -->
