@@ -14,9 +14,9 @@
 ### Last news (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Agirc-Arrco et les formulaires maudits](https://open-time.net/post/2023/05/12/Agirc-Arrco-et-les-formulaires-maudits)
 - [Lithium](https://open-time.net/post/2023/05/11/Lithium)
 - [Modèle de plugin](https://open-time.net/post/2023/05/10/Modele-de-plugin)
 - [Redescendre](https://open-time.net/post/2023/05/09/Redescendre)
 - [Journée off](https://open-time.net/post/2023/05/08/Journee-off)
-- [Sélectionner](https://open-time.net/post/2023/05/07/Selectionner)
 <!-- BLOG-POST-LIST:END -->
