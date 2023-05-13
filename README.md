@@ -14,9 +14,9 @@
 ### Last news (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Le Crédit Mutuel de Bretagne et les démarches maudites](https://open-time.net/post/2023/05/13/Le-Credit-Mutuel-de-Bretagne-et-les-demarches-maudites)
 - [Agirc-Arrco et les formulaires maudits](https://open-time.net/post/2023/05/12/Agirc-Arrco-et-les-formulaires-maudits)
 - [Lithium](https://open-time.net/post/2023/05/11/Lithium)
 - [Modèle de plugin](https://open-time.net/post/2023/05/10/Modele-de-plugin)
 - [Redescendre](https://open-time.net/post/2023/05/09/Redescendre)
-- [Journée off](https://open-time.net/post/2023/05/08/Journee-off)
 <!-- BLOG-POST-LIST:END -->
