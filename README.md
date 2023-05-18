@@ -14,9 +14,9 @@
 ### Last news (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Release de plugin](https://open-time.net/post/2023/05/18/Release-de-plugin)
 - [Billet rapide](https://open-time.net/post/2023/05/17/Billet-rapide)
 - [Biclou party](https://open-time.net/post/2023/05/16/Biclou-party)
 - [Layout](https://open-time.net/post/2023/05/15/Layout)
 - [Github action](https://open-time.net/post/2023/05/14/Github-action)
-- [Le Crédit Mutuel de Bretagne et les démarches maudites](https://open-time.net/post/2023/05/13/Le-Credit-Mutuel-de-Bretagne-et-les-demarches-maudites)
 <!-- BLOG-POST-LIST:END -->
