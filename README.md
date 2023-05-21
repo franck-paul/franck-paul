@@ -14,9 +14,9 @@
 ### Last news (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Administration idéale, suite](https://open-time.net/post/2023/05/21/Administration-id%C3%A9ale%2C-suite)
 - [I did it again!](https://open-time.net/post/2023/05/20/I-did-it-again)
 - [Une de plus](https://open-time.net/post/2023/05/19/Une-de-plus)
 - [Release de plugin](https://open-time.net/post/2023/05/18/Release-de-plugin)
 - [Billet rapide](https://open-time.net/post/2023/05/17/Billet-rapide)
-- [Biclou party](https://open-time.net/post/2023/05/16/Biclou-party)
 <!-- BLOG-POST-LIST:END -->
