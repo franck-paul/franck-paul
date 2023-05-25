@@ -14,9 +14,9 @@
 ### Last news (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [One click only](https://open-time.net/post/2023/05/25/One-click-only)
 - [Positionnement de bloc média](https://open-time.net/post/2023/05/24/Positionnement-de-bloc-m%C3%A9dia)
 - [Expérimentation](https://open-time.net/post/2023/05/23/Exp%C3%A9rimentation)
 - [One clic only](https://open-time.net/post/2023/05/22/One-clic-only)
 - [Administration idéale, suite](https://open-time.net/post/2023/05/21/Administration-id%C3%A9ale%2C-suite)
-- [I did it again!](https://open-time.net/post/2023/05/20/I-did-it-again)
 <!-- BLOG-POST-LIST:END -->
