@@ -14,9 +14,9 @@
 ### Last news (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Mesh mesh mesh](https://open-time.net/post/2023/05/28/Mesh-mesh-mesh)
 - [Amélioration progressive](https://open-time.net/post/2023/05/27/Am%C3%A9lioration-progressive)
 - [Moi j&#39;voulais pas, en fait](https://open-time.net/post/2023/05/26/Moi-j-voulais-pas%2C-en-fait)
 - [One click only](https://open-time.net/post/2023/05/25/One-click-only)
 - [Positionnement de bloc média](https://open-time.net/post/2023/05/24/Positionnement-de-bloc-m%C3%A9dia)
-- [Expérimentation](https://open-time.net/post/2023/05/23/Exp%C3%A9rimentation)
 <!-- BLOG-POST-LIST:END -->
