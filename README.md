@@ -14,9 +14,9 @@
 ### Last news (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Notules non diplomatiques n° 21](https://open-time.net/post/2023/05/31/Notules-non-diplomatiques-n%C2%B0-21)
 - [Une culture qui se tient sage](https://open-time.net/post/2023/05/30/Une-culture-qui-se-tient-sage)
 - [Le rapport au temps](https://open-time.net/post/2023/05/29/Le-rapport-au-temps)
 - [Mesh mesh mesh](https://open-time.net/post/2023/05/28/Mesh-mesh-mesh)
 - [Amélioration progressive](https://open-time.net/post/2023/05/27/Am%C3%A9lioration-progressive)
-- [Moi j&#39;voulais pas, en fait](https://open-time.net/post/2023/05/26/Moi-j-voulais-pas%2C-en-fait)
 <!-- BLOG-POST-LIST:END -->
