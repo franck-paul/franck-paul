@@ -14,9 +14,9 @@
 ### Last news (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Accessibilité et spontanéité ne font pas bon ménage](https://open-time.net/post/2023/06/03/Accessibilit%C3%A9-et-spontan%C3%A9it%C3%A9-ne-font-pas-bon-m%C3%A9nage)
 - [jeudi 1 juin 2023](https://open-time.net/post/2023/06/02/jeudi-1-juin-2023)
 - [Les ambitions repoussées](https://open-time.net/post/2023/06/01/Les-ambitions-repouss%C3%A9es)
 - [Notules non diplomatiques n° 21](https://open-time.net/post/2023/05/31/Notules-non-diplomatiques-n%C2%B0-21)
 - [Une culture qui se tient sage](https://open-time.net/post/2023/05/30/Une-culture-qui-se-tient-sage)
-- [Le rapport au temps](https://open-time.net/post/2023/05/29/Le-rapport-au-temps)
 <!-- BLOG-POST-LIST:END -->
