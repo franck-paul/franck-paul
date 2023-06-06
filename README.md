@@ -14,9 +14,9 @@
 ### Last news (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Par petites touches](https://open-time.net/post/2023/06/06/Par-petites-touches)
 - [Attention !](https://open-time.net/post/2023/06/05/Attention-%21)
 - [Le doigt dans l&#39;engrenage](https://open-time.net/post/2023/06/04/Le-doigt-dans-l-engrenage)
 - [Accessibilité et spontanéité ne font pas bon ménage](https://open-time.net/post/2023/06/03/Accessibilit%C3%A9-et-spontan%C3%A9it%C3%A9-ne-font-pas-bon-m%C3%A9nage)
 - [jeudi 1 juin 2023](https://open-time.net/post/2023/06/02/jeudi-1-juin-2023)
-- [Les ambitions repoussées](https://open-time.net/post/2023/06/01/Les-ambitions-repouss%C3%A9es)
 <!-- BLOG-POST-LIST:END -->
