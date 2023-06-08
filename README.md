@@ -14,9 +14,9 @@
 ### Last news (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [On savait rire](https://open-time.net/post/2023/06/08/On-savait-rire)
 - [C&#39;est pas tout ça](https://open-time.net/post/2023/06/07/C-est-pas-tout-%C3%A7a)
 - [Par petites touches](https://open-time.net/post/2023/06/06/Par-petites-touches)
 - [Attention !](https://open-time.net/post/2023/06/05/Attention-%21)
 - [Le doigt dans l&#39;engrenage](https://open-time.net/post/2023/06/04/Le-doigt-dans-l-engrenage)
-- [Accessibilité et spontanéité ne font pas bon ménage](https://open-time.net/post/2023/06/03/Accessibilit%C3%A9-et-spontan%C3%A9it%C3%A9-ne-font-pas-bon-m%C3%A9nage)
 <!-- BLOG-POST-LIST:END -->
