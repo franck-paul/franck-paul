@@ -14,9 +14,9 @@
 ### Last news (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Traduction automagique](https://open-time.net/post/2023/06/13/Traduction-automagique)
 - [Militant et politique](https://open-time.net/post/2023/06/12/Militant-et-politique)
 - [Poubelle](https://open-time.net/post/2023/06/11/Poubelle)
 - [Historique](https://open-time.net/post/2023/06/10/Historique)
 - [Les effets de bord](https://open-time.net/post/2023/06/09/Les-effets-de-bord)
-- [On savait rire](https://open-time.net/post/2023/06/08/On-savait-rire)
 <!-- BLOG-POST-LIST:END -->
