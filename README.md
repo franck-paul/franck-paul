@@ -14,9 +14,9 @@
 ### Last news (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [24 ans](https://open-time.net/post/2023/06/16/24-ans)
 - [No bullshit](https://open-time.net/post/2023/06/15/No-bullshit)
 - [Passerelle SkyConnect pour Home Assist](https://open-time.net/post/2023/06/14/Passerelle-SkyConnect-pour-Home-Assist)
 - [Traduction automagique](https://open-time.net/post/2023/06/13/Traduction-automagique)
 - [Militant et politique](https://open-time.net/post/2023/06/12/Militant-et-politique)
-- [Poubelle](https://open-time.net/post/2023/06/11/Poubelle)
 <!-- BLOG-POST-LIST:END -->
