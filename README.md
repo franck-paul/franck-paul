@@ -14,9 +14,9 @@
 ### Last news (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Zone blanche](https://open-time.net/post/2023/06/19/Zone-blanche)
 - [Next phase](https://open-time.net/post/2023/06/18/Next-phase)
 - [Au suivant](https://open-time.net/post/2023/06/17/Au-suivant)
 - [24 ans](https://open-time.net/post/2023/06/16/24-ans)
 - [No bullshit](https://open-time.net/post/2023/06/15/No-bullshit)
-- [Passerelle SkyConnect pour Home Assist](https://open-time.net/post/2023/06/14/Passerelle-SkyConnect-pour-Home-Assist)
 <!-- BLOG-POST-LIST:END -->
