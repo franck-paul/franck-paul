@@ -14,9 +14,9 @@
 ### Last news (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Points d&#39;entrée dans Dotclear](https://open-time.net/post/2023/06/20/Points-d-entr%C3%A9e-dans-Dotclear)
 - [Zone blanche](https://open-time.net/post/2023/06/19/Zone-blanche)
 - [Next phase](https://open-time.net/post/2023/06/18/Next-phase)
 - [Au suivant](https://open-time.net/post/2023/06/17/Au-suivant)
 - [24 ans](https://open-time.net/post/2023/06/16/24-ans)
-- [No bullshit](https://open-time.net/post/2023/06/15/No-bullshit)
 <!-- BLOG-POST-LIST:END -->
