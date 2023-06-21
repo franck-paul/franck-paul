@@ -14,9 +14,9 @@
 ### Last news (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [ToDo list pour la 2.27](https://open-time.net/post/2023/06/21/ToDo-list-pour-la-2.27)
 - [Bon, j&#39;ai un peu tourné ça dans tous les sens](https://open-time.net/post/2023/06/20/Bon%2C-j-ai-un-peu-tourn%C3%A9-%C3%A7a-dans-tous-les-sens)
 - [Points d&#39;entrée dans Dotclear](https://open-time.net/post/2023/06/20/Points-d-entr%C3%A9e-dans-Dotclear)
 - [Zone blanche](https://open-time.net/post/2023/06/19/Zone-blanche)
 - [Next phase](https://open-time.net/post/2023/06/18/Next-phase)
-- [Au suivant](https://open-time.net/post/2023/06/17/Au-suivant)
 <!-- BLOG-POST-LIST:END -->
