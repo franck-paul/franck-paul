@@ -14,9 +14,9 @@
 ### Last news (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Les IDE ne sont pas finauds](https://open-time.net/post/2023/06/27/Les-IDE-ne-sont-pas-finauds)
 - [Satisfaction](https://open-time.net/post/2023/06/26/Satisfaction)
 - [Notules non diplomatiques n° 22](https://open-time.net/post/2023/06/25/Notules-non-diplomatiques-n%C2%B0-22)
 - [Finalement la classe](https://open-time.net/post/2023/06/24/Finalement-la-classe)
 - [De droite à gauche](https://open-time.net/post/2023/06/23/De-droite-%C3%A0-gauche)
-- [Table responsive](https://open-time.net/post/2023/06/22/Table-responsive)
 <!-- BLOG-POST-LIST:END -->
