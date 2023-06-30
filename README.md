@@ -14,9 +14,9 @@
 ### Last news (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Les fils de Zéro Un](https://open-time.net/post/2023/06/30/Les-fils-de-Z%C3%A9ro-Un)
+- [Il n&#39;était que](https://open-time.net/post/2023/06/30/Il-n-%C3%A9tait-que)
 - [Virée n° 2](https://open-time.net/post/2023/06/29/Vir%C3%A9e-n%C2%B0-2)
 - [Virée](https://open-time.net/post/2023/06/28/Vir%C3%A9e)
 - [Les IDE ne sont pas finauds](https://open-time.net/post/2023/06/27/Les-IDE-ne-sont-pas-finauds)
-- [Satisfaction](https://open-time.net/post/2023/06/26/Satisfaction)
-- [Notules non diplomatiques n° 22](https://open-time.net/post/2023/06/25/Notules-non-diplomatiques-n%C2%B0-22)
 <!-- BLOG-POST-LIST:END -->
