@@ -14,9 +14,9 @@
 ### Last news (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Threads, un thread](https://open-time.net/post/2023/07/06/Thread%2C-un-thread)
 - [Fast delivery](https://open-time.net/post/2023/07/05/Fast-delivery)
 - [Ceci est bidon](https://open-time.net/post/2023/07/04/Ceci-est-bidon)
 - [Ça me titillait](https://open-time.net/post/2023/07/03/%C3%87a-me-titillait)
 - [Porte-étendard politique](https://open-time.net/post/2023/06/02/Porte-%C3%A9tendard-politique)
-- [Il va falloir que je me discipline](https://open-time.net/post/2023/07/01/Il-va-falloir-que-me-discipline)
 <!-- BLOG-POST-LIST:END -->
