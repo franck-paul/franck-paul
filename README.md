@@ -14,9 +14,9 @@
 ### Last news (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [La soupe était &lpar;pas&rpar; bonne](https://open-time.net/post/2023/07/12/La-soupe-%C3%A9tait-%28pas%29-bonne)
 - [Ajouter un bouton « Retour en haut »](https://open-time.net/post/2023/07/11/Ajouter-un-bouton-%C2%AB-Retour-en-haut-%C2%BB)
 - [Dans moins d&#39;un mois](https://open-time.net/post/2023/07/10/Dans-moins-d-un-mois)
 - [Double branche](https://open-time.net/post/2023/07/09/Double-branche)
 - [Et hop, à la poubelle](https://open-time.net/post/2023/07/08/Et-hop%2C-%C3%A0-la-poubelle)
-- [Rector par çi, Rector par là](https://open-time.net/post/2023/07/07/Rector-par-%C3%A7i%2C-Rector-par-l%C3%A0)
 <!-- BLOG-POST-LIST:END -->
