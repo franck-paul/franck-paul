@@ -14,9 +14,9 @@
 ### Last news (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Et hop, un de moins](https://open-time.net/post/2023/07/17/Et-hop-un-de-moins)
 - [Le premier du mois](https://open-time.net/post/2023/07/16/Le-premier-du-mois)
 - [Obsolescence programmée](https://open-time.net/post/2023/07/15/Obsolescence-programmee)
 - [Ennui](https://open-time.net/post/2023/07/14/Ennui)
 - [Go moto](https://open-time.net/post/2023/07/13/Go-moto)
-- [La soupe était &lpar;pas&rpar; bonne](https://open-time.net/post/2023/07/12/La-soupe-%C3%A9tait-%28pas%29-bonne)
 <!-- BLOG-POST-LIST:END -->
