@@ -14,9 +14,9 @@
 ### Last news (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Ta gueule !](https://open-time.net/post/2023/07/19/Ta-gueule-)
 - [Tranquille](https://open-time.net/post/2023/07/18/Tranquille)
 - [Et hop, un de moins](https://open-time.net/post/2023/07/17/Et-hop-un-de-moins)
 - [Le premier du mois](https://open-time.net/post/2023/07/16/Le-premier-du-mois)
 - [Obsolescence programmée](https://open-time.net/post/2023/07/15/Obsolescence-programmee)
-- [Ennui](https://open-time.net/post/2023/07/14/Ennui)
 <!-- BLOG-POST-LIST:END -->
