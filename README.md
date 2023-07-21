@@ -14,9 +14,9 @@
 ### Last news (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Phoque](https://open-time.net/post/2023/07/21/Phoque)
 - [Cinq ans plus tard](https://open-time.net/post/2023/07/20/Cinq-ans-plus-tard)
 - [Ta gueule !](https://open-time.net/post/2023/07/19/Ta-gueule-)
 - [Tranquille](https://open-time.net/post/2023/07/18/Tranquille)
 - [Et hop, un de moins](https://open-time.net/post/2023/07/17/Et-hop-un-de-moins)
-- [Le premier du mois](https://open-time.net/post/2023/07/16/Le-premier-du-mois)
 <!-- BLOG-POST-LIST:END -->
