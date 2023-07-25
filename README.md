@@ -14,9 +14,9 @@
 ### Last news (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Au programme](https://open-time.net/post/2023/07/25/Au-programme)
 - [Parfois je me demande](https://open-time.net/post/2023/07/24/Parfois-je-me-demande)
 - [Panoramique](https://open-time.net/post/2023/07/23/Panoramique)
 - [Un peu de fraîcheur](https://open-time.net/post/2023/07/22/Un-peu-de-fraicheur)
 - [Phoque](https://open-time.net/post/2023/07/21/Phoque)
-- [Cinq ans plus tard](https://open-time.net/post/2023/07/20/Cinq-ans-plus-tard)
 <!-- BLOG-POST-LIST:END -->
