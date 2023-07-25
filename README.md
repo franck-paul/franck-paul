@@ -14,9 +14,9 @@
 ### Last news (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [À garder dans sa barre d&#39;outils ou de favoris](https://open-time.net/post/2023/07/25/A-garder-dans-sa-barre-d-outils-ou-de-favoris)
 - [Au programme](https://open-time.net/post/2023/07/25/Au-programme)
 - [Parfois je me demande](https://open-time.net/post/2023/07/24/Parfois-je-me-demande)
 - [Panoramique](https://open-time.net/post/2023/07/23/Panoramique)
 - [Un peu de fraîcheur](https://open-time.net/post/2023/07/22/Un-peu-de-fraicheur)
-- [Phoque](https://open-time.net/post/2023/07/21/Phoque)
 <!-- BLOG-POST-LIST:END -->
