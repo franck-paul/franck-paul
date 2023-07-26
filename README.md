@@ -14,9 +14,9 @@
 ### Last news (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Notules non diplomatiques n° 23](https://open-time.net/post/2023/07/26/Notules-non-diplomatiques-n-23)
 - [À garder dans sa barre d&#39;outils ou de favoris](https://open-time.net/post/2023/07/25/A-garder-dans-sa-barre-d-outils-ou-de-favoris)
 - [Au programme](https://open-time.net/post/2023/07/25/Au-programme)
 - [Parfois je me demande](https://open-time.net/post/2023/07/24/Parfois-je-me-demande)
 - [Panoramique](https://open-time.net/post/2023/07/23/Panoramique)
-- [Un peu de fraîcheur](https://open-time.net/post/2023/07/22/Un-peu-de-fraicheur)
 <!-- BLOG-POST-LIST:END -->
