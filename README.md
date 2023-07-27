@@ -14,9 +14,9 @@
 ### Last news (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Arc spa des flèches](https://open-time.net/post/2023/07/27/Arc-spa-des-fleches)
 - [Notules non diplomatiques n° 23](https://open-time.net/post/2023/07/26/Notules-non-diplomatiques-n-23)
 - [À garder dans sa barre d&#39;outils ou de favoris](https://open-time.net/post/2023/07/25/A-garder-dans-sa-barre-d-outils-ou-de-favoris)
 - [Au programme](https://open-time.net/post/2023/07/25/Au-programme)
 - [Parfois je me demande](https://open-time.net/post/2023/07/24/Parfois-je-me-demande)
-- [Panoramique](https://open-time.net/post/2023/07/23/Panoramique)
 <!-- BLOG-POST-LIST:END -->
