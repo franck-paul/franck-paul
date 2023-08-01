@@ -14,9 +14,9 @@
 ### Last news (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Hop hop hop](https://open-time.net/post/2023/08/01/Hop-hop-hop)
 - [J&#39;entends la mer](https://open-time.net/post/2023/07/31/J-entends-la-mer)
 - [Tab](https://open-time.net/post/2023/07/30/Tab)
 - [Enlarge your wideness](https://open-time.net/post/2023/07/29/Enlarge-your-wideness)
 - [Bruime](https://open-time.net/post/2023/07/28/Bruime)
-- [Arc spa des flèches](https://open-time.net/post/2023/07/27/Arc-spa-des-fleches)
 <!-- BLOG-POST-LIST:END -->
