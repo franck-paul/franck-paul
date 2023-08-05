@@ -14,9 +14,9 @@
 ### Last news (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Assis](https://open-time.net/post/2023/08/05/Assis)
 - [On s&#39;en tape ?](https://open-time.net/post/2023/08/04/On-s-en-tape)
 - [Depuis quand ?](https://open-time.net/post/2023/08/03/Depuis-quand)
 - [Bien dégagé](https://open-time.net/post/2023/08/02/Bien-degage)
 - [Hop hop hop](https://open-time.net/post/2023/08/01/Hop-hop-hop)
-- [J&#39;entends la mer](https://open-time.net/post/2023/07/31/J-entends-la-mer)
 <!-- BLOG-POST-LIST:END -->
