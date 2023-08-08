@@ -14,9 +14,9 @@
 ### Last news (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Notules non diplomatiques n° 24](https://open-time.net/post/2023/08/08/Notules-non-diplomatiques-n-24)
 - [Retro-planning](https://open-time.net/post/2023/08/07/Retro-planning)
 - [Open-Source](https://open-time.net/post/2023/08/06/Open-Source)
 - [Assis](https://open-time.net/post/2023/08/05/Assis)
 - [On s&#39;en tape ?](https://open-time.net/post/2023/08/04/On-s-en-tape)
-- [Depuis quand ?](https://open-time.net/post/2023/08/03/Depuis-quand)
 <!-- BLOG-POST-LIST:END -->
