@@ -14,9 +14,9 @@
 ### Last news (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Sometimes shit happens](https://open-time.net/post/2023/08/14/Sometimes-shit-happens)
 - [20 ans](https://open-time.net/post/2023/08/13/20-ans)
 - [Ouacances](https://open-time.net/post/2023/08/12/Ouacances)
 - [Batterie](https://open-time.net/post/2023/08/11/Batterie)
 - [Put@in de navette](https://open-time.net/post/2023/08/10/Putin-de-navette)
-- [Du nom d&#39;usage](https://open-time.net/post/2023/08/09/Du-nom-d-usage)
 <!-- BLOG-POST-LIST:END -->
