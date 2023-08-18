@@ -14,9 +14,9 @@
 ### Last news (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [La malédiction des plateaux et des planches gui glissent](https://open-time.net/post/2023/08/18/La-malediction-des-plateaux-et-des-planches-gui-glissent)
 - [Vous l&#39;avez ?](https://open-time.net/post/2023/08/17/Vous-l-avez)
 - [Dotclear Watch](https://open-time.net/post/2023/08/16/Dotclear-Watch)
 - [La dernière séance](https://open-time.net/post/2023/08/15/La-derniere-seance)
 - [Sometimes shit happens](https://open-time.net/post/2023/08/14/Sometimes-shit-happens)
-- [20 ans](https://open-time.net/post/2023/08/13/20-ans)
 <!-- BLOG-POST-LIST:END -->
