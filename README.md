@@ -14,9 +14,9 @@
 ### Last news (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Planning n° 2](https://open-time.net/post/2023/08/22/Planning-n-2)
 - [Planning](https://open-time.net/post/2023/08/21/Planning)
 - [Balance](https://open-time.net/post/2023/08/20/Balance)
 - [Des vertus capitales](https://open-time.net/post/2023/08/19/Des-vertus-capitales)
 - [La malédiction des plateaux et des planches gui glissent](https://open-time.net/post/2023/08/18/La-malediction-des-plateaux-et-des-planches-gui-glissent)
-- [Vous l&#39;avez ?](https://open-time.net/post/2023/08/17/Vous-l-avez)
 <!-- BLOG-POST-LIST:END -->
