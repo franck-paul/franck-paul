@@ -14,9 +14,9 @@
 ### Last news (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Ça a secoué](https://open-time.net/post/2023/09/05/Ca-a-secoue)
 - [Swallow shadows](https://open-time.net/post/2023/09/04/Swallow-shadows)
 - [Étale](https://open-time.net/post/2023/09/03/Etale)
 - [Marée descendante](https://open-time.net/post/2023/09/02/Maree-descendante)
 - [RERO](https://open-time.net/post/2023/09/01/RERO)
-- [Tendance metallique](https://open-time.net/post/2023/08/31/Tendance-metallique)
 <!-- BLOG-POST-LIST:END -->
