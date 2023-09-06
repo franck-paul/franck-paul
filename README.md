@@ -14,9 +14,9 @@
 ### Last news (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Nouvelle tentative d&#39;étalement de mer](https://open-time.net/post/2023/09/06/Nouvelle-tentative-d-etalement-de-mer)
 - [Ça a secoué](https://open-time.net/post/2023/09/05/Ca-a-secoue)
 - [Swallow shadows](https://open-time.net/post/2023/09/04/Swallow-shadows)
 - [Étale](https://open-time.net/post/2023/09/03/Etale)
 - [Marée descendante](https://open-time.net/post/2023/09/02/Maree-descendante)
-- [RERO](https://open-time.net/post/2023/09/01/RERO)
 <!-- BLOG-POST-LIST:END -->
