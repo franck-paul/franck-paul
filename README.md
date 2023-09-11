@@ -14,9 +14,9 @@
 ### Last news (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Air de vacances](https://open-time.net/post/2023/09/11/Air-de-vacances)
 - [Petit matin bigouden](https://open-time.net/post/2023/09/10/Petit-matin-bigouden)
 - [Custom theme](https://open-time.net/post/2023/09/09/Custom-theme)
 - [Et si ?](https://open-time.net/post/2023/09/08/Et-si)
 - [Solide](https://open-time.net/post/2023/09/07/Solide)
-- [Nouvelle tentative d&#39;étalement de mer](https://open-time.net/post/2023/09/06/Nouvelle-tentative-d-etalement-de-mer)
 <!-- BLOG-POST-LIST:END -->
