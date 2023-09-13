@@ -14,9 +14,9 @@
 ### Last news (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [J&#39;ai roulé](https://open-time.net/post/2023/09/13/J-ai-roule)
 - [La frise](https://open-time.net/post/2023/09/12/La-frise)
 - [Air de vacances](https://open-time.net/post/2023/09/11/Air-de-vacances)
 - [Petit matin bigouden](https://open-time.net/post/2023/09/10/Petit-matin-bigouden)
 - [Custom theme](https://open-time.net/post/2023/09/09/Custom-theme)
-- [Et si ?](https://open-time.net/post/2023/09/08/Et-si)
 <!-- BLOG-POST-LIST:END -->
