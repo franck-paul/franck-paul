@@ -14,9 +14,9 @@
 ### Last news (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Trois semaines](https://open-time.net/post/2023/09/15/Trois-semaines)
 - [Y&#39;a pas de raison](https://open-time.net/post/2023/09/14/Y-a-pas-de-raison)
 - [J&#39;ai roulé](https://open-time.net/post/2023/09/13/J-ai-roule)
 - [La frise](https://open-time.net/post/2023/09/12/La-frise)
 - [Air de vacances](https://open-time.net/post/2023/09/11/Air-de-vacances)
-- [Petit matin bigouden](https://open-time.net/post/2023/09/10/Petit-matin-bigouden)
 <!-- BLOG-POST-LIST:END -->
