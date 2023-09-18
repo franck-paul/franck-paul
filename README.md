@@ -14,9 +14,9 @@
 ### Last news (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Notules non diplomatiques n° 25](https://open-time.net/post/2023/09/18/Notules-non-diplomatiques-n-25)
 - [Les boulettes](https://open-time.net/post/2023/09/17/Les-boulettes)
 - [J&#39;ai encore roulé](https://open-time.net/post/2023/09/16/J-ai-encore-roule)
 - [Trois semaines](https://open-time.net/post/2023/09/15/Trois-semaines)
 - [Y&#39;a pas de raison](https://open-time.net/post/2023/09/14/Y-a-pas-de-raison)
-- [J&#39;ai roulé](https://open-time.net/post/2023/09/13/J-ai-roule)
 <!-- BLOG-POST-LIST:END -->
