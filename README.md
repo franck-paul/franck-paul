@@ -14,9 +14,9 @@
 ### Last news (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Question de présentation](https://open-time.net/post/2023/09/22/Question-de-presentation)
 - [Mazette](https://open-time.net/post/2023/09/21/Mazette)
 - [Vacciné et masqué](https://open-time.net/post/2023/09/20/Vaccine-et-masque)
 - [You&#39;re not supposed to feel happy all the time](https://open-time.net/post/2023/09/19/You-re-not-supposed-to-feel-happy-all-the-time)
 - [Notules non diplomatiques n° 25](https://open-time.net/post/2023/09/18/Notules-non-diplomatiques-n-25)
-- [Les boulettes](https://open-time.net/post/2023/09/17/Les-boulettes)
 <!-- BLOG-POST-LIST:END -->
