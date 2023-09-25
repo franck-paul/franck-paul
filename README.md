@@ -14,9 +14,9 @@
 ### Last news (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Code off](https://open-time.net/post/2023/09/25/Code-off)
 - [Tiens tiens](https://open-time.net/post/2023/09/24/Tiens-tiens)
 - [Et hop](https://open-time.net/post/2023/09/23/Et-hop)
 - [Question de présentation](https://open-time.net/post/2023/09/22/Question-de-presentation)
 - [Mazette](https://open-time.net/post/2023/09/21/Mazette)
-- [Vacciné et masqué](https://open-time.net/post/2023/09/20/Vaccine-et-masque)
 <!-- BLOG-POST-LIST:END -->
