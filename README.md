@@ -14,9 +14,9 @@
 ### Last news (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Jeudi](https://open-time.net/post/2023/09/28/Jeudi)
 - [Mercredi](https://open-time.net/post/2023/09/27/Mercredi)
 - [Mardi](https://open-time.net/post/2023/09/26/Mardi)
 - [Code off](https://open-time.net/post/2023/09/25/Code-off)
 - [Tiens tiens](https://open-time.net/post/2023/09/24/Tiens-tiens)
-- [Et hop](https://open-time.net/post/2023/09/23/Et-hop)
 <!-- BLOG-POST-LIST:END -->
