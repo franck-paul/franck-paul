@@ -14,9 +14,9 @@
 ### Last news (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Matin](https://open-time.net/post/2023/10/04/Matin)
 - [Décalqué](https://open-time.net/post/2023/10/03/Decalque)
 - [Lundi](https://open-time.net/post/2023/10/02/Lundi)
 - [Dimanche](https://open-time.net/post/2023/10/01/Dimanche)
 - [Samedi](https://open-time.net/post/2023/09/30/Samedi)
-- [Vendredi](https://open-time.net/post/2023/09/29/Vendredi)
 <!-- BLOG-POST-LIST:END -->
