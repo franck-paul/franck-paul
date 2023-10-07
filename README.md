@@ -14,9 +14,9 @@
 ### Last news (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Et je remets le son](https://open-time.net/post/2023/10/07/Et-je-remets-le-son)
 - [Midi](https://open-time.net/post/2023/10/06/Midi)
 - [Soir](https://open-time.net/post/2023/10/05/Soir)
 - [Matin](https://open-time.net/post/2023/10/04/Matin)
 - [Décalqué](https://open-time.net/post/2023/10/03/Decalque)
-- [Lundi](https://open-time.net/post/2023/10/02/Lundi)
 <!-- BLOG-POST-LIST:END -->
