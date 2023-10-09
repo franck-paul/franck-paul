@@ -14,9 +14,9 @@
 ### Last news (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Les oies sauvages](https://open-time.net/post/2023/10/09/Les-oies-sauvages)
 - [Z](https://open-time.net/post/2023/10/08/Z)
 - [Et je remets le son](https://open-time.net/post/2023/10/07/Et-je-remets-le-son)
 - [Midi](https://open-time.net/post/2023/10/06/Midi)
 - [Soir](https://open-time.net/post/2023/10/05/Soir)
-- [Matin](https://open-time.net/post/2023/10/04/Matin)
 <!-- BLOG-POST-LIST:END -->
