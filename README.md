@@ -14,9 +14,9 @@
 ### Last news (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Vendredi 13](https://open-time.net/post/2023/10/13/Vendredi-13)
 - [Activité publique](https://open-time.net/post/2023/10/12/Activite-publique)
 - [Le grenadier décalé](https://open-time.net/post/2023/10/11/Le-grenadier-decale)
 - [Le jasmin maudit](https://open-time.net/post/2023/10/10/Le-jasmin-maudit)
 - [Les oies sauvages](https://open-time.net/post/2023/10/09/Les-oies-sauvages)
-- [Z](https://open-time.net/post/2023/10/08/Z)
 <!-- BLOG-POST-LIST:END -->
