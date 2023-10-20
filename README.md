@@ -14,9 +14,9 @@
 ### Last news (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [C&#39;était sale mais ça fonctionnait](https://open-time.net/post/2023/10/20/C-etait-sale-mais-ca-fonctionnait)
 - [Métier](https://open-time.net/post/2023/10/19/Metier)
 - [Devoir](https://open-time.net/post/2023/10/18/Devoir)
 - [Ciel chargé](https://open-time.net/post/2023/10/17/Ciel-charge)
 - [Le pendule](https://open-time.net/post/2023/10/16/Le-pendule)
-- [Ciel bleu](https://open-time.net/post/2023/10/15/Ciel-bleu)
 <!-- BLOG-POST-LIST:END -->
