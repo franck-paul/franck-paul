@@ -14,9 +14,9 @@
 ### Last news (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [La cuisson du maquereau dans la gastronomie chinoise](https://open-time.net/post/2023/10/22/La-cuisson-du-maquereau-dans-la-gastronomie-chinoise)
 - [Bulletin météo](https://open-time.net/post/2023/10/21/Bulletin-meteo)
 - [C&#39;était sale mais ça fonctionnait](https://open-time.net/post/2023/10/20/C-etait-sale-mais-ca-fonctionnait)
 - [Métier](https://open-time.net/post/2023/10/19/Metier)
 - [Devoir](https://open-time.net/post/2023/10/18/Devoir)
-- [Ciel chargé](https://open-time.net/post/2023/10/17/Ciel-charge)
 <!-- BLOG-POST-LIST:END -->
