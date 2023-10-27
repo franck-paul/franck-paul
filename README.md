@@ -14,9 +14,9 @@
 ### Last news (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Retard prévu](https://open-time.net/post/2023/10/27/Retard-prevu)
 - [Matin abricot](https://open-time.net/post/2023/10/26/Matin-abricot)
 - [Ca va casser](https://open-time.net/post/2023/10/25/Ca-va-casser)
 - [Contrôle technique](https://open-time.net/post/2023/10/24/Controle-technique)
 - [Temps de chien](https://open-time.net/post/2023/10/23/Temps-de-chien)
-- [La cuisson du maquereau dans la gastronomie chinoise](https://open-time.net/post/2023/10/22/La-cuisson-du-maquereau-dans-la-gastronomie-chinoise)
 <!-- BLOG-POST-LIST:END -->
