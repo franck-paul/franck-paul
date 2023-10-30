@@ -14,9 +14,9 @@
 ### Last news (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Il en reste encore](https://open-time.net/post/2023/10/30/Il-en-reste-encore)
 - [Une heure de pluie en plus](https://open-time.net/post/2023/10/29/Une-heure-de-pluie-en-plus)
 - [Flambée du matin éloigne le médecin](https://open-time.net/post/2023/10/28/Flambee-du-matin-eloigne-le-medecin)
 - [Retard prévu](https://open-time.net/post/2023/10/27/Retard-prevu)
 - [Matin abricot](https://open-time.net/post/2023/10/26/Matin-abricot)
-- [Ca va casser](https://open-time.net/post/2023/10/25/Ca-va-casser)
 <!-- BLOG-POST-LIST:END -->
