@@ -14,9 +14,9 @@
 ### Last news (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Neige](https://open-time.net/post/2023/11/05/Neige)
 - [Des fois le soleil se couche et c&#39;est beau](https://open-time.net/post/2023/11/04/Des-fois-le-soleil-se-couche-et-c-est-beau)
 - [Intermittence](https://open-time.net/post/2023/11/03/Intermittence)
 - [Léger mouvement d&#39;air](https://open-time.net/post/2023/11/02/Leger-mouvement-d-air)
 - [Les bonbons](https://open-time.net/post/2023/11/01/Les-bonbons)
-- [Notules non diplomatiques n° 26](https://open-time.net/post/2023/10/31/Notules-non-diplomatiques-n-26)
 <!-- BLOG-POST-LIST:END -->
