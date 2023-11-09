@@ -14,9 +14,9 @@
 ### Last news (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [M&#39;enfin ?](https://open-time.net/post/2023/11/09/M-enfin)
 - [Alors voilà](https://open-time.net/post/2023/11/08/Alors-voila)
 - [T&#39;en reveux, y&#39;en rena ?](https://open-time.net/post/2023/11/07/T-en-reveux-y-en-rena)
 - [Cache-cache](https://open-time.net/post/2023/11/06/Cache-cache)
 - [Neige](https://open-time.net/post/2023/11/05/Neige)
-- [Des fois le soleil se couche et c&#39;est beau](https://open-time.net/post/2023/11/04/Des-fois-le-soleil-se-couche-et-c-est-beau)
 <!-- BLOG-POST-LIST:END -->
