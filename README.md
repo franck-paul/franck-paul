@@ -14,9 +14,9 @@
 ### Last news (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Trente-huit tonnes](https://open-time.net/post/2023/11/11/Trente-huit-tonnes)
 - [Brève de train](https://open-time.net/post/2023/11/10/Breve-de-train)
 - [M&#39;enfin ?](https://open-time.net/post/2023/11/09/M-enfin)
 - [Alors voilà](https://open-time.net/post/2023/11/08/Alors-voila)
 - [T&#39;en reveux, y&#39;en rena ?](https://open-time.net/post/2023/11/07/T-en-reveux-y-en-rena)
-- [Cache-cache](https://open-time.net/post/2023/11/06/Cache-cache)
 <!-- BLOG-POST-LIST:END -->
