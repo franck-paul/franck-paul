@@ -14,9 +14,9 @@
 ### Last news (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Ça ne sera pas aujourd&#39;hui](https://open-time.net/post/2023/11/14/Ca-ne-sera-pas-aujourd-hui)
 - [Vegan](https://open-time.net/post/2023/11/13/Vegan)
 - [AG](https://open-time.net/post/2023/11/12/AG)
 - [Trente-huit tonnes](https://open-time.net/post/2023/11/11/Trente-huit-tonnes)
 - [Brève de train](https://open-time.net/post/2023/11/10/Breve-de-train)
-- [M&#39;enfin ?](https://open-time.net/post/2023/11/09/M-enfin)
 <!-- BLOG-POST-LIST:END -->
