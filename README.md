@@ -14,9 +14,9 @@
 ### Last news (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Tu l&#39;as ?](https://open-time.net/post/2023/11/20/Tu-l-as)
 - [Écologie numérique](https://open-time.net/post/2023/11/19/Ecologie-numerique)
 - [Ils sont gentils mais parfois casse-couilles](https://open-time.net/post/2023/11/18/Ils-sont-gentils-mais-parfois-casse-couilles)
 - [Forcément](https://open-time.net/post/2023/11/17/Forcement)
 - [Dotclear 2.28](https://open-time.net/post/2023/11/16/Dotclear-228)
-- [8888](https://open-time.net/post/2023/11/15/8888)
 <!-- BLOG-POST-LIST:END -->
