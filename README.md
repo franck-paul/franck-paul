@@ -14,9 +14,9 @@
 ### Last news (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Teasing](https://open-time.net/post/2023/11/24/Teasing)
 - [Ça m&#39;occupe bien dis donc !](https://open-time.net/post/2023/11/23/Ca-m-occupe-bien-dis-donc-)
 - [Questions de candide](https://open-time.net/post/2023/11/22/Questions-de-candide)
 - [Polyglotte](https://open-time.net/post/2023/11/21/Polyglotte)
 - [Tu l&#39;as ?](https://open-time.net/post/2023/11/20/Tu-l-as)
-- [Écologie numérique](https://open-time.net/post/2023/11/19/Ecologie-numerique)
 <!-- BLOG-POST-LIST:END -->
