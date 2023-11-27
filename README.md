@@ -14,9 +14,9 @@
 ### Last news (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Raccourcis](https://open-time.net/post/2023/11/27/Raccourcis)
 - [Seuils](https://open-time.net/post/2023/11/26/Seuils)
 - [Par petites touches](https://open-time.net/post/2023/11/25/Par-petites-touches)
 - [Teasing](https://open-time.net/post/2023/11/24/Teasing)
 - [Ça m&#39;occupe bien dis donc !](https://open-time.net/post/2023/11/23/Ca-m-occupe-bien-dis-donc-)
-- [Questions de candide](https://open-time.net/post/2023/11/22/Questions-de-candide)
 <!-- BLOG-POST-LIST:END -->
