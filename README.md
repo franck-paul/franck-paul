@@ -14,9 +14,9 @@
 ### Last news (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Me suis trompé](https://open-time.net/post/2023/11/30/Me-suis-trompe)
 - [J&#39;ai roulé](https://open-time.net/post/2023/11/29/J-ai-roule)
 - [Texte alternatif et description d&#39;image](https://open-time.net/post/2023/11/28/Texte-alternatif-et-description-d-image)
 - [Raccourcis](https://open-time.net/post/2023/11/27/Raccourcis)
 - [Seuils](https://open-time.net/post/2023/11/26/Seuils)
-- [Par petites touches](https://open-time.net/post/2023/11/25/Par-petites-touches)
 <!-- BLOG-POST-LIST:END -->
