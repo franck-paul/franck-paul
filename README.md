@@ -14,9 +14,9 @@
 ### Last news (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Les plugins - backend](https://open-time.net/post/2023/12/04/Les-plugins-backend)
 - [Qu&#39;est-ce que j&#39;utilise comme plugins ici ?](https://open-time.net/post/2023/12/03/Qu-est-ce-que-j-utilise-comme-plugins-ici)
 - [Catégories](https://open-time.net/post/2023/12/02/Categories)
 - [24 jours de web](https://open-time.net/post/2023/12/01/24-jours-de-web)
 - [Me suis trompé](https://open-time.net/post/2023/11/30/Me-suis-trompe)
-- [J&#39;ai roulé](https://open-time.net/post/2023/11/29/J-ai-roule)
 <!-- BLOG-POST-LIST:END -->
