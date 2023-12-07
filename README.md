@@ -14,9 +14,9 @@
 ### Last news (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Tranquille](https://open-time.net/post/2023/12/07/Tranquille)
 - [Les plugins - système](https://open-time.net/post/2023/12/06/Les-plugins-systeme)
 - [Les plugins - frontend](https://open-time.net/post/2023/12/05/Les-plugins-frontend)
 - [Les plugins - backend](https://open-time.net/post/2023/12/04/Les-plugins-backend)
 - [Qu&#39;est-ce que j&#39;utilise comme plugins ici ?](https://open-time.net/post/2023/12/03/Qu-est-ce-que-j-utilise-comme-plugins-ici)
-- [Catégories](https://open-time.net/post/2023/12/02/Categories)
 <!-- BLOG-POST-LIST:END -->
