@@ -14,9 +14,9 @@
 ### Last news (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Notules non diplomatiques n° 27](https://open-time.net/post/2023/12/10/Notules-non-diplomatiques-n-27)
 - [Chaîner les services](https://open-time.net/post/2023/12/09/Chainer-les-services)
 - [Quarante-sept](https://open-time.net/post/2023/12/08/Quarante-sept)
 - [Tranquille](https://open-time.net/post/2023/12/07/Tranquille)
 - [Les plugins - système](https://open-time.net/post/2023/12/06/Les-plugins-systeme)
-- [Les plugins - frontend](https://open-time.net/post/2023/12/05/Les-plugins-frontend)
 <!-- BLOG-POST-LIST:END -->
