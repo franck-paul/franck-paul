@@ -14,9 +14,9 @@
 ### Last news (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Angine](https://open-time.net/post/2023/12/13/Angine)
 - [Incapables !](https://open-time.net/post/2023/12/12/Incapables-)
 - [Je sèche un peu](https://open-time.net/post/2023/12/11/Je-seche-un-peu)
 - [Notules non diplomatiques n° 27](https://open-time.net/post/2023/12/10/Notules-non-diplomatiques-n-27)
 - [Chaîner les services](https://open-time.net/post/2023/12/09/Chainer-les-services)
-- [Quarante-sept](https://open-time.net/post/2023/12/08/Quarante-sept)
 <!-- BLOG-POST-LIST:END -->
