@@ -14,9 +14,9 @@
 ### Last news (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [One and a half times faster](https://open-time.net/post/2023/12/16/One-and-a-half-times-faster)
 - [Classé sans suite](https://open-time.net/post/2023/12/15/Classe-sans-suite)
 - [Parallèle](https://open-time.net/post/2023/12/14/Parallele)
 - [Angine](https://open-time.net/post/2023/12/13/Angine)
 - [Incapables !](https://open-time.net/post/2023/12/12/Incapables-)
-- [Je sèche un peu](https://open-time.net/post/2023/12/11/Je-seche-un-peu)
 <!-- BLOG-POST-LIST:END -->
