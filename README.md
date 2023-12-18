@@ -14,9 +14,9 @@
 ### Last news (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Dialog pas Popup](https://open-time.net/post/2023/12/18/Dialog-pas-Popup)
 - [Devoir et pouvoir](https://open-time.net/post/2023/12/17/Devoir-et-pouvoir)
 - [One and a half times faster](https://open-time.net/post/2023/12/16/One-and-a-half-times-faster)
 - [Classé sans suite](https://open-time.net/post/2023/12/15/Classe-sans-suite)
 - [Parallèle](https://open-time.net/post/2023/12/14/Parallele)
-- [Angine](https://open-time.net/post/2023/12/13/Angine)
 <!-- BLOG-POST-LIST:END -->
