@@ -14,9 +14,9 @@
 ### Last news (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Rochers](https://open-time.net/post/2023/12/26/Rochers)
 - [C&#39;était mieux avant](https://open-time.net/post/2023/12/25/C-etait-mieux-avant)
 - [Panier](https://open-time.net/post/2023/12/24/Panier)
 - [Elementary, my dear Watson!](https://open-time.net/post/2023/12/23/Elementary-my-dear-Watson)
 - [Parfum vanille](https://open-time.net/post/2023/12/22/Parfum-vanille)
-- [Explicite](https://open-time.net/post/2023/12/21/Explicite)
 <!-- BLOG-POST-LIST:END -->
