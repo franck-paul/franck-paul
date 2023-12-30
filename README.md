@@ -14,9 +14,9 @@
 ### Last news (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Bilan de l&#39;année](https://open-time.net/post/2023/12/30/Bilan-de-l-annee)
 - [API](https://open-time.net/post/2023/12/29/API)
 - [Le soir le soleil se couche et](https://open-time.net/post/2023/12/28/Le-soir-le-soleil-se-couche-et)
 - [Je sèche](https://open-time.net/post/2023/12/27/Je-seche)
 - [Rochers](https://open-time.net/post/2023/12/26/Rochers)
-- [C&#39;était mieux avant](https://open-time.net/post/2023/12/25/C-etait-mieux-avant)
 <!-- BLOG-POST-LIST:END -->
