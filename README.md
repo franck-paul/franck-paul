@@ -14,9 +14,9 @@
 ### Last news (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Et ouais](https://open-time.net/post/2024/01/01/Et-ouais)
 - [Éclatée au sol, l&#39;année](https://open-time.net/post/2023/12/30/Eclatee-au-sol-l-annee)
 - [Bilan de l&#39;année](https://open-time.net/post/2023/12/30/Bilan-de-l-annee)
 - [API](https://open-time.net/post/2023/12/29/API)
 - [Le soir le soleil se couche et](https://open-time.net/post/2023/12/28/Le-soir-le-soleil-se-couche-et)
-- [Je sèche](https://open-time.net/post/2023/12/27/Je-seche)
 <!-- BLOG-POST-LIST:END -->
