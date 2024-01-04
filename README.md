@@ -14,9 +14,9 @@
 ### Last news (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Orion](https://open-time.net/post/2024/01/04/Orion)
 - [Expérimentations](https://open-time.net/post/2024/01/03/Experimentations)
 - [Bluesky social](https://open-time.net/post/2024/01/02/Bluesky-social)
 - [Et ouais](https://open-time.net/post/2024/01/01/Et-ouais)
 - [Éclatée au sol, l&#39;année](https://open-time.net/post/2023/12/30/Eclatee-au-sol-l-annee)
-- [Bilan de l&#39;année](https://open-time.net/post/2023/12/30/Bilan-de-l-annee)
 <!-- BLOG-POST-LIST:END -->
