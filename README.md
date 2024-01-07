@@ -14,9 +14,9 @@
 ### Last news (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Adam&#39;s mansion](https://open-time.net/post/2024/01/07/Adam-s-mansion)
 - [Simplifier](https://open-time.net/post/2024/01/06/Simplifier)
 - [Il en reste](https://open-time.net/post/2024/01/05/Il-en-reste)
 - [Orion](https://open-time.net/post/2024/01/04/Orion)
 - [Expérimentations](https://open-time.net/post/2024/01/03/Experimentations)
-- [Bluesky social](https://open-time.net/post/2024/01/02/Bluesky-social)
 <!-- BLOG-POST-LIST:END -->
