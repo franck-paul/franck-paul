@@ -9,7 +9,6 @@
 ### Insights
 
 [![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=franck-paul)](https://github.com/franck-paul)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=franck-paul)](https://git.io/streak-stats)
 
 ### Last news (in French)
 
