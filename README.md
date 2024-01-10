@@ -10,7 +10,7 @@
 
 [![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=franck-paul)](https://github.com/franck-paul)
 
-### Last news (in French)
+### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
 - [Picture](https://open-time.net/post/2024/01/09/Picture)
