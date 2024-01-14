@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Dix ans](https://open-time.net/post/2024/01/14/Dix-ans)
 - [Coïncidence](https://open-time.net/post/2024/01/13/Coincidence)
 - [Constraste](https://open-time.net/post/2024/01/12/Constraste)
 - [Cheveux--](https://open-time.net/post/2024/01/11/Cheveux-)
 - [Kirby](https://open-time.net/post/2024/01/10/Kirby)
-- [Picture](https://open-time.net/post/2024/01/09/Picture)
 <!-- BLOG-POST-LIST:END -->
