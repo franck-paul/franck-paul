@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Invitations](https://open-time.net/post/2024/01/18/Invitations)
 - [Palette](https://open-time.net/post/2024/01/17/Palette)
 - [Abbr](https://open-time.net/post/2024/01/16/Abbr)
 - [Jouer un peu](https://open-time.net/post/2024/01/15/Jouer-un-peu)
 - [Dix ans](https://open-time.net/post/2024/01/14/Dix-ans)
-- [Coïncidence](https://open-time.net/post/2024/01/13/Coincidence)
 <!-- BLOG-POST-LIST:END -->
