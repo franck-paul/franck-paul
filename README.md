@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Prendre l&#39;air](https://open-time.net/post/2024/01/23/Prendre-l-air)
 - [Publicité](https://open-time.net/post/2024/01/22/Publicite)
 - [J&#39;entends les cloches](https://open-time.net/post/2024/01/21/J-entends-les-cloches)
 - [Lack of skills](https://open-time.net/post/2024/01/20/Lack-of-skills)
 - [Faire le tour](https://open-time.net/post/2024/01/19/Faire-le-tour)
-- [Invitations](https://open-time.net/post/2024/01/18/Invitations)
 <!-- BLOG-POST-LIST:END -->
