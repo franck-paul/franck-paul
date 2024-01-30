@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Courses](https://open-time.net/post/2024/01/30/Courses)
 - [Balade](https://open-time.net/post/2024/01/29/Balade)
 - [Y&#39;en a un de plus, je vous le laisse ?](https://open-time.net/post/2024/01/28/Y-en-a-un-de-plus-je-vous-le-laisse)
 - [Économiseur d&#39;écran](https://open-time.net/post/2024/01/27/Economiseur-d-ecran)
 - [Rime](https://open-time.net/post/2024/01/26/Rime)
-- [Disposition](https://open-time.net/post/2024/01/25/Disposition)
 <!-- BLOG-POST-LIST:END -->
