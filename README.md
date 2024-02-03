@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [C&#39;est dur](https://open-time.net/post/2024/02/03/C-est-dur)
 - [Au fait vous saviez ?](https://open-time.net/post/2024/02/02/Au-fait-vous-saviez)
 - [Print](https://open-time.net/post/2024/02/01/Print)
 - [Ça fait plaisir](https://open-time.net/post/2024/01/31/Ca-fait-plaisir)
 - [Courses](https://open-time.net/post/2024/01/30/Courses)
-- [Balade](https://open-time.net/post/2024/01/29/Balade)
 <!-- BLOG-POST-LIST:END -->
