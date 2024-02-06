@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Enfin](https://open-time.net/post/2024/02/06/Enfin)
 - [Éléments de langage](https://open-time.net/post/2024/02/05/Elements-de-langage)
 - [Queues de lotte](https://open-time.net/post/2024/02/04/Queues-de-lotte)
 - [C&#39;est dur](https://open-time.net/post/2024/02/03/C-est-dur)
 - [Au fait vous saviez ?](https://open-time.net/post/2024/02/02/Au-fait-vous-saviez)
-- [Print](https://open-time.net/post/2024/02/01/Print)
 <!-- BLOG-POST-LIST:END -->
