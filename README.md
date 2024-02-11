@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Test avant ou mise en prod ?](https://open-time.net/post/2024/02/11/Test-avant-ou-mise-en-prod)
 - [No stress](https://open-time.net/post/2024/02/10/No-stress)
 - [Traduire](https://open-time.net/post/2024/02/09/Traduire)
 - [Ping truc](https://open-time.net/post/2024/02/08/Ping-truc)
 - [Les cercles mouvants](https://open-time.net/post/2024/02/07/Les-cercles-mouvants)
-- [Enfin](https://open-time.net/post/2024/02/06/Enfin)
 <!-- BLOG-POST-LIST:END -->
