@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Personnaliser son admin](https://open-time.net/post/2024/02/16/Personnaliser-son-admin)
 - [Même pas mal](https://open-time.net/post/2024/02/15/Meme-pas-mal)
 - [Forcément](https://open-time.net/post/2024/02/14/Forcement)
 - [Just in time!](https://open-time.net/post/2024/02/13/Just-in-time)
 - [Ah ouais, quand même !](https://open-time.net/post/2024/02/12/Ah-ouais-quand-meme-)
-- [Test avant ou mise en prod ?](https://open-time.net/post/2024/02/11/Test-avant-ou-mise-en-prod)
 <!-- BLOG-POST-LIST:END -->
