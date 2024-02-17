@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Le parapluie](https://open-time.net/post/2024/02/17/Le-parapluie)
 - [Personnaliser son admin](https://open-time.net/post/2024/02/16/Personnaliser-son-admin)
 - [Même pas mal](https://open-time.net/post/2024/02/15/Meme-pas-mal)
 - [Forcément](https://open-time.net/post/2024/02/14/Forcement)
 - [Just in time!](https://open-time.net/post/2024/02/13/Just-in-time)
-- [Ah ouais, quand même !](https://open-time.net/post/2024/02/12/Ah-ouais-quand-meme-)
 <!-- BLOG-POST-LIST:END -->
