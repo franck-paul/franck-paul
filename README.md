@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Enfin !](https://open-time.net/post/2024/02/20/Enfin-)
 - [Licence](https://open-time.net/post/2024/02/19/Licence)
 - [Les monstres](https://open-time.net/post/2024/02/18/Les-monstres)
 - [Le parapluie](https://open-time.net/post/2024/02/17/Le-parapluie)
 - [Personnaliser son admin](https://open-time.net/post/2024/02/16/Personnaliser-son-admin)
-- [Même pas mal](https://open-time.net/post/2024/02/15/Meme-pas-mal)
 <!-- BLOG-POST-LIST:END -->
