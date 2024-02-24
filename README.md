@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Minotaure](https://open-time.net/post/2024/02/24/Minotaure)
 - [Intuition](https://open-time.net/post/2024/02/23/Intuition)
 - [C&#39;est pas gagné](https://open-time.net/post/2024/02/22/C-est-pas-gagne)
 - [Publicité](https://open-time.net/post/2024/02/21/Publicite)
 - [Enfin !](https://open-time.net/post/2024/02/20/Enfin-)
-- [Licence](https://open-time.net/post/2024/02/19/Licence)
 <!-- BLOG-POST-LIST:END -->
