@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Paire et passe !](https://open-time.net/post/2024/03/06/Paire-et-passe-)
 - [Presque pas communistes](https://open-time.net/post/2024/03/05/Presque-pas-communistes)
 - [Pourquoi compter ?](https://open-time.net/post/2024/03/04/Pourquoi-compter)
 - [Où est mon humanité ?](https://open-time.net/post/2024/03/03/Ou-est-mon-humanite)
 - [Chaîne de bloc](https://open-time.net/post/2024/03/02/Chaine-de-bloc)
-- [Il m&#39;avait échappé celui-ci](https://open-time.net/post/2024/03/01/Il-m-avait-echappe-celui-ci)
 <!-- BLOG-POST-LIST:END -->
