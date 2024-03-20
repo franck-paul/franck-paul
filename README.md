@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Polyglotte n° 3](https://open-time.net/post/2024/03/20/Polyglotte-n-3)
 - [Chasse en cours](https://open-time.net/post/2024/03/19/Chasse-en-cours)
 - [Polyglotte n° 2](https://open-time.net/post/2024/03/18/Polyglotte-n-2)
 - [Container query](https://open-time.net/post/2024/03/17/Container-query)
 - [J&#39;ai du boulot](https://open-time.net/post/2024/03/16/J-ai-du-boulot)
-- [Seriously?](https://open-time.net/post/2024/03/15/Seriously)
 <!-- BLOG-POST-LIST:END -->
