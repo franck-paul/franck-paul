@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Internal Server Error](https://open-time.net/post/2024/03/27/Internal-Server-Error)
 - [Reflux](https://open-time.net/post/2024/03/26/Reflux)
 - [Vos gueules les mouettes](https://open-time.net/post/2024/03/25/Vos-gueules-les-mouettes)
 - [Ceci est le pied](https://open-time.net/post/2024/03/24/Ceci-est-le-pied)
 - [Les pieds dans le tapis](https://open-time.net/post/2024/03/23/Les-pieds-dans-le-tapis)
-- [Dotclear et les bloqueurs de pubs](https://open-time.net/post/2024/03/22/Dotclear-et-les-bloqueurs-de-pubs)
 <!-- BLOG-POST-LIST:END -->
