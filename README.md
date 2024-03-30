@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Les compétences fuyantes](https://open-time.net/post/2024/03/30/Les-competences-fuyantes)
 - [Pause](https://open-time.net/post/2024/03/29/Pause)
 - [Module](https://open-time.net/post/2024/03/28/Module)
 - [Internal Server Error](https://open-time.net/post/2024/03/27/Internal-Server-Error)
 - [Reflux](https://open-time.net/post/2024/03/26/Reflux)
-- [Vos gueules les mouettes](https://open-time.net/post/2024/03/25/Vos-gueules-les-mouettes)
 <!-- BLOG-POST-LIST:END -->
