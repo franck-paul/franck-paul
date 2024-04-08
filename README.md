@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Le greedy du Bounty](https://open-time.net/post/2024/04/08/Le-greedy-du-Bounty)
 - [Jeu](https://open-time.net/post/2024/04/07/Jeu)
 - [Filtres antispam n° 2](https://open-time.net/post/2024/04/06/Filtres-antispam-n-2)
 - [Voleurs !](https://open-time.net/post/2024/04/05/Voleurs-)
 - [Paris-Carnet](https://open-time.net/post/2024/04/04/Paris-Carnet)
-- [On va pas se mentir](https://open-time.net/post/2024/04/03/On-va-pas-se-mentir)
 <!-- BLOG-POST-LIST:END -->
