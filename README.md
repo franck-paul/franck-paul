@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Antipodes écologiques](https://open-time.net/post/2024/04/09/Antipodes-ecologiques)
 - [Le greedy du Bounty](https://open-time.net/post/2024/04/08/Le-greedy-du-Bounty)
 - [Jeu](https://open-time.net/post/2024/04/07/Jeu)
 - [Filtres antispam n° 2](https://open-time.net/post/2024/04/06/Filtres-antispam-n-2)
 - [Voleurs !](https://open-time.net/post/2024/04/05/Voleurs-)
-- [Paris-Carnet](https://open-time.net/post/2024/04/04/Paris-Carnet)
 <!-- BLOG-POST-LIST:END -->
