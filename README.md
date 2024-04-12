@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Font pas beaucoup d&#39;efforts](https://open-time.net/post/2024/04/12/Font-pas-beaucoup-d-efforts)
 - [Notules non diplomatiques n° 30](https://open-time.net/post/2024/04/11/Notules-non-diplomatiques-n-30)
 - [Brassage de vent](https://open-time.net/post/2024/04/10/Brassage-de-vent)
 - [Antipodes écologiques](https://open-time.net/post/2024/04/09/Antipodes-ecologiques)
 - [Le greedy du Bounty](https://open-time.net/post/2024/04/08/Le-greedy-du-Bounty)
-- [Jeu](https://open-time.net/post/2024/04/07/Jeu)
 <!-- BLOG-POST-LIST:END -->
