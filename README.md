@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Champs obligatoires](https://open-time.net/post/2024/04/21/Champs-obligatoires)
 - [Quand le super disparait](https://open-time.net/post/2024/04/20/Quand-le-super-disparait)
 - [Ça diminue](https://open-time.net/post/2024/04/19/Ca-diminue)
 - [Aromatique d&#39;Italie](https://open-time.net/post/2024/04/18/Aromatique-d-Italie)
 - [Effet de bord](https://open-time.net/post/2024/04/17/Effet-de-bord)
-- [La comm&#39; en pyjama](https://open-time.net/post/2024/04/16/La-comm-en-pyjama)
 <!-- BLOG-POST-LIST:END -->
