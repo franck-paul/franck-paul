@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Programme](https://open-time.net/post/2024/04/27/Programme)
 - [Mode râlage on](https://open-time.net/post/2024/04/26/Mode-ralage-on)
 - [Gros coeff](https://open-time.net/post/2024/04/25/Gros-coeff)
 - [Landing page](https://open-time.net/post/2024/04/24/Landing-page)
 - [Reprise](https://open-time.net/post/2024/04/23/Reprise)
-- [Accès rapide](https://open-time.net/post/2024/04/22/Acces-rapide)
 <!-- BLOG-POST-LIST:END -->
