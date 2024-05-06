@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Midi](https://open-time.net/post/2024/05/06/Midi)
 - [Matin](https://open-time.net/post/2024/05/05/Matin)
 - [Le café du matin](https://open-time.net/post/2024/05/04/Le-cafe-du-matin)
 - [Ma gueule](https://open-time.net/post/2024/05/03/Ma-gueule)
 - [Name-dropping](https://open-time.net/post/2024/05/02/Name-dropping)
-- [Dotclear zen edition](https://open-time.net/post/2024/05/01/Dotclear-zen-edition)
 <!-- BLOG-POST-LIST:END -->
