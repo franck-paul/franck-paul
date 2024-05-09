@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Transparence](https://open-time.net/post/2024/05/09/Transparence)
 - [La petite vache courageuse](https://open-time.net/post/2024/05/08/La-petite-vache-courageuse)
 - [Soir](https://open-time.net/post/2024/05/07/Soir)
 - [Midi](https://open-time.net/post/2024/05/06/Midi)
 - [Matin](https://open-time.net/post/2024/05/05/Matin)
-- [Le café du matin](https://open-time.net/post/2024/05/04/Le-cafe-du-matin)
 <!-- BLOG-POST-LIST:END -->
