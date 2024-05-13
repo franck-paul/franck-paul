@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Landing area](https://open-time.net/post/2024/05/13/Landing-area)
 - [Ça casse les couilles !](https://open-time.net/post/2024/05/12/Ca-casse-les-couilles-)
 - [Aide-mémoire](https://open-time.net/post/2024/05/11/Aide-memoire)
 - [Débarque](https://open-time.net/post/2024/05/10/Debarque)
 - [Transparence](https://open-time.net/post/2024/05/09/Transparence)
-- [La petite vache courageuse](https://open-time.net/post/2024/05/08/La-petite-vache-courageuse)
 <!-- BLOG-POST-LIST:END -->
