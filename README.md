@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Et je repasse la première](https://open-time.net/post/2024/05/14/Et-je-repasse-la-premiere)
 - [Landing area](https://open-time.net/post/2024/05/13/Landing-area)
 - [Ça casse les couilles !](https://open-time.net/post/2024/05/12/Ca-casse-les-couilles-)
 - [Aide-mémoire](https://open-time.net/post/2024/05/11/Aide-memoire)
 - [Débarque](https://open-time.net/post/2024/05/10/Debarque)
-- [Transparence](https://open-time.net/post/2024/05/09/Transparence)
 <!-- BLOG-POST-LIST:END -->
