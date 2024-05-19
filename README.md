@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Plugin footnotes, notes de développement](https://open-time.net/post/2024/05/19/Plugin-footnotes-notes-de-developpement)
 - [Et paf !](https://open-time.net/post/2024/05/18/Et-paf-)
 - [Notes de migration](https://open-time.net/post/2024/05/17/Notes-de-migration)
 - [Projet bien vivant](https://open-time.net/post/2024/05/16/Projet-bien-vivant)
 - [Exit bigfoot](https://open-time.net/post/2024/05/15/Exit-bigfoot)
-- [Et je repasse la première](https://open-time.net/post/2024/05/14/Et-je-repasse-la-premiere)
 <!-- BLOG-POST-LIST:END -->
