@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Scroll, dat color!](https://open-time.net/post/2024/05/24/Scroll-dat-color)
 - [Room game](https://open-time.net/post/2024/05/23/Room-game)
 - [La fibre optique](https://open-time.net/post/2024/05/22/La-fibre-optique)
 - [Ça me titille](https://open-time.net/post/2024/05/21/Ca-me-titille)
 - [Notules non diplomatiques n° 31](https://open-time.net/post/2024/05/19/Notules-non-diplomatiques-n-31)
-- [Plugin footnotes, notes de développement](https://open-time.net/post/2024/05/19/Plugin-footnotes-notes-de-developpement)
 <!-- BLOG-POST-LIST:END -->
