@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Meta IA](https://open-time.net/post/2024/05/26/Meta-IA)
 - [ICQ](https://open-time.net/post/2024/05/25/ICQ)
 - [Scroll, dat color!](https://open-time.net/post/2024/05/24/Scroll-dat-color)
 - [Room game](https://open-time.net/post/2024/05/23/Room-game)
 - [La fibre optique](https://open-time.net/post/2024/05/22/La-fibre-optique)
-- [Ça me titille](https://open-time.net/post/2024/05/21/Ca-me-titille)
 <!-- BLOG-POST-LIST:END -->
