@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Windows 11](https://open-time.net/post/2024/05/29/Windows-11)
 - [Vroom soon](https://open-time.net/post/2024/05/28/Vroom-soon)
 - [Navigo par ici, navigo par là](https://open-time.net/post/2024/05/27/Navigo-par-ici-navigo-par-la)
 - [Meta IA](https://open-time.net/post/2024/05/26/Meta-IA)
 - [ICQ](https://open-time.net/post/2024/05/25/ICQ)
-- [Scroll, dat color!](https://open-time.net/post/2024/05/24/Scroll-dat-color)
 <!-- BLOG-POST-LIST:END -->
