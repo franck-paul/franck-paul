@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Colonnes et boîtes](https://open-time.net/post/2024/06/01/Colonnes-et-boites)
 - [En route](https://open-time.net/post/2024/05/31/En-route)
 - [Cabana ?](https://open-time.net/post/2024/05/30/Cabana)
 - [Windows 11](https://open-time.net/post/2024/05/29/Windows-11)
 - [Vroom soon](https://open-time.net/post/2024/05/28/Vroom-soon)
-- [Navigo par ici, navigo par là](https://open-time.net/post/2024/05/27/Navigo-par-ici-navigo-par-la)
 <!-- BLOG-POST-LIST:END -->
