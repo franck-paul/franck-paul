@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Dotclear et l&#39;IA](https://open-time.net/post/2024/06/04/Dotclear-et-l-IA)
 - [Mais pourquoi ?](https://open-time.net/post/2024/06/03/Mais-pourquoi)
 - [Tribu](https://open-time.net/post/2024/06/02/Tribu)
 - [Colonnes et boîtes](https://open-time.net/post/2024/06/01/Colonnes-et-boites)
 - [En route](https://open-time.net/post/2024/05/31/En-route)
-- [Cabana ?](https://open-time.net/post/2024/05/30/Cabana)
 <!-- BLOG-POST-LIST:END -->
