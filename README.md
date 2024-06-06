@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Race time](https://open-time.net/post/2024/06/06/Race-time)
 - [Du bon usage du français et de l&#39;engagement](https://open-time.net/post/2024/06/05/Du-bon-usage-du-francais-et-de-l-engagement)
 - [Dotclear et l&#39;IA](https://open-time.net/post/2024/06/04/Dotclear-et-l-IA)
 - [Mais pourquoi ?](https://open-time.net/post/2024/06/03/Mais-pourquoi)
 - [Tribu](https://open-time.net/post/2024/06/02/Tribu)
-- [Colonnes et boîtes](https://open-time.net/post/2024/06/01/Colonnes-et-boites)
 <!-- BLOG-POST-LIST:END -->
