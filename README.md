@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Nouveau Front Populaire](https://open-time.net/post/2024/06/15/Nouveau-Front-Populaire)
 - [GT3 vs GT7](https://open-time.net/post/2024/06/14/GT3-vs-GT7)
 - [Zen](https://open-time.net/post/2024/06/13/Zen)
 - [Politique fiction](https://open-time.net/post/2024/06/12/Politique-fiction)
 - [C&#39;est un peu le grand kiff](https://open-time.net/post/2024/06/11/C-est-un-peu-le-grand-kiff)
-- [C&#39;était pas simple !](https://open-time.net/post/2024/06/10/C-etait-pas-simple-)
 <!-- BLOG-POST-LIST:END -->
