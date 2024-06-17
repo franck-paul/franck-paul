@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Manif&#39; &amp; Pride](https://open-time.net/post/2024/06/17/Manif-Pride)
 - [Sous la Seine](https://open-time.net/post/2024/06/16/Sous-la-Seine)
 - [Nouveau Front Populaire](https://open-time.net/post/2024/06/15/Nouveau-Front-Populaire)
 - [GT3 vs GT7](https://open-time.net/post/2024/06/14/GT3-vs-GT7)
 - [Zen](https://open-time.net/post/2024/06/13/Zen)
-- [Politique fiction](https://open-time.net/post/2024/06/12/Politique-fiction)
 <!-- BLOG-POST-LIST:END -->
