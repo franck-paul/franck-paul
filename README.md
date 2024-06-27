@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Vous avez pas eu le mémo ?](https://open-time.net/post/2024/06/27/Vous-avez-pas-eu-le-memo)
 - [Indigence](https://open-time.net/post/2024/06/26/Indigence)
 - [Curation](https://open-time.net/post/2024/06/25/Curation)
 - [Echo](https://open-time.net/post/2024/06/24/Echo)
 - [Sticker](https://open-time.net/post/2024/06/23/Sticker)
-- [Stratégies de contournement](https://open-time.net/post/2024/06/22/Strategies-de-contournement)
 <!-- BLOG-POST-LIST:END -->
