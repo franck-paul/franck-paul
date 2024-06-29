@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Ah oui quand même !](https://open-time.net/post/2024/06/29/Ah-oui-quand-meme-)
 - [Notules non diplomatiques n° 32](https://open-time.net/post/2024/06/28/Notules-non-diplomatiques-n-32)
 - [Vous avez pas eu le mémo ?](https://open-time.net/post/2024/06/27/Vous-avez-pas-eu-le-memo)
 - [Indigence](https://open-time.net/post/2024/06/26/Indigence)
 - [Curation](https://open-time.net/post/2024/06/25/Curation)
-- [Echo](https://open-time.net/post/2024/06/24/Echo)
 <!-- BLOG-POST-LIST:END -->
