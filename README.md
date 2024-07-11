@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Finalement](https://open-time.net/post/2024/07/11/Finalement)
 - [Deux mois à l&#39;avance](https://open-time.net/post/2024/07/10/Deux-mois-a-l-avance)
 - [Zéro brun dans le glaz breton](https://open-time.net/post/2024/07/09/Zero-brun-dans-le-glaz-breton)
 - [Dimanche matin](https://open-time.net/post/2024/07/08/Dimanche-matin)
 - [International](https://open-time.net/post/2024/07/07/International)
-- [Muppet](https://open-time.net/post/2024/07/06/Muppet)
 <!-- BLOG-POST-LIST:END -->
