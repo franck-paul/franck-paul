@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [On souffle un peu](https://open-time.net/post/2024/07/26/On-souffle-un-peu)
 - [Rêvons un peu](https://open-time.net/post/2024/07/25/Revons-un-peu)
 - [Question](https://open-time.net/post/2024/07/24/Question)
 - [Il a plu](https://open-time.net/post/2024/07/23/Il-a-plu)
 - [Etouffé](https://open-time.net/post/2024/07/22/Etouffe)
-- [Ne soyons pas trop ambitieux](https://open-time.net/post/2024/07/21/Ne-soyons-pas-trop-ambitieux)
 <!-- BLOG-POST-LIST:END -->
