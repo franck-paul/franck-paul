@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [L&#39;informatique que j&#39;aime](https://open-time.net/post/2024/07/29/L-informatique-que-j-aime)
 - [Résumé](https://open-time.net/post/2024/07/28/Resume)
 - [Modèle physique](https://open-time.net/post/2024/07/27/Modele-physique)
 - [On souffle un peu](https://open-time.net/post/2024/07/26/On-souffle-un-peu)
 - [Rêvons un peu](https://open-time.net/post/2024/07/25/Revons-un-peu)
-- [Question](https://open-time.net/post/2024/07/24/Question)
 <!-- BLOG-POST-LIST:END -->
