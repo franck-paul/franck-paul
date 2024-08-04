@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Bagad](https://open-time.net/post/2024/08/04/Bagad)
 - [PC](https://open-time.net/post/2024/08/03/PC)
 - [Et si ?](https://open-time.net/post/2024/08/02/Et-si)
 - [Empilement](https://open-time.net/post/2024/08/01/Empilement)
 - [Too old](https://open-time.net/post/2024/07/31/Too-old)
-- [Finalement](https://open-time.net/post/2024/07/30/Finalement)
 <!-- BLOG-POST-LIST:END -->
