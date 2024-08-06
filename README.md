@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Soufflez un peu](https://open-time.net/post/2024/08/06/Soufflez-un-peu)
 - [Les limites](https://open-time.net/post/2024/08/05/Les-limites)
 - [Bagad](https://open-time.net/post/2024/08/04/Bagad)
 - [PC](https://open-time.net/post/2024/08/03/PC)
 - [Et si ?](https://open-time.net/post/2024/08/02/Et-si)
-- [Empilement](https://open-time.net/post/2024/08/01/Empilement)
 <!-- BLOG-POST-LIST:END -->
