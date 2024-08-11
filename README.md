@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Notules non diplomatiques n° 34](https://open-time.net/post/2024/08/11/Notules-non-diplomatiques-n-34)
 - [Enfin !](https://open-time.net/post/2024/08/10/Enfin-)
 - [Entre-deux](https://open-time.net/post/2024/08/09/Entre-deux)
 - [Breloques](https://open-time.net/post/2024/08/08/Breloques)
 - [Tranquille](https://open-time.net/post/2024/08/07/Tranquille)
-- [Soufflez un peu](https://open-time.net/post/2024/08/06/Soufflez-un-peu)
 <!-- BLOG-POST-LIST:END -->
