@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Comme une espèce de troll-golem](https://open-time.net/post/2024/08/13/Comme-une-espece-de-troll-golem)
 - [Summertime](https://open-time.net/post/2024/08/12/Summertime)
 - [Notules non diplomatiques n° 34](https://open-time.net/post/2024/08/11/Notules-non-diplomatiques-n-34)
 - [Enfin !](https://open-time.net/post/2024/08/10/Enfin-)
 - [Entre-deux](https://open-time.net/post/2024/08/09/Entre-deux)
-- [Breloques](https://open-time.net/post/2024/08/08/Breloques)
 <!-- BLOG-POST-LIST:END -->
