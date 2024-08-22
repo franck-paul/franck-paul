@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Sud-Ouest](https://open-time.net/post/2024/08/22/Sud-Ouest)
 - [Red moon](https://open-time.net/post/2024/08/21/Red-moon)
 - [Pas de bras pas de](https://open-time.net/post/2024/08/20/Pas-de-bras-pas-de)
 - [Today I learned](https://open-time.net/post/2024/08/19/Today-I-learned)
 - [Démarrage](https://open-time.net/post/2024/08/18/Demarrage)
-- [CQFD](https://open-time.net/post/2024/08/17/CQFD)
 <!-- BLOG-POST-LIST:END -->
