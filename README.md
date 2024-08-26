@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Jeux hypocrites](https://open-time.net/post/2024/08/26/Jeux-hypocrites)
 - [Bugs](https://open-time.net/post/2024/08/25/Bugs)
 - [Question de candide électrique](https://open-time.net/post/2024/08/24/Question-de-candide-electrique)
 - [Bof](https://open-time.net/post/2024/08/23/Bof)
 - [Sud-Ouest](https://open-time.net/post/2024/08/22/Sud-Ouest)
-- [Red moon](https://open-time.net/post/2024/08/21/Red-moon)
 <!-- BLOG-POST-LIST:END -->
