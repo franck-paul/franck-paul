@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Got et pas du tout Goat](https://open-time.net/post/2024/09/06/Got-et-pas-du-tout-Goat)
 - [Contrôle](https://open-time.net/post/2024/09/05/Controle)
 - [Défilement](https://open-time.net/post/2024/09/04/Defilement)
 - [Configuration PHP](https://open-time.net/post/2024/09/03/Configuration-PHP)
 - [Remise en selle](https://open-time.net/post/2024/09/02/Remise-en-selle)
-- [Matomo ex Piwik n° 2](https://open-time.net/post/2024/09/01/Matomo-ex-Piwik-n-2)
 <!-- BLOG-POST-LIST:END -->
