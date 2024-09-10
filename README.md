@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Il était une fois](https://open-time.net/post/2024/09/10/Il-etait-une-fois)
 - [La politique](https://open-time.net/post/2024/09/09/La-politique)
 - [Calme avant la tempête](https://open-time.net/post/2024/09/08/Calme-avant-la-tempete)
 - [Fragile](https://open-time.net/post/2024/09/07/Fragile)
 - [Got et pas du tout Goat](https://open-time.net/post/2024/09/06/Got-et-pas-du-tout-Goat)
-- [Contrôle](https://open-time.net/post/2024/09/05/Controle)
 <!-- BLOG-POST-LIST:END -->
