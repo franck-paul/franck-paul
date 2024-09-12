@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Inertie](https://open-time.net/post/2024/09/12/Inertie)
 - [L&#39;amer](https://open-time.net/post/2024/09/11/L-amer)
 - [Il était une fois](https://open-time.net/post/2024/09/10/Il-etait-une-fois)
 - [La politique](https://open-time.net/post/2024/09/09/La-politique)
 - [Calme avant la tempête](https://open-time.net/post/2024/09/08/Calme-avant-la-tempete)
-- [Fragile](https://open-time.net/post/2024/09/07/Fragile)
 <!-- BLOG-POST-LIST:END -->
