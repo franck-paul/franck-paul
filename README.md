@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [QR-Code](https://open-time.net/post/2024/09/14/QR-Code)
 - [Prendre son temps](https://open-time.net/post/2024/09/13/Prendre-son-temps)
 - [Inertie](https://open-time.net/post/2024/09/12/Inertie)
 - [L&#39;amer](https://open-time.net/post/2024/09/11/L-amer)
 - [Il était une fois](https://open-time.net/post/2024/09/10/Il-etait-une-fois)
-- [La politique](https://open-time.net/post/2024/09/09/La-politique)
 <!-- BLOG-POST-LIST:END -->
