@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Sauvegate](https://open-time.net/post/2024/09/17/Sauvegate)
 - [46 fillette](https://open-time.net/post/2024/09/16/46-fillette)
 - [La fibre, ça avance](https://open-time.net/post/2024/09/15/La-fibre-ca-avance)
 - [QR-Code](https://open-time.net/post/2024/09/14/QR-Code)
 - [Prendre son temps](https://open-time.net/post/2024/09/13/Prendre-son-temps)
-- [Inertie](https://open-time.net/post/2024/09/12/Inertie)
 <!-- BLOG-POST-LIST:END -->
