@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Geekeries Paris Webesques](https://open-time.net/post/2024/09/24/Geekeries-Paris-Webesques)
 - [Quartier libre à Paname](https://open-time.net/post/2024/09/23/Quartier-libre-a-Paname)
 - [Tchou tchou](https://open-time.net/post/2024/09/22/Tchou-tchou)
 - [Faire sa valise](https://open-time.net/post/2024/09/21/Faire-sa-valise)
 - [Enquêtes](https://open-time.net/post/2024/09/20/Enquetes)
-- [Râler, c&#39;est un métier !](https://open-time.net/post/2024/09/19/Raler-c-est-un-metier-)
 <!-- BLOG-POST-LIST:END -->
