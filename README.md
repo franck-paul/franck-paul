@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Brève de Paris Web](https://open-time.net/post/2024/10/02/Breve-de-Paris-Web)
 - [Retour aux affaires courantes](https://open-time.net/post/2024/10/01/Retour-aux-affaires-courantes)
 - [Tchou tchou back](https://open-time.net/post/2024/09/30/Tchou-tchou-back)
 - [Repos des guerriers](https://open-time.net/post/2024/09/29/Repos-des-guerriers)
 - [Ça finit](https://open-time.net/post/2024/09/28/Ca-finit)
-- [Ça continue](https://open-time.net/post/2024/09/27/Ca-continue)
 <!-- BLOG-POST-LIST:END -->
