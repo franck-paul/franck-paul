@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Tiens, j&#39;aimerais savoir](https://open-time.net/post/2024/10/08/Tiens-j-aimerais-savoir)
 - [Comptine](https://open-time.net/post/2024/10/07/Comptine)
 - [Explication](https://open-time.net/post/2024/10/06/Explication)
 - [À qui ?](https://open-time.net/post/2024/10/05/A-qui)
 - [Les caisses se vident](https://open-time.net/post/2024/10/04/Les-caisses-se-vident)
-- [Break](https://open-time.net/post/2024/10/03/Break)
 <!-- BLOG-POST-LIST:END -->
