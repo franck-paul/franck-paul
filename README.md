@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Transports](https://open-time.net/post/2024/10/11/Transports)
 - [On attend le rollback](https://open-time.net/post/2024/10/10/On-attend-le-rollback)
 - [Charger la barque](https://open-time.net/post/2024/10/09/Charger-la-barque)
 - [Tiens, j&#39;aimerais savoir](https://open-time.net/post/2024/10/08/Tiens-j-aimerais-savoir)
 - [Comptine](https://open-time.net/post/2024/10/07/Comptine)
-- [Explication](https://open-time.net/post/2024/10/06/Explication)
 <!-- BLOG-POST-LIST:END -->
