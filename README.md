@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Ail aye aïe](https://open-time.net/post/2024/10/14/Ail-aye-aie)
 - [About:config](https://open-time.net/post/2024/10/13/About%3Aconfig)
 - [Mes nuits](https://open-time.net/post/2024/10/12/Mes-nuits)
 - [Transports](https://open-time.net/post/2024/10/11/Transports)
 - [On attend le rollback](https://open-time.net/post/2024/10/10/On-attend-le-rollback)
-- [Charger la barque](https://open-time.net/post/2024/10/09/Charger-la-barque)
 <!-- BLOG-POST-LIST:END -->
