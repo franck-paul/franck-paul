@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Mettre du style](https://open-time.net/post/2024/10/17/Mettre-du-style)
 - [Transmettre](https://open-time.net/post/2024/10/16/Transmettre)
 - [Brutalist](https://open-time.net/post/2024/10/15/Brutalist)
 - [Ail aye aïe](https://open-time.net/post/2024/10/14/Ail-aye-aie)
 - [About:config](https://open-time.net/post/2024/10/13/About%3Aconfig)
-- [Mes nuits](https://open-time.net/post/2024/10/12/Mes-nuits)
 <!-- BLOG-POST-LIST:END -->
