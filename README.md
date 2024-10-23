@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Authentification déportée](https://open-time.net/post/2024/10/23/Authentification-deportee)
 - [Vieille anecdote](https://open-time.net/post/2024/10/22/Vieille-anecdote)
 - [Nouvelles du front](https://open-time.net/post/2024/10/21/Nouvelles-du-front)
 - [Quarante](https://open-time.net/post/2024/10/20/Quarante)
 - [Rhume de mec](https://open-time.net/post/2024/10/19/Rhume-de-mec)
-- [À la marge](https://open-time.net/post/2024/10/18/A-la-marge)
 <!-- BLOG-POST-LIST:END -->
