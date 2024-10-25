@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Basse](https://open-time.net/post/2024/10/25/Basse)
 - [Tiens et pourquoi pas ?](https://open-time.net/post/2024/10/24/Tiens-et-pourquoi-pas)
 - [Authentification déportée](https://open-time.net/post/2024/10/23/Authentification-deportee)
 - [Vieille anecdote](https://open-time.net/post/2024/10/22/Vieille-anecdote)
 - [Nouvelles du front](https://open-time.net/post/2024/10/21/Nouvelles-du-front)
-- [Quarante](https://open-time.net/post/2024/10/20/Quarante)
 <!-- BLOG-POST-LIST:END -->
