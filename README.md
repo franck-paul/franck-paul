@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Euh oui mais en fait non](https://open-time.net/post/2024/10/27/Euh-oui-mais-en-fait-non)
 - [Tolérants](https://open-time.net/post/2024/10/26/Tolerants)
 - [Basse](https://open-time.net/post/2024/10/25/Basse)
 - [Tiens et pourquoi pas ?](https://open-time.net/post/2024/10/24/Tiens-et-pourquoi-pas)
 - [Authentification déportée](https://open-time.net/post/2024/10/23/Authentification-deportee)
-- [Vieille anecdote](https://open-time.net/post/2024/10/22/Vieille-anecdote)
 <!-- BLOG-POST-LIST:END -->
