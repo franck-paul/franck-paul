@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [L&#39;eau penchée](https://open-time.net/post/2024/11/02/L-eau-penchee)
 - [PHP 8.4 et Dotclear](https://open-time.net/post/2024/11/01/PHP-84-et-Dotclear)
 - [Placard](https://open-time.net/post/2024/10/31/Placard)
 - [Esprit d&#39;escalier](https://open-time.net/post/2024/10/30/Esprit-d-escalier)
 - [Verticale](https://open-time.net/post/2024/10/29/Verticale)
-- [Ça va prendre encore un peu de temps](https://open-time.net/post/2024/10/28/Ca-va-prendre-encore-un-peu-de-temps)
 <!-- BLOG-POST-LIST:END -->
