@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Hyper écrire pour le web](https://open-time.net/post/2024/11/10/Hyper-ecrire-pour-le-web)
 - [AGO](https://open-time.net/post/2024/11/09/AGO)
 - [Tchou tchou](https://open-time.net/post/2024/11/08/Tchou-tchou)
 - [Saynul](https://open-time.net/post/2024/11/07/Saynul)
 - [Politique non fiction](https://open-time.net/post/2024/11/06/Politique-non-fiction)
-- [On retient son souffle](https://open-time.net/post/2024/11/05/On-retient-son-souffle)
 <!-- BLOG-POST-LIST:END -->
