@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Dotclear, pas jQuery](https://open-time.net/post/2024/11/12/Dotclear-pas-jQuery)
 - [L&#39;horizon](https://open-time.net/post/2024/11/11/L-horizon)
 - [Hyper écrire pour le web](https://open-time.net/post/2024/11/10/Hyper-ecrire-pour-le-web)
 - [AGO](https://open-time.net/post/2024/11/09/AGO)
 - [Tchou tchou](https://open-time.net/post/2024/11/08/Tchou-tchou)
-- [Saynul](https://open-time.net/post/2024/11/07/Saynul)
 <!-- BLOG-POST-LIST:END -->
