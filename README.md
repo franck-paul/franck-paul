@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [La mesure](https://open-time.net/post/2024/11/18/La-mesure)
 - [Mais pourquoi ?](https://open-time.net/post/2024/11/17/Mais-pourquoi)
 - [Ciel bleu](https://open-time.net/post/2024/11/16/Ciel-bleu)
 - [Comme d&#39;habitude](https://open-time.net/post/2024/11/15/Comme-d-habitude)
 - [TwiXtter delete](https://open-time.net/post/2024/11/14/TwiXtter-delete)
-- [Si tout va bien](https://open-time.net/post/2024/11/13/Si-tout-va-bien)
 <!-- BLOG-POST-LIST:END -->
