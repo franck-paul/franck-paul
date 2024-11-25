@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Ça faisait un moment](https://open-time.net/post/2024/11/25/Ca-faisait-un-moment)
 - [Il a mal vieilli](https://open-time.net/post/2024/11/24/Il-a-mal-vieilli)
 - [Sont rigolos chez Flickr](https://open-time.net/post/2024/11/23/Sont-rigolos-chez-Flickr)
 - [Question](https://open-time.net/post/2024/11/22/Question)
 - [Campagne de test en situation réelle](https://open-time.net/post/2024/11/21/Campagne-de-test-en-situation-reelle)
-- [Upgrade](https://open-time.net/post/2024/11/20/Upgrade)
 <!-- BLOG-POST-LIST:END -->
