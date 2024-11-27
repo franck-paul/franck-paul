@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [On a assez attendu, non ?](https://open-time.net/post/2024/11/27/On-a-assez-attendu-non)
 - [Altitude](https://open-time.net/post/2024/11/26/Altitude)
 - [Ça faisait un moment](https://open-time.net/post/2024/11/25/Ca-faisait-un-moment)
 - [Il a mal vieilli](https://open-time.net/post/2024/11/24/Il-a-mal-vieilli)
 - [Sont rigolos chez Flickr](https://open-time.net/post/2024/11/23/Sont-rigolos-chez-Flickr)
-- [Question](https://open-time.net/post/2024/11/22/Question)
 <!-- BLOG-POST-LIST:END -->
