@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Ciel bleu n° 2](https://open-time.net/post/2024/11/29/Ciel-bleu-n-2)
 - [La flemme](https://open-time.net/post/2024/11/28/La-flemme)
 - [On a assez attendu, non ?](https://open-time.net/post/2024/11/27/On-a-assez-attendu-non)
 - [Altitude](https://open-time.net/post/2024/11/26/Altitude)
 - [Ça faisait un moment](https://open-time.net/post/2024/11/25/Ca-faisait-un-moment)
-- [Il a mal vieilli](https://open-time.net/post/2024/11/24/Il-a-mal-vieilli)
 <!-- BLOG-POST-LIST:END -->
