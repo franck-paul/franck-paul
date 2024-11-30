@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Dotclear et PHP 8.4](https://open-time.net/post/2024/11/30/Dotclear-et-PHP-84)
 - [Ciel bleu n° 2](https://open-time.net/post/2024/11/29/Ciel-bleu-n-2)
 - [La flemme](https://open-time.net/post/2024/11/28/La-flemme)
 - [On a assez attendu, non ?](https://open-time.net/post/2024/11/27/On-a-assez-attendu-non)
 - [Altitude](https://open-time.net/post/2024/11/26/Altitude)
-- [Ça faisait un moment](https://open-time.net/post/2024/11/25/Ca-faisait-un-moment)
 <!-- BLOG-POST-LIST:END -->
