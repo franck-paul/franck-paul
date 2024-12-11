@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [TwiXtter delete n° 3](https://open-time.net/post/2024/12/11/TwiXtter-delete-n-3)
 - [Deux pieds droits](https://open-time.net/post/2024/12/10/Deux-pieds-droits)
 - [Combi](https://open-time.net/post/2024/12/09/Combi)
 - [Mode sombre/clair automatique](https://open-time.net/post/2024/12/08/Mode-sombre/clair-automatique)
 - [Ça souffle](https://open-time.net/post/2024/12/07/Ca-souffle)
-- [Suggestion de discours présidentiel](https://open-time.net/post/2024/12/06/Suggestion-de-discours-presidentiel)
 <!-- BLOG-POST-LIST:END -->
