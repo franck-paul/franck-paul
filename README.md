@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Question à propos des mots-clés](https://open-time.net/post/2024/12/18/Question-a-propos-des-mots-cles)
 - [Floraison](https://open-time.net/post/2024/12/17/Floraison)
 - [Aussitôt ouvert, aussitôt fermé](https://open-time.net/post/2024/12/16/Aussitot-ouvert-aussitot-ferme)
 - [Là où je ne m&#39;y attendais pas](https://open-time.net/post/2024/12/15/La-ou-je-ne-m-y-attendais-pas)
 - [Lisibilité](https://open-time.net/post/2024/12/14/Lisibilite)
-- [Palette contrastée](https://open-time.net/post/2024/12/13/Palette-contrastee)
 <!-- BLOG-POST-LIST:END -->
