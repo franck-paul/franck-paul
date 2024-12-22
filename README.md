@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [TwiXtter delete n° 4](https://open-time.net/post/2024/12/22/TwiXtter-delete-n-4)
 - [Un peu de soleil](https://open-time.net/post/2024/12/21/Un-peu-de-soleil)
 - [Pétrichor](https://open-time.net/post/2024/12/20/Petrichor)
 - [Me suis fait eu](https://open-time.net/post/2024/12/19/Me-suis-fait-eu)
 - [Question à propos des mots-clés](https://open-time.net/post/2024/12/18/Question-a-propos-des-mots-cles)
-- [Floraison](https://open-time.net/post/2024/12/17/Floraison)
 <!-- BLOG-POST-LIST:END -->
