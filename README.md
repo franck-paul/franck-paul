@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Et si je faisais le bilan ?](https://open-time.net/post/2024/12/26/Et-si-je-faisais-le-bilan)
 - [Parole de femme](https://open-time.net/post/2024/12/25/Parole-de-femme)
 - [Fréquence, la solution](https://open-time.net/post/2024/12/24/Frequence-la-solution)
 - [Fréquence](https://open-time.net/post/2024/12/23/Frequence)
 - [TwiXtter delete n° 4](https://open-time.net/post/2024/12/22/TwiXtter-delete-n-4)
-- [Un peu de soleil](https://open-time.net/post/2024/12/21/Un-peu-de-soleil)
 <!-- BLOG-POST-LIST:END -->
