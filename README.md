@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Les mesures c&#39;est bien, mais](https://open-time.net/post/2025/01/03/Les-mesures-c-est-bien-mais)
 - [Legacy](https://open-time.net/post/2025/01/02/Legacy)
 - [Wish list du nouvel an](https://open-time.net/post/2025/01/01/Wish-list-du-nouvel-an)
 - [PHPDoc](https://open-time.net/post/2024/12/31/PHPDoc)
 - [Recharge de ciboulot](https://open-time.net/post/2024/12/30/Recharge-de-ciboulot)
-- [Rector, configuration](https://open-time.net/post/2024/12/29/Rector-configuration)
 <!-- BLOG-POST-LIST:END -->
