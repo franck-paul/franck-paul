@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Des fois la mer se fâche](https://open-time.net/post/2025/01/04/Des-fois-la-mer-se-fache)
 - [Les mesures c&#39;est bien, mais](https://open-time.net/post/2025/01/03/Les-mesures-c-est-bien-mais)
 - [Legacy](https://open-time.net/post/2025/01/02/Legacy)
 - [Wish list du nouvel an](https://open-time.net/post/2025/01/01/Wish-list-du-nouvel-an)
 - [PHPDoc](https://open-time.net/post/2024/12/31/PHPDoc)
-- [Recharge de ciboulot](https://open-time.net/post/2024/12/30/Recharge-de-ciboulot)
 <!-- BLOG-POST-LIST:END -->
