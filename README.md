@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Indice de durabilité de Dotclear](https://open-time.net/post/2025/01/09/Indice-de-durabilite-de-Dotclear)
 - [Mes nuits](https://open-time.net/post/2025/01/08/Mes-nuits)
 - [À l&#39;ouest rien de nouveau](https://open-time.net/post/2025/01/07/A-l-ouest-rien-de-nouveau)
 - [Ça se voit que](https://open-time.net/post/2025/01/06/Ca-se-voit-que)
 - [Wait and see](https://open-time.net/post/2025/01/05/Wait-and-see)
-- [Des fois la mer se fâche](https://open-time.net/post/2025/01/04/Des-fois-la-mer-se-fache)
 <!-- BLOG-POST-LIST:END -->
