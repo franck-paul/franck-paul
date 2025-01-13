@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Heredoc inception](https://open-time.net/post/2025/01/13/Heredoc-inception)
 - [Notules non diplomatiques n° 35](https://open-time.net/post/2025/01/12/Notules-non-diplomatiques-n-35)
 - [Alors non](https://open-time.net/post/2025/01/11/Alors-non)
 - [Product owner](https://open-time.net/post/2025/01/10/Product-owner)
 - [Indice de durabilité de Dotclear](https://open-time.net/post/2025/01/09/Indice-de-durabilite-de-Dotclear)
-- [Mes nuits](https://open-time.net/post/2025/01/08/Mes-nuits)
 <!-- BLOG-POST-LIST:END -->
