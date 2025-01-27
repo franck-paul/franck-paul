@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Le bouton rouge](https://open-time.net/post/2025/01/27/Le-bouton-rouge)
 - [Racing stewards](https://open-time.net/post/2025/01/26/Racing-stewards)
 - [Le juste milieu](https://open-time.net/post/2025/01/25/Le-juste-milieu)
 - [On va éviter à l&#39;avenir](https://open-time.net/post/2025/01/24/On-va-eviter-a-l-avenir)
 - [Salade du pêcheur](https://open-time.net/post/2025/01/23/Salade-du-pecheur)
-- [Wish-list d&#39;annif&#39;](https://open-time.net/post/2025/01/22/Wish-list-d-annif)
 <!-- BLOG-POST-LIST:END -->
