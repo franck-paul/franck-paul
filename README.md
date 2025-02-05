@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Motivation](https://open-time.net/post/2025/02/05/Motivation)
 - [Drôle de période](https://open-time.net/post/2025/02/04/Drole-de-periode)
 - [Galilée mode](https://open-time.net/post/2025/02/03/Galilee-mode)
 - [Pause](https://open-time.net/post/2025/02/02/Pause)
 - [Proof that I&#39;m a lazy](https://open-time.net/post/2025/02/01/Proof-that-I-m-a-lazy)
-- [Face de bouc](https://open-time.net/post/2025/01/31/Face-de-bouc)
 <!-- BLOG-POST-LIST:END -->
