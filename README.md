@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Enquête](https://open-time.net/post/2025/02/07/Enquete)
 - [Savon](https://open-time.net/post/2025/02/06/Savon)
 - [Motivation](https://open-time.net/post/2025/02/05/Motivation)
 - [Drôle de période](https://open-time.net/post/2025/02/04/Drole-de-periode)
 - [Galilée mode](https://open-time.net/post/2025/02/03/Galilee-mode)
-- [Pause](https://open-time.net/post/2025/02/02/Pause)
 <!-- BLOG-POST-LIST:END -->
