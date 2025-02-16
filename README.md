@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Vaguelettes](https://open-time.net/post/2025/02/16/Vaguelettes)
 - [Finalement](https://open-time.net/post/2025/02/15/Finalement)
 - [Jusque là](https://open-time.net/post/2025/02/14/Jusque-la)
 - [Treize](https://open-time.net/post/2025/02/13/Treize)
 - [Mystère](https://open-time.net/post/2025/02/12/Mystere)
-- [Plugins jQuery](https://open-time.net/post/2025/02/11/Plugins-jQuery)
 <!-- BLOG-POST-LIST:END -->
