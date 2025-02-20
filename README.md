@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Container](https://open-time.net/post/2025/02/20/Container)
 - [Mo](https://open-time.net/post/2025/02/19/Mo)
 - [Lightning](https://open-time.net/post/2025/02/18/Lightning)
 - [Quasi](https://open-time.net/post/2025/02/17/Quasi)
 - [Vaguelettes](https://open-time.net/post/2025/02/16/Vaguelettes)
-- [Finalement](https://open-time.net/post/2025/02/15/Finalement)
 <!-- BLOG-POST-LIST:END -->
