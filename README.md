@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Démarche artistique](https://open-time.net/post/2025/02/25/Demarche-artistique)
 - [Soyons honnêtes](https://open-time.net/post/2025/02/24/Soyons-honnetes)
 - [J&#39;en ai refait](https://open-time.net/post/2025/02/23/J-en-ai-refait)
 - [Vintage](https://open-time.net/post/2025/02/22/Vintage)
 - [Déco](https://open-time.net/post/2025/02/21/Deco)
-- [Container](https://open-time.net/post/2025/02/20/Container)
 <!-- BLOG-POST-LIST:END -->
