@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Au passage pas à niveau](https://open-time.net/post/2025/03/02/Au-passage-pas-a-niveau)
 - [Biclou](https://open-time.net/post/2025/03/01/Biclou)
 - [Bye Joplin, hello Obsidian](https://open-time.net/post/2025/02/28/Bye-Joplin-hello-Obsidian)
 - [De la doc, encore de la doc, toujours de la doc](https://open-time.net/post/2025/02/27/De-la-doc-encore-de-la-doc-toujours-de-la-doc)
 - [Programme électoral](https://open-time.net/post/2025/02/26/Programme-electoral)
-- [Démarche artistique](https://open-time.net/post/2025/02/25/Demarche-artistique)
 <!-- BLOG-POST-LIST:END -->
