@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Immanquablement](https://open-time.net/post/2025/03/05/Immanquablement)
 - [Roscoff](https://open-time.net/post/2025/03/04/Roscoff)
 - [Ne pas en oublier en chemin](https://open-time.net/post/2025/03/03/Ne-pas-en-oublier-en-chemin)
 - [Au passage pas à niveau](https://open-time.net/post/2025/03/02/Au-passage-pas-a-niveau)
 - [Biclou](https://open-time.net/post/2025/03/01/Biclou)
-- [Bye Joplin, hello Obsidian](https://open-time.net/post/2025/02/28/Bye-Joplin-hello-Obsidian)
 <!-- BLOG-POST-LIST:END -->
