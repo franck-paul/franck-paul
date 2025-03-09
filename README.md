@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [La cuillière](https://open-time.net/post/2025/03/09/La-cuilliere)
 - [Subliminal](https://open-time.net/post/2025/03/08/Subliminal)
 - [Aveux](https://open-time.net/post/2025/03/07/Aveux)
 - [Terminologie](https://open-time.net/post/2025/03/06/Terminologie)
 - [Immanquablement](https://open-time.net/post/2025/03/05/Immanquablement)
-- [Roscoff](https://open-time.net/post/2025/03/04/Roscoff)
 <!-- BLOG-POST-LIST:END -->
