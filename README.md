@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Firefox je te haime](https://open-time.net/post/2025/03/10/Firefox-je-te-haime)
 - [La cuillière](https://open-time.net/post/2025/03/09/La-cuilliere)
 - [Subliminal](https://open-time.net/post/2025/03/08/Subliminal)
 - [Aveux](https://open-time.net/post/2025/03/07/Aveux)
 - [Terminologie](https://open-time.net/post/2025/03/06/Terminologie)
-- [Immanquablement](https://open-time.net/post/2025/03/05/Immanquablement)
 <!-- BLOG-POST-LIST:END -->
