@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [TIL : pre-commit on stage](https://open-time.net/post/2025/03/14/TIL-%3A-pre-commit-on-stage)
 - [Sondage : sysInfo](https://open-time.net/post/2025/03/13/Sondage-%3A-sysInfo)
 - [T&#39;en fait trop, Windows !](https://open-time.net/post/2025/03/12/T-en-fait-trop-Windows-)
 - [Péage](https://open-time.net/post/2025/03/11/Peage)
 - [Firefox je te haime](https://open-time.net/post/2025/03/10/Firefox-je-te-haime)
-- [La cuillière](https://open-time.net/post/2025/03/09/La-cuilliere)
 <!-- BLOG-POST-LIST:END -->
