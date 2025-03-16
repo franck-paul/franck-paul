@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Code moche](https://open-time.net/post/2025/03/16/Code-moche)
 - [À jamais](https://open-time.net/post/2025/03/15/A-jamais)
 - [TIL : pre-commit on stage](https://open-time.net/post/2025/03/14/TIL-%3A-pre-commit-on-stage)
 - [Sondage : sysInfo](https://open-time.net/post/2025/03/13/Sondage-%3A-sysInfo)
 - [T&#39;en fait trop, Windows !](https://open-time.net/post/2025/03/12/T-en-fait-trop-Windows-)
-- [Péage](https://open-time.net/post/2025/03/11/Peage)
 <!-- BLOG-POST-LIST:END -->
