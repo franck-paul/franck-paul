@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Marée basse](https://open-time.net/post/2025/03/19/Maree-basse)
 - [Les p&#39;tits culs](https://open-time.net/post/2025/03/18/Les-p-tits-culs)
 - [Virée](https://open-time.net/post/2025/03/17/Viree)
 - [Code moche](https://open-time.net/post/2025/03/16/Code-moche)
 - [À jamais](https://open-time.net/post/2025/03/15/A-jamais)
-- [TIL : pre-commit on stage](https://open-time.net/post/2025/03/14/TIL-%3A-pre-commit-on-stage)
 <!-- BLOG-POST-LIST:END -->
