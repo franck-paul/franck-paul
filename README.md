@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [J&#39;ai bien dormi !](https://open-time.net/post/2025/03/31/J-ai-bien-dormi-)
 - [Oups](https://open-time.net/post/2025/03/30/Oups)
 - [Engine swap](https://open-time.net/post/2025/03/29/Engine-swap)
 - [On a pensé à tout](https://open-time.net/post/2025/03/28/On-a-pense-a-tout)
 - [Level up](https://open-time.net/post/2025/03/27/Level-up)
-- [Texte alternatif et description](https://open-time.net/post/2025/03/26/Texte-alternatif-et-description)
 <!-- BLOG-POST-LIST:END -->
