@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Dark and light](https://open-time.net/post/2025/04/07/Dark-and-light)
 - [Orange bleue marine](https://open-time.net/post/2025/04/06/Orange-bleue-marine)
 - [Chinoiseries](https://open-time.net/post/2025/04/05/Chinoiseries)
 - [Payback](https://open-time.net/post/2025/04/04/Payback)
 - [Mème](https://open-time.net/post/2025/04/03/Meme)
-- [Apple, t&#39;es gentil, mais t&#39;es lourd des fois](https://open-time.net/post/2025/04/02/Apple-t-es-gentil-mais-t-es-lourd-des-fois)
 <!-- BLOG-POST-LIST:END -->
