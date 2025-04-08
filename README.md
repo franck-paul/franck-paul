@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Soirée](https://open-time.net/post/2025/04/08/Soiree)
 - [Dark and light](https://open-time.net/post/2025/04/07/Dark-and-light)
 - [Orange bleue marine](https://open-time.net/post/2025/04/06/Orange-bleue-marine)
 - [Chinoiseries](https://open-time.net/post/2025/04/05/Chinoiseries)
 - [Payback](https://open-time.net/post/2025/04/04/Payback)
-- [Mème](https://open-time.net/post/2025/04/03/Meme)
 <!-- BLOG-POST-LIST:END -->
