@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Judée](https://open-time.net/post/2025/04/13/Judee)
 - [Programme](https://open-time.net/post/2025/04/12/Programme)
 - [Finalement](https://open-time.net/post/2025/04/11/Finalement)
 - [Après-midi](https://open-time.net/post/2025/04/10/Apres-midi)
 - [Matinée](https://open-time.net/post/2025/04/09/Matinee)
-- [Soirée](https://open-time.net/post/2025/04/08/Soiree)
 <!-- BLOG-POST-LIST:END -->
