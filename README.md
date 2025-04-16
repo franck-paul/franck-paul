@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [À la capitale](https://open-time.net/post/2025/04/16/A-la-capitale)
 - [Sur le retour](https://open-time.net/post/2025/04/15/Sur-le-retour)
 - [L&#39;auberge au milieu de la mer](https://open-time.net/post/2025/04/14/L-auberge-au-milieu-de-la-mer)
 - [Judée](https://open-time.net/post/2025/04/13/Judee)
 - [Programme](https://open-time.net/post/2025/04/12/Programme)
-- [Finalement](https://open-time.net/post/2025/04/11/Finalement)
 <!-- BLOG-POST-LIST:END -->
