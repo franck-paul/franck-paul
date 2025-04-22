@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Au fait ?](https://open-time.net/post/2025/04/22/Au-fait)
 - [Test JS actif ou pas](https://open-time.net/post/2025/04/21/Test-JS-actif-ou-pas)
 - [Visually hidden](https://open-time.net/post/2025/04/20/Visually-hidden)
 - [Conditions météo](https://open-time.net/post/2025/04/19/Conditions-meteo)
 - [CSS c&#39;est diablerie](https://open-time.net/post/2025/04/18/CSS-c-est-diablerie)
-- [Spoiler dans le texte, CSS seulement](https://open-time.net/post/2025/04/17/Spoiler-dans-le-texte-CSS-seulement)
 <!-- BLOG-POST-LIST:END -->
