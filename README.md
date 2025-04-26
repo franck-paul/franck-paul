@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Lisboa](https://open-time.net/post/2025/04/26/Lisboa)
 - [Respirez, inspirez](https://open-time.net/post/2025/04/25/Respirez-inspirez)
 - [Oui mais en fait non](https://open-time.net/post/2025/04/24/Oui-mais-en-fait-non)
 - [Dans la bonne direction](https://open-time.net/post/2025/04/23/Dans-la-bonne-direction)
 - [Au fait ?](https://open-time.net/post/2025/04/22/Au-fait)
-- [Test JS actif ou pas](https://open-time.net/post/2025/04/21/Test-JS-actif-ou-pas)
 <!-- BLOG-POST-LIST:END -->
