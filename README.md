@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Au fait, les boutons de l&#39;éditeur](https://open-time.net/post/2025/05/08/Au-fait-les-boutons-de-l-editeur)
 - [Je ne sais ce qu&#39;ils fabriquent](https://open-time.net/post/2025/05/07/Je-ne-sais-ce-qu-ils-fabriquent)
 - [Petite boucle](https://open-time.net/post/2025/05/06/Petite-boucle)
 - [Une seconde au tour](https://open-time.net/post/2025/05/05/Une-seconde-au-tour)
 - [C&#39;est agaçant](https://open-time.net/post/2025/05/04/C-est-agacant)
-- [Ça sent l&#39;été](https://open-time.net/post/2025/05/03/Ca-sent-l-ete)
 <!-- BLOG-POST-LIST:END -->
