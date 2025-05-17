@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Petit test d&#39;intelligence](https://open-time.net/post/2025/05/17/Petit-test-d-intelligence)
 - [Ça a failli](https://open-time.net/post/2025/05/16/Ca-a-failli)
 - [Quand je vous disais](https://open-time.net/post/2025/05/15/Quand-je-vous-disais)
 - [Allez hop, mise à jour à faire …](https://open-time.net/post/2025/05/14/Allez-hop-mise-a-jour-a-faire-)
 - [Le blog à m&#39;dame Lassalle](https://open-time.net/post/2025/05/13/Le-blog-a-m-dame-Lassalle)
-- [Se souvenir de moi](https://open-time.net/post/2025/05/12/Se-souvenir-de-moi)
 <!-- BLOG-POST-LIST:END -->
