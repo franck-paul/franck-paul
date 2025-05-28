@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Évolution](https://open-time.net/post/2025/05/28/Evolution)
 - [J&#39;suis très légèrement agacé](https://open-time.net/post/2025/05/27/J-suis-tres-legerement-agace)
 - [Au fait vous saviez ?](https://open-time.net/post/2025/05/26/Au-fait-vous-saviez)
 - [Éclipse](https://open-time.net/post/2025/05/25/Eclipse)
 - [Le cri du goéland le soir au-dessus des jonques](https://open-time.net/post/2025/05/24/Le-cri-du-goeland-le-soir-au-dessus-des-jonques)
-- [Markdown, dans le texte](https://open-time.net/post/2025/05/23/Markdown-dans-le-texte)
 <!-- BLOG-POST-LIST:END -->
