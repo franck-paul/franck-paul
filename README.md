@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Rappel](https://open-time.net/post/2025/06/02/Rappel)
 - [Souvenirs de gamin](https://open-time.net/post/2025/06/01/Souvenirs-de-gamin)
 - [Évolution bis](https://open-time.net/post/2025/05/31/Evolution-bis)
 - [Sont rigolos chez Slate](https://open-time.net/post/2025/05/30/Sont-rigolos-chez-Slate)
 - [Sunset by the seashore](https://open-time.net/post/2025/05/29/Sunset-by-the-seashore)
-- [Évolution](https://open-time.net/post/2025/05/28/Evolution)
 <!-- BLOG-POST-LIST:END -->
