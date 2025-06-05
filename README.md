@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Complètement à l&#39;ouest](https://open-time.net/post/2025/06/05/Completement-a-l-ouest)
 - [Si jamais](https://open-time.net/post/2025/06/04/Si-jamais)
 - [Salade d&#39;ingrédients](https://open-time.net/post/2025/06/03/Salade-d-ingredients)
 - [Rappel](https://open-time.net/post/2025/06/02/Rappel)
 - [Souvenirs de gamin](https://open-time.net/post/2025/06/01/Souvenirs-de-gamin)
-- [Évolution bis](https://open-time.net/post/2025/05/31/Evolution-bis)
 <!-- BLOG-POST-LIST:END -->
