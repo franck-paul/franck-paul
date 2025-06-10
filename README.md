@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Ça va être fun n° 2](https://open-time.net/post/2025/06/10/Ca-va-etre-fun-n-2)
 - [Ça va être fun](https://open-time.net/post/2025/06/09/Ca-va-etre-fun)
 - [Mise à jour](https://open-time.net/post/2025/06/08/Mise-a-jour)
 - [Casse la tête](https://open-time.net/post/2025/06/07/Casse-la-tete)
 - [Encore une épiphanie](https://open-time.net/post/2025/06/06/Encore-une-epiphanie)
-- [Complètement à l&#39;ouest](https://open-time.net/post/2025/06/05/Completement-a-l-ouest)
 <!-- BLOG-POST-LIST:END -->
