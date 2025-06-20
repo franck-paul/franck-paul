@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Je les aime pas](https://open-time.net/post/2025/06/20/Je-les-aime-pas)
 - [Tu quoque](https://open-time.net/post/2025/06/19/tu-quoque)
 - [GPS Pas finaud](https://open-time.net/post/2025/06/18/GPS-Pas-finaud)
 - [Casse pas ma tête !](https://open-time.net/post/2025/06/17/Casse-pas-ma-tete-)
 - [La mer va me manquer](https://open-time.net/post/2025/06/16/La-mer-va-me-manquer)
-- [Pourquoi je préfère Markdown ?](https://open-time.net/post/2025/06/15/Pourquoi-je-prefere-Markdown)
 <!-- BLOG-POST-LIST:END -->
