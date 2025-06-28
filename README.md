@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Question](https://open-time.net/post/2025/06/28/Question)
 - [Maestro](https://open-time.net/post/2025/06/27/Maestro)
 - [Pas mal](https://open-time.net/post/2025/06/26/Pas-mal)
 - [Repos](https://open-time.net/post/2025/06/25/Repos)
 - [Les API qui rouillent](https://open-time.net/post/2025/06/24/Les-API-qui-rouillent)
-- [UX de mayrde](https://open-time.net/post/2025/06/23/UX-de-mayrde)
 <!-- BLOG-POST-LIST:END -->
