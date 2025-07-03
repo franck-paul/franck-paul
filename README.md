@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Markdown dans les commentaires](https://open-time.net/post/2025/07/03/Markdown-dans-les-commentaires)
 - [Dialogues](https://open-time.net/post/2025/07/02/Dialogues)
 - [Les panneaux stop](https://open-time.net/post/2025/07/01/Les-panneaux-stop)
 - [Paix des ménages &lpar;à peu presque&rpar;](https://open-time.net/post/2025/06/30/Paix-des-menages-a-peu-presque)
 - [Adapter un thème pour Dotclear 2.35](https://open-time.net/post/2025/06/29/Adapter-un-theme-pour-Dotclear-235)
-- [Question](https://open-time.net/post/2025/06/28/Question)
 <!-- BLOG-POST-LIST:END -->
