@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Délai de grâce](https://open-time.net/post/2025/07/08/Delai-de-grace)
 - [Tirer un trait sur l&#39;incise](https://open-time.net/post/2025/07/07/Tirer-un-trait-sur-l-incise)
 - [1.2.Train](https://open-time.net/post/2025/07/06/12Train)
 - [Changement de crèmerie](https://open-time.net/post/2025/07/05/Changement-de-cremerie)
 - [Ruissellement](https://open-time.net/post/2025/07/04/Ruissellement)
-- [Markdown dans les commentaires](https://open-time.net/post/2025/07/03/Markdown-dans-les-commentaires)
 <!-- BLOG-POST-LIST:END -->
