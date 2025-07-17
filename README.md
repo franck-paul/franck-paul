@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Média externe, Mastodon](https://open-time.net/post/2025/07/17/Media-externe-Mastodon)
 - [Sueur tiède](https://open-time.net/post/2025/07/16/Sueur-tiede)
 - [Recherche, suite](https://open-time.net/post/2025/07/15/Recherche-suite)
 - [Recherche](https://open-time.net/post/2025/07/14/Recherche)
 - [Intégration de médias externes, suite](https://open-time.net/post/2025/07/13/Integration-de-medias-externes-suite)
-- [Intégration de média externe, petit test](https://open-time.net/post/2025/07/12/Integration-de-media-externe-petit-test)
 <!-- BLOG-POST-LIST:END -->
