@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [PHPDocumentor vs Doxygen](https://open-time.net/post/2025/07/20/PHPDocumentor-vs-Doxygen)
 - [Doxygen, subtilités](https://open-time.net/post/2025/07/19/Doxygen-subtilites)
 - [Configuration basique de thème](https://open-time.net/post/2025/07/18/Configuration-basique-de-theme)
 - [Média externe, Mastodon](https://open-time.net/post/2025/07/17/Media-externe-Mastodon)
 - [Sueur tiède](https://open-time.net/post/2025/07/16/Sueur-tiede)
-- [Recherche, suite](https://open-time.net/post/2025/07/15/Recherche-suite)
 <!-- BLOG-POST-LIST:END -->
