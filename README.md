@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Un désastre par semaine, c&#39;est déjà un de trop :&rpar;](https://open-time.net/post/2025/07/25/Un-desastre-par-semaine-c-est-deja-un-de-trop-%3A)
 - [Alors en fait](https://open-time.net/post/2025/07/24/Alors-en-fait)
 - [Ça ne se fera pas en ligne](https://open-time.net/post/2025/07/23/Ca-ne-se-fera-pas-en-ligne)
 - [La fausse bonne idée](https://open-time.net/post/2025/07/22/La-fausse-bonne-idee)
 - [Sygnał w języku polskim](https://open-time.net/post/2025/07/21/Sygna-w-jzyku-polskim)
-- [PHPDocumentor vs Doxygen](https://open-time.net/post/2025/07/20/PHPDocumentor-vs-Doxygen)
 <!-- BLOG-POST-LIST:END -->
