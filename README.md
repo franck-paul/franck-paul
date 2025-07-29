@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Builds](https://open-time.net/post/2025/07/29/Builds)
 - [Resolver DNS](https://open-time.net/post/2025/07/28/Resolver-DNS)
 - [Tickets](https://open-time.net/post/2025/07/27/Tickets)
 - [Petite liste](https://open-time.net/post/2025/07/26/Petite-liste)
 - [Un désastre par semaine, c&#39;est déjà un de trop :&rpar;](https://open-time.net/post/2025/07/25/Un-desastre-par-semaine-c-est-deja-un-de-trop-%3A)
-- [Alors en fait](https://open-time.net/post/2025/07/24/Alors-en-fait)
 <!-- BLOG-POST-LIST:END -->
