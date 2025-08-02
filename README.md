@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Petit test rapide](https://open-time.net/post/2025/08/02/Petit-test-rapide)
 - [Minimaliste](https://open-time.net/post/2025/08/01/Minimaliste)
 - [Aide](https://open-time.net/post/2025/07/31/Aide)
 - [Nightlies](https://open-time.net/post/2025/07/30/Nightlies)
 - [Builds](https://open-time.net/post/2025/07/29/Builds)
-- [Resolver DNS](https://open-time.net/post/2025/07/28/Resolver-DNS)
 <!-- BLOG-POST-LIST:END -->
