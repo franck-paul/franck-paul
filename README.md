@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Ça devient compliqué](https://open-time.net/post/2025/08/04/Ca-devient-complique)
 - [Armés jusqu&#39;aux dents](https://open-time.net/post/2025/08/03/Armes-jusqu-aux-dents)
 - [Petit test rapide](https://open-time.net/post/2025/08/02/Petit-test-rapide)
 - [Minimaliste](https://open-time.net/post/2025/08/01/Minimaliste)
 - [Aide](https://open-time.net/post/2025/07/31/Aide)
-- [Nightlies](https://open-time.net/post/2025/07/30/Nightlies)
 <!-- BLOG-POST-LIST:END -->
