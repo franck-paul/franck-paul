@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Sauces kipik](https://open-time.net/post/2025/08/10/Sauces-kipik)
 - [Couverture de code](https://open-time.net/post/2025/08/09/Couverture-de-code)
 - [Et voilà, c&#39;est reparti comme en quatorze](https://open-time.net/post/2025/08/08/Et-voila-c-est-reparti-comme-en-quatorze)
 - [Time Machine sur Time Capsule](https://open-time.net/post/2025/08/07/Time-Machine-sur-Time-Capsule)
 - [Au bord de l&#39;étrange](https://open-time.net/post/2025/08/06/Au-bord-de-l-etrange)
-- [Comment gérer le passif ?](https://open-time.net/post/2025/08/05/Comment-gerer-le-passif)
 <!-- BLOG-POST-LIST:END -->
