@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [On se demande bien pourquoi !](https://open-time.net/post/2025/08/15/On-se-demande-bien-pourquoi-)
 - [Ça n&#39;a pas manqué](https://open-time.net/post/2025/08/14/Ca-n-a-pas-manque)
 - [Vais aller me promener](https://open-time.net/post/2025/08/13/Vais-aller-me-promener)
 - [Préparation](https://open-time.net/post/2025/08/12/Preparation)
 - [PHPUnit tips](https://open-time.net/post/2025/08/11/PHPUnit-tips)
-- [Sauces kipik](https://open-time.net/post/2025/08/10/Sauces-kipik)
 <!-- BLOG-POST-LIST:END -->
