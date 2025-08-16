@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Le changement et le mouvement](https://open-time.net/post/2025/08/16/Le-changement-et-le-mouvement)
 - [On se demande bien pourquoi !](https://open-time.net/post/2025/08/15/On-se-demande-bien-pourquoi-)
 - [Ça n&#39;a pas manqué](https://open-time.net/post/2025/08/14/Ca-n-a-pas-manque)
 - [Vais aller me promener](https://open-time.net/post/2025/08/13/Vais-aller-me-promener)
 - [Préparation](https://open-time.net/post/2025/08/12/Preparation)
-- [PHPUnit tips](https://open-time.net/post/2025/08/11/PHPUnit-tips)
 <!-- BLOG-POST-LIST:END -->
