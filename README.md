@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Exterminate](https://open-time.net/post/2025/08/22/Exterminate)
 - [Huit à neuf](https://open-time.net/post/2025/08/21/Huit-a-neuf)
 - [Mouillage](https://open-time.net/post/2025/08/20/Mouillage)
 - [La nouvelle gestion des thèmes](https://open-time.net/post/2025/08/19/La-nouvelle-gestion-des-themes)
 - [Hermine](https://open-time.net/post/2025/08/18/Hermine)
-- [Point focal](https://open-time.net/post/2025/08/17/Point-focal)
 <!-- BLOG-POST-LIST:END -->
