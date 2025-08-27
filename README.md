@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Eh bien en fait](https://open-time.net/post/2025/08/27/Eh-bien-en-fait)
 - [Désanimer l&#39;animation](https://open-time.net/post/2025/08/26/Desanimer-l-animation)
 - [Persévérance](https://open-time.net/post/2025/08/25/Perseverance)
 - [PHPUnit tips n° 2](https://open-time.net/post/2025/08/22/PHPUnit-tips-n-2)
 - [Infinite](https://open-time.net/post/2025/08/23/Infinite)
-- [Exterminate](https://open-time.net/post/2025/08/22/Exterminate)
 <!-- BLOG-POST-LIST:END -->
