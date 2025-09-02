@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Vous pouvez traduire la question ?](https://open-time.net/post/2025/09/02/Vous-pouvez-traduire-la-question)
 - [Au ras des pâquerettes](https://open-time.net/post/2025/09/01/Au-ras-des-paquerettes)
 - [Migration](https://open-time.net/post/2025/08/31/Migration)
 - [Wysiwyg](https://open-time.net/post/2025/08/30/Wysiwyg)
 - [Le discours inachevé](https://open-time.net/post/2025/08/29/Le-discours-inacheve)
-- [PHPUnit tips n° 3](https://open-time.net/post/2025/08/28/PHPUnit-tips-n-3)
 <!-- BLOG-POST-LIST:END -->
