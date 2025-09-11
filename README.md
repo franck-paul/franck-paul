@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [La fibre c&#39;est bon pour le transit](https://open-time.net/post/2025/09/11/La-fibre-c-est-bon-pour-le-transit)
 - [Modifier un thème, côté utilisateur](https://open-time.net/post/2025/09/10/Modifier-un-theme-cote-utilisateur)
 - [Ambiance](https://open-time.net/post/2025/09/09/Ambiance)
 - [Corps parfait](https://open-time.net/post/2025/09/08/Corps-parfait)
 - [Roh](https://open-time.net/post/2025/09/07/Roh)
-- [Vivaldi](https://open-time.net/post/2025/09/06/Vivaldi)
 <!-- BLOG-POST-LIST:END -->
