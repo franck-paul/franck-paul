@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [En parlant de fibre](https://open-time.net/post/2025/09/15/En-parlant-de-fibre)
 - [Un peu](https://open-time.net/post/2025/09/14/Un-peu)
 - [Frères ennemis](https://open-time.net/post/2025/09/13/Freres-ennemis)
 - [Je n&#39;irai pas manifester](https://open-time.net/post/2025/09/12/Je-n-irai-pas-manifester)
 - [La fibre c&#39;est bon pour le transit](https://open-time.net/post/2025/09/11/La-fibre-c-est-bon-pour-le-transit)
-- [Modifier un thème, côté utilisateur](https://open-time.net/post/2025/09/10/Modifier-un-theme-cote-utilisateur)
 <!-- BLOG-POST-LIST:END -->
