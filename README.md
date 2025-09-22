@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Brèves de pharmacie](https://open-time.net/post/2025/09/22/Breves-de-pharmacie)
 - [Sunset](https://open-time.net/post/2025/09/21/Sunset)
 - [Question à six sous](https://open-time.net/post/2025/09/20/Question-a-six-sous)
 - [Barre d&#39;outils](https://open-time.net/post/2025/09/19/Barre-d-outils)
 - [Liquide](https://open-time.net/post/2025/09/18/Liquide)
-- [Sélecteur CSS](https://open-time.net/post/2025/09/17/Selecteur-CSS)
 <!-- BLOG-POST-LIST:END -->
