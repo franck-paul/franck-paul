@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Récupération](https://open-time.net/post/2025/09/27/Recuperation)
 - [Seconde](https://open-time.net/post/2025/09/26/Seconde)
 - [Première](https://open-time.net/post/2025/09/25/Premiere)
 - [Journée off](https://open-time.net/post/2025/09/24/Journee-off)
 - [Paris Web is coming](https://open-time.net/post/2025/09/23/Paris-Web-is-coming)
-- [Brèves de pharmacie](https://open-time.net/post/2025/09/22/Breves-de-pharmacie)
 <!-- BLOG-POST-LIST:END -->
