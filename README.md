@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Mobile first - vendredi](https://open-time.net/post/2025/10/03/Mobile-first-vendredi)
 - [Mobile first - jeudi](https://open-time.net/post/2025/10/02/Mobile-first-jeudi)
 - [Mobile first - mercredi](https://open-time.net/post/2025/10/01/Mobile-first-mercredi)
 - [Mobile first - mardi](https://open-time.net/post/2025/09/30/Mobile-first-mardi)
 - [Mobile first](https://open-time.net/post/2025/09/29/Mobile-first)
-- [Le petit frisson](https://open-time.net/post/2025/09/28/Le-petit-frisson)
 <!-- BLOG-POST-LIST:END -->
