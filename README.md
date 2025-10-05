@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Quel monde ?](https://open-time.net/post/2025/10/05/Quel-monde)
 - [Mobile first - samedi](https://open-time.net/post/2025/10/04/Mobile-first-samedi)
 - [Mobile first - vendredi](https://open-time.net/post/2025/10/03/Mobile-first-vendredi)
 - [Mobile first - jeudi](https://open-time.net/post/2025/10/02/Mobile-first-jeudi)
 - [Mobile first - mercredi](https://open-time.net/post/2025/10/01/Mobile-first-mercredi)
-- [Mobile first - mardi](https://open-time.net/post/2025/09/30/Mobile-first-mardi)
 <!-- BLOG-POST-LIST:END -->
