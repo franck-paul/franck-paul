@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Comme souvent](https://open-time.net/post/2025/10/08/Comme-souvent)
 - [Et donc ?](https://open-time.net/post/2025/10/07/Et-donc)
 - [Magick](https://open-time.net/post/2025/10/06/Magick)
 - [Quel monde ?](https://open-time.net/post/2025/10/05/Quel-monde)
 - [Mobile first - samedi](https://open-time.net/post/2025/10/04/Mobile-first-samedi)
-- [Mobile first - vendredi](https://open-time.net/post/2025/10/03/Mobile-first-vendredi)
 <!-- BLOG-POST-LIST:END -->
