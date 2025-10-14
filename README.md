@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Tiens tiens](https://open-time.net/post/2025/10/14/Tiens-tiens)
 - [J&#39;suis pas menuisier](https://open-time.net/post/2025/10/13/J-suis-pas-menuisier)
 - [La qualité asymptotique](https://open-time.net/post/2025/10/12/La-qualite-asymptotique)
 - [light-dark&lpar;&rpar;](https://open-time.net/post/2025/10/11/light-dark)
 - [Fin de règne](https://open-time.net/post/2025/10/10/Fin-de-regne)
-- [Mobile first - off](https://open-time.net/post/2025/10/09/Mobile-first-off)
 <!-- BLOG-POST-LIST:END -->
