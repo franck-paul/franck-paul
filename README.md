@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Dongle Zigbee](https://open-time.net/post/2025/10/18/Dongle-Zigbee)
 - [Les favoris dans un dock](https://open-time.net/post/2025/10/17/Les-favoris-dans-un-dock)
 - [Je sais](https://open-time.net/post/2025/10/16/Je-sais)
 - [Petite virée](https://open-time.net/post/2025/10/15/Petite-viree)
 - [Tiens tiens](https://open-time.net/post/2025/10/14/Tiens-tiens)
-- [J&#39;suis pas menuisier](https://open-time.net/post/2025/10/13/J-suis-pas-menuisier)
 <!-- BLOG-POST-LIST:END -->
