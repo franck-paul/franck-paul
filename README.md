@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Empilement](https://open-time.net/post/2025/10/22/Empilement)
 - [Pas une ligne de javascript](https://open-time.net/post/2025/10/21/Pas-une-ligne-de-javascript)
 - [Clone](https://open-time.net/post/2025/10/20/Clone)
 - [De la couleur](https://open-time.net/post/2025/10/19/De-la-couleur)
 - [Dongle Zigbee](https://open-time.net/post/2025/10/18/Dongle-Zigbee)
-- [Les favoris dans un dock](https://open-time.net/post/2025/10/17/Les-favoris-dans-un-dock)
 <!-- BLOG-POST-LIST:END -->
