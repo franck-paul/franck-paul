@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Dette technique](https://open-time.net/post/2025/10/27/Dette-technique)
 - [Mise à jour automatique](https://open-time.net/post/2025/10/26/Mise-a-jour-automatique)
 - [Ma grand-mère avec un compte Twitter et la bombe atomique](https://open-time.net/post/2025/10/25/Ma-grand-mere-avec-un-compte-Twitter-et-la-bombe-atomique)
 - [Vous savez quoi ?](https://open-time.net/post/2025/10/24/Vous-savez-quoi)
 - [Ascenseur horizontal](https://open-time.net/post/2025/10/23/Ascenseur-horizontal)
-- [Empilement](https://open-time.net/post/2025/10/22/Empilement)
 <!-- BLOG-POST-LIST:END -->
