@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Polyglotte, mais pas trop](https://open-time.net/post/2025/11/01/Polyglotte-mais-pas-trop)
 - [Transpiration](https://open-time.net/post/2025/10/31/Transpiration)
 - [Elle va être bien …](https://open-time.net/post/2025/10/30/Elle-va-etre-bien-)
 - [UTF8-mb4](https://open-time.net/post/2025/10/29/UTF8-mb4)
 - [Mood](https://open-time.net/post/2025/10/28/Mood)
-- [Dette technique](https://open-time.net/post/2025/10/27/Dette-technique)
 <!-- BLOG-POST-LIST:END -->
