@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Tidy](https://open-time.net/post/2025/11/04/Tidy)
 - [Niveaux](https://open-time.net/post/2025/11/03/Niveaux)
 - [Bilan dégressif](https://open-time.net/post/2025/11/02/Bilan-degressif)
 - [Polyglotte, mais pas trop](https://open-time.net/post/2025/11/01/Polyglotte-mais-pas-trop)
 - [Transpiration](https://open-time.net/post/2025/10/31/Transpiration)
-- [Elle va être bien …](https://open-time.net/post/2025/10/30/Elle-va-etre-bien-)
 <!-- BLOG-POST-LIST:END -->
