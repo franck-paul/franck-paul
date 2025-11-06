@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Repos](https://open-time.net/post/2025/11/06/Repos)
 - [Cloaque social](https://open-time.net/post/2025/11/05/Cloaque-social)
 - [Tidy](https://open-time.net/post/2025/11/04/Tidy)
 - [Niveaux](https://open-time.net/post/2025/11/03/Niveaux)
 - [Bilan dégressif](https://open-time.net/post/2025/11/02/Bilan-degressif)
-- [Polyglotte, mais pas trop](https://open-time.net/post/2025/11/01/Polyglotte-mais-pas-trop)
 <!-- BLOG-POST-LIST:END -->
