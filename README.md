@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Temps couvert](https://open-time.net/post/2025/11/09/Temps-couvert)
 - [Vaccins](https://open-time.net/post/2025/11/08/Vaccins)
 - [En fait, non](https://open-time.net/post/2025/11/07/En-fait-non)
 - [Repos](https://open-time.net/post/2025/11/06/Repos)
 - [Cloaque social](https://open-time.net/post/2025/11/05/Cloaque-social)
-- [Tidy](https://open-time.net/post/2025/11/04/Tidy)
 <!-- BLOG-POST-LIST:END -->
