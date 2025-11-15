@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Précautions](https://open-time.net/post/2025/11/15/Precautions)
 - [Pi Hole - DNS](https://open-time.net/post/2025/11/14/Pi-Hole-DNS)
 - [Quelques étapes encore](https://open-time.net/post/2025/11/13/Quelques-etapes-encore)
 - [Demain c&#39;est jour de sortie](https://open-time.net/post/2025/11/12/Demain-c-est-jour-de-sortie)
 - [Monnaie](https://open-time.net/post/2025/11/11/Monnaie)
-- [Fou tout le temps](https://open-time.net/post/2025/11/10/Fou-tout-le-temps)
 <!-- BLOG-POST-LIST:END -->
