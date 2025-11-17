@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Créer un fichier theme.jpg pour un thème Dotclear](https://open-time.net/post/2025/11/17/Creer-un-fichier-themejpg-pour-un-theme-Dotclear)
 - [Documentation des plugins](https://open-time.net/post/2025/11/16/Documentation-des-plugins)
 - [Précautions](https://open-time.net/post/2025/11/15/Precautions)
 - [Pi Hole - DNS](https://open-time.net/post/2025/11/14/Pi-Hole-DNS)
 - [Quelques étapes encore](https://open-time.net/post/2025/11/13/Quelques-etapes-encore)
-- [Demain c&#39;est jour de sortie](https://open-time.net/post/2025/11/12/Demain-c-est-jour-de-sortie)
 <!-- BLOG-POST-LIST:END -->
