@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Tour](https://open-time.net/post/2025/11/22/Tour)
 - [Question](https://open-time.net/post/2025/11/21/Question)
 - [Insensible à la casse](https://open-time.net/post/2025/11/20/Insensible-a-la-casse)
 - [Informations locales, payantes](https://open-time.net/post/2025/11/19/Informations-locales-payantes)
 - [Plugin bigfoot](https://open-time.net/post/2025/11/18/Plugin-bigfoot)
-- [Créer un fichier theme.jpg pour un thème Dotclear](https://open-time.net/post/2025/11/17/Creer-un-fichier-themejpg-pour-un-theme-Dotclear)
 <!-- BLOG-POST-LIST:END -->
