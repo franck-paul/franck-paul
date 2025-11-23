@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Representation matters](https://open-time.net/post/2025/11/23/Representation-matters)
 - [Tour](https://open-time.net/post/2025/11/22/Tour)
 - [Question](https://open-time.net/post/2025/11/21/Question)
 - [Insensible à la casse](https://open-time.net/post/2025/11/20/Insensible-a-la-casse)
 - [Informations locales, payantes](https://open-time.net/post/2025/11/19/Informations-locales-payantes)
-- [Plugin bigfoot](https://open-time.net/post/2025/11/18/Plugin-bigfoot)
 <!-- BLOG-POST-LIST:END -->
