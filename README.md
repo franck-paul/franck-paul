@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [PHP, php](https://open-time.net/post/2025/11/25/PHP-php)
 - [Le grand nord](https://open-time.net/post/2025/11/24/Le-grand-nord)
 - [Representation matters](https://open-time.net/post/2025/11/23/Representation-matters)
 - [Tour](https://open-time.net/post/2025/11/22/Tour)
 - [Question](https://open-time.net/post/2025/11/21/Question)
-- [Insensible à la casse](https://open-time.net/post/2025/11/20/Insensible-a-la-casse)
 <!-- BLOG-POST-LIST:END -->
