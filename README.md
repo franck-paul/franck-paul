@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [It&#39;s all I want](https://open-time.net/post/2025/12/05/It-s-all-I-want)
 - [PHP 8.5 et xdebug](https://open-time.net/post/2025/12/04/PHP-85-et-xdebug)
 - [Dirty](https://open-time.net/post/2025/12/03/Dirty)
 - [Labyrinthistiquement](https://open-time.net/post/2025/12/02/Labyrinthistiquement)
 - [tidyAdmin - Double clic sur l&#39;en-tête pour changer de thème](https://open-time.net/post/2025/12/01/tidyAdmin-Double-clic-sur-l-en-tete-pour-changer-de-theme)
-- [Notules non diplomatiques n° 38](https://open-time.net/post/2025/11/30/Notules-non-diplomatiques-n-38)
 <!-- BLOG-POST-LIST:END -->
