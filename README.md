@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Power pack GT7](https://open-time.net/post/2025/12/07/Power-pack-GT7)
 - [tidyAdmin - Stopper les requêtes Fetch](https://open-time.net/post/2025/12/06/tidyAdmin-Stopper-les-requetes-Fetch)
 - [It&#39;s all I want](https://open-time.net/post/2025/12/05/It-s-all-I-want)
 - [PHP 8.5 et xdebug](https://open-time.net/post/2025/12/04/PHP-85-et-xdebug)
 - [Dirty](https://open-time.net/post/2025/12/03/Dirty)
-- [Labyrinthistiquement](https://open-time.net/post/2025/12/02/Labyrinthistiquement)
 <!-- BLOG-POST-LIST:END -->
