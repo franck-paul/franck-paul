@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Ça s&#39;éclaircit](https://open-time.net/post/2025/12/13/Ca-s-eclaircit)
 - [Le Finistère](https://open-time.net/post/2025/12/12/Le-Finistere)
 - [Robinson](https://open-time.net/post/2025/12/11/Robinson)
 - [tidyAdmin - Utiliser une couleur de fond particulière pour l&#39;en-tête](https://open-time.net/post/2025/12/10/tidyAdmin-Utiliser-une-couleur-de-fond-particuliere-pour-l-en-tete)
 - [Eurêka](https://open-time.net/post/2025/12/09/Eureka)
-- [Le monte-charge poids plume](https://open-time.net/post/2025/12/08/Le-monte-charge-poids-plume)
 <!-- BLOG-POST-LIST:END -->
