@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [C’était joyeux](https://open-time.net/post/2025/12/15/C-etait-joyeux)
 - [tidyAdmin - Activer la détection du survol de la souris sur la barre de réduction du menu](https://open-time.net/post/2024/12/14/tidyAdmin-Activer-la-detection-du-survol-de-la-souris-sur-la-barre-de-reduction-du-menu)
 - [Ça s&#39;éclaircit](https://open-time.net/post/2025/12/13/Ca-s-eclaircit)
 - [Le Finistère](https://open-time.net/post/2025/12/12/Le-Finistere)
 - [Robinson](https://open-time.net/post/2025/12/11/Robinson)
-- [tidyAdmin - Utiliser une couleur de fond particulière pour l&#39;en-tête](https://open-time.net/post/2025/12/10/tidyAdmin-Utiliser-une-couleur-de-fond-particuliere-pour-l-en-tete)
 <!-- BLOG-POST-LIST:END -->
