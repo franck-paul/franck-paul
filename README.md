@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [tidyAdmin - Bouton d’échange entre le texte alternatif et la description du média](https://open-time.net/post/2025/12/23/tidyAdmin-Bouton-dechange-entre-le-texte-alternatif-et-la-description-du-media)
 - [Le petit truc qui](https://open-time.net/post/2025/12/22/Le-petit-truc-qui)
 - [Dotclear](https://open-time.net/post/2025/12/21/Dotclear)
 - [tidyAdmin - Cloner le champ de recherche de la médiathèque](https://open-time.net/post/2025/12/20/tidyAdmin-Cloner-le-champ-de-recherche-de-la-mediatheque)
 - [Lâcher prise](https://open-time.net/post/2025/12/19/Lacher-prise)
-- [Bouclier](https://open-time.net/post/2025/12/18/Bouclier)
 <!-- BLOG-POST-LIST:END -->
