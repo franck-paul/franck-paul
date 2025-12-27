@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Bilan](https://open-time.net/post/2025/12/27/Bilan)
 - [Grosse fatigue](https://open-time.net/post/2025/12/26/Grosse-fatigue)
 - [Tri](https://open-time.net/post/2025/12/25/Tri)
 - [Pédalier](https://open-time.net/post/2025/12/24/Pedalier)
 - [tidyAdmin - Bouton d’échange entre le texte alternatif et la description du média](https://open-time.net/post/2025/12/23/tidyAdmin-Bouton-dechange-entre-le-texte-alternatif-et-la-description-du-media)
-- [Le petit truc qui](https://open-time.net/post/2025/12/22/Le-petit-truc-qui)
 <!-- BLOG-POST-LIST:END -->
