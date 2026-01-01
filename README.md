@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [C’est joli l’arabe](https://open-time.net/post/2026/01/01/Cest-joli-larabe)
+- [Allumer](https://open-time.net/post/2026/01/01/Allumer)
 - [Éteindre](https://open-time.net/post/2025/12/31/Eteindre)
 - [Quarante-huit heures chrono](https://open-time.net/post/2025/12/30/Quarante-huit-heures-chrono)
 - [Power pack GT7 - n°2](https://open-time.net/post/2025/12/29/Power-pack-GT7-n2)
-- [tidyAdmin - Éditeur de thème](https://open-time.net/post/2025/12/28/tidyAdmin-Editeur-de-theme)
-- [Bilan](https://open-time.net/post/2025/12/27/Bilan)
 <!-- BLOG-POST-LIST:END -->
