@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Les histoires sont faites](https://open-time.net/post/2026/01/04/Les-histoires-sont-faites)
 - [Le lucre et la gloriole](https://open-time.net/post/2026/01/03/Le-lucre-et-la-gloriole)
 - [tidyAdmin - Remonter le lien vers les réglages de plugin](https://open-time.net/post/2026/01/02/tidyAdmin-Remonter-le-lien-vers-les-reglages-de-plugin)
 - [C’est joli l’arabe](https://open-time.net/post/2026/01/01/Cest-joli-larabe)
 - [Allumer](https://open-time.net/post/2026/01/01/Allumer)
-- [Éteindre](https://open-time.net/post/2025/12/31/Eteindre)
 <!-- BLOG-POST-LIST:END -->
