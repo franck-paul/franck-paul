@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [tidyAdmin - Toujours afficher la barre d’outils de l’éditeur](https://open-time.net/post/2026/01/06/tidyAdmin-Toujours-afficher-la-barre-doutils-de-lediteur)
 - [Script kiddies](https://open-time.net/post/2026/01/05/Script-kiddies)
 - [Les histoires sont faites](https://open-time.net/post/2026/01/04/Les-histoires-sont-faites)
 - [Le lucre et la gloriole](https://open-time.net/post/2026/01/03/Le-lucre-et-la-gloriole)
 - [tidyAdmin - Remonter le lien vers les réglages de plugin](https://open-time.net/post/2026/01/02/tidyAdmin-Remonter-le-lien-vers-les-reglages-de-plugin)
-- [C’est joli l’arabe](https://open-time.net/post/2026/01/01/Cest-joli-larabe)
 <!-- BLOG-POST-LIST:END -->
