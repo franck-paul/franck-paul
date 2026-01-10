@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Notes de bas de page, suite](https://open-time.net/post/2026/01/10/Notes-de-bas-de-page-suite)
 - [Notes de bas de page](https://open-time.net/post/2026/01/09/Notes-de-bas-de-page)
 - [Studio](https://open-time.net/post/2026/01/08/Studio)
 - [tidyAdmin - Addendum](https://open-time.net/post/2026/01/07/tidyAdmin-Addendum)
 - [tidyAdmin - Toujours afficher la barre d’outils de l’éditeur](https://open-time.net/post/2026/01/06/tidyAdmin-Toujours-afficher-la-barre-doutils-de-lediteur)
-- [Script kiddies](https://open-time.net/post/2026/01/05/Script-kiddies)
 <!-- BLOG-POST-LIST:END -->
