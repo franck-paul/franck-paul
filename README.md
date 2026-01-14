@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Glauque](https://open-time.net/post/2026/01/14/Glauque)
 - [Floraison 2025](https://open-time.net/post/2026/01/13/Floraison-2025)
 - [Opéra](https://open-time.net/post/2026/01/12/Opera)
 - [Calendrier de l’après, semaine 2](https://open-time.net/post/2026/01/11/Calendrier-de-lapres-semaine-2)
 - [Notes de bas de page, suite](https://open-time.net/post/2026/01/10/Notes-de-bas-de-page-suite)
-- [Notes de bas de page](https://open-time.net/post/2026/01/09/Notes-de-bas-de-page)
 <!-- BLOG-POST-LIST:END -->
