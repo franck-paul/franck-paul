@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Tribu](https://open-time.net/post/2026/01/17/Tribu)
 - [tidyAdmin - Menus d’accès rapide](https://open-time.net/post/2026/01/16/tidyAdmin-Menus-dacces-rapide)
 - [Rime riche en angliche](https://open-time.net/post/2026/01/15/Rime-riche-en-angliche)
 - [Glauque](https://open-time.net/post/2026/01/14/Glauque)
 - [Floraison 2025](https://open-time.net/post/2026/01/13/Floraison-2025)
-- [Opéra](https://open-time.net/post/2026/01/12/Opera)
 <!-- BLOG-POST-LIST:END -->
