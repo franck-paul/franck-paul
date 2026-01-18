@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Calendrier de l’après, semaine 3](https://open-time.net/post/2026/01/18/Calendrier-de-lapres-semaine-3)
 - [Tribu](https://open-time.net/post/2026/01/17/Tribu)
 - [tidyAdmin - Menus d’accès rapide](https://open-time.net/post/2026/01/16/tidyAdmin-Menus-dacces-rapide)
 - [Rime riche en angliche](https://open-time.net/post/2026/01/15/Rime-riche-en-angliche)
 - [Glauque](https://open-time.net/post/2026/01/14/Glauque)
-- [Floraison 2025](https://open-time.net/post/2026/01/13/Floraison-2025)
 <!-- BLOG-POST-LIST:END -->
