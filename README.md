@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Le numérique fronçais](https://open-time.net/post/2026/02/11/Le-numerique-froncais)
 - [Oh un vendredi 13 en approche](https://open-time.net/post/2026/02/10/Oh-un-vendredi-13-en-approche)
 - [Victoire \o/](https://open-time.net/post/2026/02/09/Victoire-o/)
 - [Calendrier de l’après, semaine 6](https://open-time.net/post/2026/02/08/Calendrier-de-lapres-semaine-6)
 - [C’est bien gentil tout ça](https://open-time.net/post/2026/02/07/Cest-bien-gentil-tout-ca)
-- [Lisbonne](https://open-time.net/post/2026/02/06/Lisbonne)
 <!-- BLOG-POST-LIST:END -->
