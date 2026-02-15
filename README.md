@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Calendrier de l’après, semaine 7](https://open-time.net/post/2026/02/15/Calendrier-de-lapres-semaine-7)
 - [Changement de format](https://open-time.net/post/2026/02/14/Changement-de-format)
 - [Unsafe inline](https://open-time.net/post/2026/02/13/Unsafe-inline)
 - [Collectif à défendre](https://open-time.net/post/2026/02/12/Collectif-a-defendre)
 - [Le numérique fronçais](https://open-time.net/post/2026/02/11/Le-numerique-froncais)
-- [Oh un vendredi 13 en approche](https://open-time.net/post/2026/02/10/Oh-un-vendredi-13-en-approche)
 <!-- BLOG-POST-LIST:END -->
