@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [24 heures chrono](https://open-time.net/post/2026/03/06/24-heures-chrono)
 - [Encore quelques jours](https://open-time.net/post/2026/03/05/Encore-quelques-jours)
 - [Trop long, pas le temps de tout lire](https://open-time.net/post/2026/03/04/Trop-long-pas-le-temps-de-tout-lire)
 - [Faut arrêter maintenant !](https://open-time.net/post/2026/03/03/Faut-arreter-maintenant-)
 - [Montre](https://open-time.net/post/2026/03/02/Montre)
-- [Calendrier de l’après, semaine 9](https://open-time.net/post/2026/03/01/Calendrier-de-lapres-semaine-9)
 <!-- BLOG-POST-LIST:END -->
