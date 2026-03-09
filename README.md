@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Trismestriel](https://open-time.net/post/2026/03/09/Trismestriel)
 - [Calendrier de l’après, semaine 10](https://open-time.net/post/2026/03/08/Calendrier-de-lapres-semaine-10)
 - [Quand il n&#39;y en a plus, y&#39;en a encore](https://open-time.net/post/2026/03/07/Quand-il-n-y-en-a-plus-y-en-a-encore)
 - [24 heures chrono](https://open-time.net/post/2026/03/06/24-heures-chrono)
 - [Encore quelques jours](https://open-time.net/post/2026/03/05/Encore-quelques-jours)
-- [Trop long, pas le temps de tout lire](https://open-time.net/post/2026/03/04/Trop-long-pas-le-temps-de-tout-lire)
 <!-- BLOG-POST-LIST:END -->
