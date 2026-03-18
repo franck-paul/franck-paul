@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Dégmail-toi n° 4](https://open-time.net/post/2026/03/18/Degmail-toi-n-4)
 - [Dégmail-toi n° 3](https://open-time.net/post/2026/03/17/Degmail-toi-n-3)
 - [Vicieuserie](https://open-time.net/post/2026/03/16/Vicieuserie)
 - [Calendrier de l’après, semaine 11](https://open-time.net/post/2026/03/15/Calendrier-de-lapres-semaine-11)
 - [Dégmail-toi n° 2](https://open-time.net/post/2026/03/14/Degmail-toi-n-2)
-- [Bluesky chez Eurosky](https://open-time.net/post/2026/03/13/Bluesky-chez-Eurosky)
 <!-- BLOG-POST-LIST:END -->
