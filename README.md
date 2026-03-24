@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Attation](https://open-time.net/post/2026/03/24/Attation)
 - [Anti fluide](https://open-time.net/post/2026/03/23/Anti-fluide)
 - [Calendrier de l’après, semaine 12](https://open-time.net/post/2026/03/22/Calendrier-de-lapres-semaine-12)
 - [Du rose au bleu](https://open-time.net/post/2026/03/21/Du-rose-au-bleu)
 - [On est d&#39;accord ?](https://open-time.net/post/2026/03/20/On-est-d-accord)
-- [Appli Carte Vitale](https://open-time.net/post/2026/03/19/Appli-Carte-Vitale)
 <!-- BLOG-POST-LIST:END -->
