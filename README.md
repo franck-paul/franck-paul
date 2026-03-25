@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [La sauvegarde est déjà utilisée](https://open-time.net/post/2026/03/25/La-sauvegarde-est-deja-utilisee)
 - [Attation](https://open-time.net/post/2026/03/24/Attation)
 - [Anti fluide](https://open-time.net/post/2026/03/23/Anti-fluide)
 - [Calendrier de l’après, semaine 12](https://open-time.net/post/2026/03/22/Calendrier-de-lapres-semaine-12)
 - [Du rose au bleu](https://open-time.net/post/2026/03/21/Du-rose-au-bleu)
-- [On est d&#39;accord ?](https://open-time.net/post/2026/03/20/On-est-d-accord)
 <!-- BLOG-POST-LIST:END -->
