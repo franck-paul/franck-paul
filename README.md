@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [C&#39;est léger](https://open-time.net/post/2026/03/31/C-est-leger)
 - [Les choses qui fâchent](https://open-time.net/post/2026/03/30/Les-choses-qui-fachent)
 - [Calendrier de l’après, semaine 13](https://open-time.net/post/2026/03/29/Calendrier-de-lapres-semaine-13)
 - [Alors alors](https://open-time.net/post/2026/03/28/Alors-alors)
 - [Va falloir qu&#39;on m&#39;explique](https://open-time.net/post/2026/03/27/Va-falloir-qu-on-m-explique)
-- [C&#39;est le printemps](https://open-time.net/post/2026/03/26/C-est-le-printemps)
 <!-- BLOG-POST-LIST:END -->
