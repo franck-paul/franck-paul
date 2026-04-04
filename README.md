@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Presque post-gonalgique](https://open-time.net/post/2026/04/04/Presque-post-gonalgique)
 - [Épique](https://open-time.net/post/2026/04/03/Epique)
 - [Vous savez quoi ?](https://open-time.net/post/2026/04/02/Vous-savez-quoi)
 - [Transit](https://open-time.net/post/2026/04/01/Transit)
 - [C&#39;est léger](https://open-time.net/post/2026/03/31/C-est-leger)
-- [Les choses qui fâchent](https://open-time.net/post/2026/03/30/Les-choses-qui-fachent)
 <!-- BLOG-POST-LIST:END -->
