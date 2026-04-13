@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [AJA](https://open-time.net/post/2026/04/13/AJA)
 - [Calendrier de l’après, semaine 15](https://open-time.net/post/2026/04/12/Calendrier-de-lapres-semaine-15)
 - [De la critique](https://open-time.net/post/2026/04/11/De-la-critique)
 - [L&#39;éléphant](https://open-time.net/post/2026/04/10/L-elephant)
 - [Jeu de templates](https://open-time.net/post/2026/04/09/Jeu-de-templates)
-- [En fait](https://open-time.net/post/2026/04/08/En-fait)
 <!-- BLOG-POST-LIST:END -->
