@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Container query](https://open-time.net/post/2026/04/17/Container-query)
 - [Il était un …](https://open-time.net/post/2026/04/16/Il-etait-un-)
 - [Mon meilleur ami](https://open-time.net/post/2026/04/15/Mon-meilleur-ami)
 - [Étonnant, non ?](https://open-time.net/post/2026/04/14/Etonnant-non)
 - [AJA](https://open-time.net/post/2026/04/13/AJA)
-- [Calendrier de l’après, semaine 15](https://open-time.net/post/2026/04/12/Calendrier-de-lapres-semaine-15)
 <!-- BLOG-POST-LIST:END -->
