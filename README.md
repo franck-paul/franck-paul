@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Gabarit](https://open-time.net/post/2026/04/24/Gabarit)
 - [Effet domino](https://open-time.net/post/2026/04/23/Effet-domino)
 - [Le boulegogue](https://open-time.net/post/2026/04/22/Le-boulegogue)
 - [Anonymement](https://open-time.net/post/2026/04/21/Anonymement)
 - [Interface de merde](https://open-time.net/post/2026/04/20/Interface-de-merde)
-- [Calendrier de l’après, semaine 16](https://open-time.net/post/2026/04/19/Calendrier-de-lapres-semaine-16)
 <!-- BLOG-POST-LIST:END -->
