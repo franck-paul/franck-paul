@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Notules non diplomatiques n° 39](https://open-time.net/post/2026/05/06/Notules-non-diplomatiques-n-39)
 - [Quatre minutes](https://open-time.net/post/2026/05/05/Quatre-minutes)
 - [La quille](https://open-time.net/post/2026/05/04/La-quille)
 - [Calendrier de l’après, semaine 18](https://open-time.net/post/2026/05/03/Calendrier-de-lapres-semaine-18)
 - [Dotclear : Annonce](https://open-time.net/post/2026/05/02/Dotclear-%3A-Annonce)
-- [Errorlogger](https://open-time.net/post/2026/05/01/Errorlogger)
 <!-- BLOG-POST-LIST:END -->
