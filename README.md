@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Qu&#39;est-ce que tu voudras refaire quand tu seras grand ?](https://open-time.net/post/2026/05/08/Qu-est-ce-que-tu-voudras-refaire-quand-tu-seras-grand)
 - [Les mots et les actes](https://open-time.net/post/2026/05/07/Les-mots-et-les-actes)
 - [Notules non diplomatiques n° 39](https://open-time.net/post/2026/05/06/Notules-non-diplomatiques-n-39)
 - [Quatre minutes](https://open-time.net/post/2026/05/05/Quatre-minutes)
 - [La quille](https://open-time.net/post/2026/05/04/La-quille)
-- [Calendrier de l’après, semaine 18](https://open-time.net/post/2026/05/03/Calendrier-de-lapres-semaine-18)
 <!-- BLOG-POST-LIST:END -->
