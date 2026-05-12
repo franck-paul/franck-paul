@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Jour de pluie](https://open-time.net/post/2026/05/12/Jour-de-pluie)
 - [Le jour où](https://open-time.net/post/2026/05/11/Le-jour-ou)
 - [Calendrier de l’après, semaine 19](https://open-time.net/post/2026/05/10/Calendrier-de-lapres-semaine-19)
 - [J&#39;ai hâte !](https://open-time.net/post/2026/05/09/J-ai-hate-)
 - [Qu&#39;est-ce que tu voudras refaire quand tu seras grand ?](https://open-time.net/post/2026/05/08/Qu-est-ce-que-tu-voudras-refaire-quand-tu-seras-grand)
-- [Les mots et les actes](https://open-time.net/post/2026/05/07/Les-mots-et-les-actes)
 <!-- BLOG-POST-LIST:END -->
