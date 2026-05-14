@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Autotélique](https://open-time.net/post/2026/05/14/Autotelique)
 - [Ça va bien se passer](https://open-time.net/post/2026/05/13/Ca-va-bien-se-passer)
 - [Jour de pluie](https://open-time.net/post/2026/05/12/Jour-de-pluie)
 - [Le jour où](https://open-time.net/post/2026/05/11/Le-jour-ou)
 - [Calendrier de l’après, semaine 19](https://open-time.net/post/2026/05/10/Calendrier-de-lapres-semaine-19)
-- [J&#39;ai hâte !](https://open-time.net/post/2026/05/09/J-ai-hate-)
 <!-- BLOG-POST-LIST:END -->
