@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [CSP à la hache](https://open-time.net/post/2026/05/19/CSP-a-la-hache)
 - [Ça c&#39;est bien passé](https://open-time.net/post/2026/05/18/Ca-c-est-bien-passe)
 - [Calendrier de l’après, semaine 20](https://open-time.net/post/2026/05/17/Calendrier-de-lapres-semaine-20)
 - [Je change de nuance](https://open-time.net/post/2026/05/16/Je-change-de-nuance)
 - [Do you speak franglais ?](https://open-time.net/post/2026/05/15/Do-you-speak-franglais)
-- [Autotélique](https://open-time.net/post/2026/05/14/Autotelique)
 <!-- BLOG-POST-LIST:END -->
