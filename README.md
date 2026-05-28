@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Les pieds en l&#39;air](https://open-time.net/post/2026/05/28/Les-pieds-en-l-air)
 - [Qualité induite](https://open-time.net/post/2026/05/27/Qualite-induite)
 - [Histoire sans paroles mais avec du son](https://open-time.net/post/2026/05/26/Histoire-sans-paroles-mais-avec-du-son)
 - [Oh une version majeure !](https://open-time.net/post/2026/05/25/Oh-une-version-majeure-)
 - [Calendrier de l’après, semaine 21](https://open-time.net/post/2026/05/24/Calendrier-de-lapres-semaine-21)
-- [Mémo pour le code de configuration des thèmes](https://open-time.net/post/2026/05/23/Memo-pour-le-code-de-configuration-des-themes)
 <!-- BLOG-POST-LIST:END -->
