@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [TTL](https://open-time.net/post/2026/06/05/TTL)
 - [Un jour bis](https://open-time.net/post/2026/06/04/Un-jour-bis)
 - [Au suivant](https://open-time.net/post/2026/06/03/Au-suivant)
 - [Un jour…](https://open-time.net/post/2026/06/02/Un-jour)
 - [Halloy](https://open-time.net/post/2026/06/01/Halloy)
-- [Calendrier de l’après, semaine 22](https://open-time.net/post/2026/05/31/Calendrier-de-lapres-semaine-22)
 <!-- BLOG-POST-LIST:END -->
