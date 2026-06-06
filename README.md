@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Profiler](https://open-time.net/post/2026/06/06/Profiler)
 - [TTL](https://open-time.net/post/2026/06/05/TTL)
 - [Un jour bis](https://open-time.net/post/2026/06/04/Un-jour-bis)
 - [Au suivant](https://open-time.net/post/2026/06/03/Au-suivant)
 - [Un jour…](https://open-time.net/post/2026/06/02/Un-jour)
-- [Halloy](https://open-time.net/post/2026/06/01/Halloy)
 <!-- BLOG-POST-LIST:END -->
