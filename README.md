@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Bon ben, joker !](https://open-time.net/post/2026/06/10/Bon-ben-joker-)
 - [Happy pride month](https://open-time.net/post/2026/06/09/Happy-pride-month)
 - [Bye bye Chrome](https://open-time.net/post/2026/06/08/Bye-bye-Chrome)
 - [Calendrier de l’après, semaine 23](https://open-time.net/post/2026/06/07/Calendrier-de-lapres-semaine-23)
 - [Profiler](https://open-time.net/post/2026/06/06/Profiler)
-- [TTL](https://open-time.net/post/2026/06/05/TTL)
 <!-- BLOG-POST-LIST:END -->
