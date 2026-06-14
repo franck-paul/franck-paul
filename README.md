@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Calendrier de l’après, semaine 24](https://open-time.net/post/2026/06/14/Calendrier-de-lapres-semaine-24)
 - [Install-party the revival?](https://open-time.net/post/2026/06/13/Install-party-the-revival)
 - [À la louche](https://open-time.net/post/2026/06/12/A-la-louche)
 - [Prairie](https://open-time.net/post/2026/06/11/Prairie)
 - [Bon ben, joker !](https://open-time.net/post/2026/06/10/Bon-ben-joker-)
-- [Happy pride month](https://open-time.net/post/2026/06/09/Happy-pride-month)
 <!-- BLOG-POST-LIST:END -->
