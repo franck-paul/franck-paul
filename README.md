@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Mini PC - petit pas](https://open-time.net/post/2026/06/16/Mini-PC-petit-pas)
 - [Deux petites adresses à Saint-Malo](https://open-time.net/post/2026/06/15/Deux-petites-adresses-a-Saint-Malo)
 - [Calendrier de l’après, semaine 24](https://open-time.net/post/2026/06/14/Calendrier-de-lapres-semaine-24)
 - [Install-party the revival?](https://open-time.net/post/2026/06/13/Install-party-the-revival)
 - [À la louche](https://open-time.net/post/2026/06/12/A-la-louche)
-- [Prairie](https://open-time.net/post/2026/06/11/Prairie)
 <!-- BLOG-POST-LIST:END -->
