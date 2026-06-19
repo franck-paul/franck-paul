@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Mini PC - petit pas n° 3](https://open-time.net/post/2026/06/19/Mini-PC-petit-pas-n-3)
 - [Mini PC - petit pas n° 2](https://open-time.net/post/2026/06/18/Mini-PC-petit-pas-n-2)
 - [Happy pride month, again](https://open-time.net/post/2026/06/17/Happy-pride-month-again)
 - [Mini PC - petit pas](https://open-time.net/post/2026/06/16/Mini-PC-petit-pas)
 - [Deux petites adresses à Saint-Malo](https://open-time.net/post/2026/06/15/Deux-petites-adresses-a-Saint-Malo)
-- [Calendrier de l’après, semaine 24](https://open-time.net/post/2026/06/14/Calendrier-de-lapres-semaine-24)
 <!-- BLOG-POST-LIST:END -->
