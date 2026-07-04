@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Mini PC - petit pas n° 6](https://open-time.net/post/2026/07/04/Mini-PC-petit-pas-n-6)
 - [L&#39;argent du patron](https://open-time.net/post/2026/07/03/L-argent-du-patron)
 - [Les vieux réflexes](https://open-time.net/post/2026/07/02/Les-vieux-reflexes)
 - [Poussières](https://open-time.net/post/2026/07/01/Poussieres)
 - [Ralentissement](https://open-time.net/post/2026/06/30/Ralentissement)
-- [Mini PC - petit pas n° 5](https://open-time.net/post/2026/06/29/Mini-PC-petit-pas-n-5)
 <!-- BLOG-POST-LIST:END -->
