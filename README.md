@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Ceci n&#39;est pas](https://open-time.net/post/2026/07/06/Ceci-n-est-pas)
 - [Calendrier de l’après, semaine 27](https://open-time.net/post/2026/07/05/Calendrier-de-lapres-semaine-27)
 - [Mini PC - petit pas n° 6](https://open-time.net/post/2026/07/04/Mini-PC-petit-pas-n-6)
 - [L&#39;argent du patron](https://open-time.net/post/2026/07/03/L-argent-du-patron)
 - [Les vieux réflexes](https://open-time.net/post/2026/07/02/Les-vieux-reflexes)
-- [Poussières](https://open-time.net/post/2026/07/01/Poussieres)
 <!-- BLOG-POST-LIST:END -->
