@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Notules non diplomatiques n° 40](https://open-time.net/post/2026/07/10/Notules-non-diplomatiques-n-40)
 - [Ça descend](https://open-time.net/post/2026/07/09/Ca-descend)
 - [Le chemin](https://open-time.net/post/2026/07/08/Le-chemin)
 - [Cure](https://open-time.net/post/2026/07/07/Cure)
 - [Ceci n&#39;est pas](https://open-time.net/post/2026/07/06/Ceci-n-est-pas)
-- [Calendrier de l’après, semaine 27](https://open-time.net/post/2026/07/05/Calendrier-de-lapres-semaine-27)
 <!-- BLOG-POST-LIST:END -->
