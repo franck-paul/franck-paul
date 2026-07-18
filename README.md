@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Ruminer son code](https://open-time.net/post/2026/07/18/Ruminer-son-code)
 - [Touche](https://open-time.net/post/2026/07/17/Touche)
 - [Fugacemental](https://open-time.net/post/2026/07/16/Fugacemental)
 - [Année consumériste](https://open-time.net/post/2026/07/15/Annee-consumeriste)
 - [Saturation](https://open-time.net/post/2026/07/14/Saturation)
-- [Ça ne change pas](https://open-time.net/post/2026/07/13/Ca-ne-change-pas)
 <!-- BLOG-POST-LIST:END -->
