@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Le futur leak des -15](https://open-time.net/post/2026/07/25/Le-futur-leak-des-15)
 - [Marche arrière](https://open-time.net/post/2026/07/24/Marche-arriere)
 - [Les popover c&#39;est bien, mais faut pas en abuser](https://open-time.net/post/2026/07/23/Les-popover-c-est-bien-mais-faut-pas-en-abuser)
 - [Les hommes de mer](https://open-time.net/post/2026/07/22/Les-hommes-de-mer)
 - [Tooltip](https://open-time.net/post/2026/07/21/Tooltip)
-- [les bruits d&#39;ici](https://open-time.net/post/2026/07/20/les-bruits-d-ici)
 <!-- BLOG-POST-LIST:END -->
