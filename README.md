@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Arguments nommés en PHP](https://open-time.net/post/2026/08/05/Arguments-nommes-en-PHP)
 - [Master-class](https://open-time.net/post/2026/08/04/Master-class)
 - [Un de moins](https://open-time.net/post/2026/08/03/Un-de-moins)
 - [Calendrier de l’après, semaine 31](https://open-time.net/post/2026/08/02/Calendrier-de-lapres-semaine-31)
 - [Idée](https://open-time.net/post/2026/08/01/Idee)
-- [Mode d&#39;emploi](https://open-time.net/post/2026/07/31/Mode-d-emploi)
 <!-- BLOG-POST-LIST:END -->
