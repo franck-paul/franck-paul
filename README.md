@@ -13,9 +13,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [dir=”rtl”](https://open-time.net/post/2026/08/07/dirrtl)
 - [BnF et Europress](https://open-time.net/post/2026/08/06/BnF-et-Europress)
 - [Arguments nommés en PHP](https://open-time.net/post/2026/08/05/Arguments-nommes-en-PHP)
 - [Master-class](https://open-time.net/post/2026/08/04/Master-class)
 - [Un de moins](https://open-time.net/post/2026/08/03/Un-de-moins)
-- [Calendrier de l’après, semaine 31](https://open-time.net/post/2026/08/02/Calendrier-de-lapres-semaine-31)
 <!-- BLOG-POST-LIST:END -->
