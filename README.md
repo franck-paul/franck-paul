@@ -6,10 +6,6 @@
 * 📷 photo, 🚲 vélo, 🏍️ moto 
 * 🇫🇷 native, 🇬🇧 speaking, 🇪🇺 living
 
-### Insights
-
-[![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=franck-paul)](https://github.com/franck-paul)
-
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
