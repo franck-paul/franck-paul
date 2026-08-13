@@ -9,9 +9,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Trois](https://open-time.net/post/2026/08/13/Trois)
 - [Fonctionnel bis](https://open-time.net/post/2026/08/12/Fonctionnel-bis)
 - [Each does one job](https://open-time.net/post/2026/08/11/Each-does-one-job)
 - [Calme](https://open-time.net/post/2026/08/10/Calme)
 - [Calendrier de l’après, semaine 32](https://open-time.net/post/2026/08/09/Calendrier-de-lapres-semaine-32)
-- [Fonctionnel](https://open-time.net/post/2026/08/08/Fonctionnel)
 <!-- BLOG-POST-LIST:END -->
