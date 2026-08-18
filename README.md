@@ -9,9 +9,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Dans les deux sens](https://open-time.net/post/2026/08/18/Dans-les-deux-sens)
 - [Les trois harpies](https://open-time.net/post/2026/08/17/Les-trois-harpies)
 - [Calendrier de l’après, semaine 33](https://open-time.net/post/2026/08/16/Calendrier-de-lapres-semaine-33)
 - [Alerte](https://open-time.net/post/2026/08/15/Alerte)
 - [Bye Flickr](https://open-time.net/post/2026/08/14/Bye-Flickr)
-- [Trois](https://open-time.net/post/2026/08/13/Trois)
 <!-- BLOG-POST-LIST:END -->
