@@ -9,9 +9,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Coloration syntaxique de code](https://open-time.net/post/2026/08/22/Coloration-syntaxique-de-code)
 - [Un, deux, trois, ah non pas deux](https://open-time.net/post/2026/08/21/Un-deux-trois-ah-non-pas-deux)
 - [Right to left](https://open-time.net/post/2026/08/20/Right-to-left)
 - [Je pense que c’est bon maintenant](https://open-time.net/post/2026/08/19/Je-pense-que-cest-bon-maintenant)
 - [Dans les deux sens](https://open-time.net/post/2026/08/18/Dans-les-deux-sens)
-- [Les trois harpies](https://open-time.net/post/2026/08/17/Les-trois-harpies)
 <!-- BLOG-POST-LIST:END -->
