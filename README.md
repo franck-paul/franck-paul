@@ -9,9 +9,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Y’en a encore et toujours](https://open-time.net/post/2026/08/25/Yen-a-encore-et-toujours)
 - [Moteur physique](https://open-time.net/post/2026/08/24/Moteur-physique)
 - [Calendrier de l’après, semaine 34](https://open-time.net/post/2026/08/23/Calendrier-de-lapres-semaine-34)
 - [Coloration syntaxique de code](https://open-time.net/post/2026/08/22/Coloration-syntaxique-de-code)
 - [Un, deux, trois, ah non pas deux](https://open-time.net/post/2026/08/21/Un-deux-trois-ah-non-pas-deux)
-- [Right to left](https://open-time.net/post/2026/08/20/Right-to-left)
 <!-- BLOG-POST-LIST:END -->
