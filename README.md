@@ -9,9 +9,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Ça vous parle ?](https://open-time.net/post/2026/08/29/Ca-vous-parle-)
 - [Démontage](https://open-time.net/post/2026/08/28/Demontage)
 - [Un petit piège de traduction](https://open-time.net/post/2026/08/27/Un-petit-piege-de-traduction)
 - [Han ça fait trop &lpar;pas&rpar; peur](https://open-time.net/post/2026/08/26/Han-ca-fait-trop-pas-peur)
 - [Y’en a encore et toujours](https://open-time.net/post/2026/08/25/Yen-a-encore-et-toujours)
-- [Moteur physique](https://open-time.net/post/2026/08/24/Moteur-physique)
 <!-- BLOG-POST-LIST:END -->
