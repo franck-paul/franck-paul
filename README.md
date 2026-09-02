@@ -9,9 +9,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Cure](https://open-time.net/post/2026/09/02/Cure)
 - [Petits sarcasmes entre nous](https://open-time.net/post/2026/09/01/Petits-sarcasmes-entre-nous)
 - [Photo numérique](https://open-time.net/post/2026/08/31/Photo-numerique)
 - [Calendrier de l’après, semaine 35](https://open-time.net/post/2026/08/30/Calendrier-de-lapres-semaine-35)
 - [Ça vous parle ?](https://open-time.net/post/2026/08/29/Ca-vous-parle-)
-- [Démontage](https://open-time.net/post/2026/08/28/Demontage)
 <!-- BLOG-POST-LIST:END -->
