@@ -9,9 +9,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Ne nous emballons pas](https://open-time.net/post/2026/09/15/Ne-nous-emballons-pas)
 - [Positionnement logique](https://open-time.net/post/2026/09/14/Positionnement-logique)
 - [Calendrier de l’après, semaine 37](https://open-time.net/post/2026/09/13/Calendrier-de-lapres-semaine-37)
 - [Page d’utilité publique](https://open-time.net/post/2026/09/12/Page-dutilite-publique)
 - [Open source vibe-codé](https://open-time.net/post/2026/09/11/Open-source-vibe-code)
-- [Des fois je me pose des questions](https://open-time.net/post/2026/09/10/Des-fois-je-me-pose-des-questions)
 <!-- BLOG-POST-LIST:END -->
