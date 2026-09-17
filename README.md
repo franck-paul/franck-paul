@@ -9,9 +9,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Golden gate](https://open-time.net/post/2026/09/17/Golden-gate)
 - [Comme la météorite, brille un très court instant !](https://open-time.net/post/2026/09/16/Comme-la-meteorite-brille-un-tres-court-instant-)
 - [Ne nous emballons pas](https://open-time.net/post/2026/09/15/Ne-nous-emballons-pas)
 - [Positionnement logique](https://open-time.net/post/2026/09/14/Positionnement-logique)
 - [Calendrier de l’après, semaine 37](https://open-time.net/post/2026/09/13/Calendrier-de-lapres-semaine-37)
-- [Page d’utilité publique](https://open-time.net/post/2026/09/12/Page-dutilite-publique)
 <!-- BLOG-POST-LIST:END -->
