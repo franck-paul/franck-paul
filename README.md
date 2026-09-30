@@ -9,9 +9,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [JSON-LD](https://open-time.net/post/2026/09/30/JSON-LD)
 - [Roof top](https://open-time.net/post/2026/09/29/Roof-top)
 - [Résistance](https://open-time.net/post/2026/09/28/Resistance)
 - [Calendrier de l’après, semaine 39](https://open-time.net/post/2026/09/27/Calendrier-de-lapres-semaine-39)
 - [Paris Web, dernière édition, c’est fini](https://open-time.net/post/2026/09/26/Paris-Web-derniere-edition-cest-fini)
-- [Paris Web, dernière édition J+2](https://open-time.net/post/2026/09/25/Paris-Web-derniere-edition-J2)
 <!-- BLOG-POST-LIST:END -->
