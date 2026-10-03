@@ -9,9 +9,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Mots et image](https://open-time.net/post/2026/10/03/Mots-et-image)
 - [Clair de lune](https://open-time.net/post/2026/10/02/Clair-de-lune)
 - [Changement de paradigme](https://open-time.net/post/2026/10/01/Changement-de-paradigme)
 - [JSON-LD](https://open-time.net/post/2026/09/30/JSON-LD)
 - [Roof top](https://open-time.net/post/2026/09/29/Roof-top)
-- [Résistance](https://open-time.net/post/2026/09/28/Resistance)
 <!-- BLOG-POST-LIST:END -->
