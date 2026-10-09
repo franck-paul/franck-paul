@@ -9,9 +9,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Bismillah c’est les ténèbres](https://open-time.net/post/2026/10/09/Bismillah-cest-les-tenebres)
 - [Surréalisme](https://open-time.net/post/2026/10/08/Surrealisme)
 - [Gabare](https://open-time.net/post/2026/10/07/Gabare)
 - [Qu’est-ce que j’ai bien pu modifier ?](https://open-time.net/post/2026/10/06/Quest-ce-que-jai-bien-pu-modifier-)
 - [Épuiser un endroit](https://open-time.net/post/2026/10/05/Epuiser-un-endroit)
-- [Calendrier de l’après, semaine 40](https://open-time.net/post/2026/10/04/Calendrier-de-lapres-semaine-40)
 <!-- BLOG-POST-LIST:END -->
