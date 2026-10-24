@@ -9,9 +9,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [On va laisser passer la tempête](https://open-time.net/post/2026/10/24/On-va-laisser-passer-la-tempete)
 - [Men in Tech #YesAllMen](https://open-time.net/post/2026/10/23/Men-in-Tech-YesAllMen)
 - [Polémique et accessibilité](https://open-time.net/post/2026/10/22/Polemique-et-accessibilite)
 - [Dépasser les bornes](https://open-time.net/post/2026/10/21/Depasser-les-bornes)
 - [Mais kesskidi ?](https://open-time.net/post/2026/10/20/Mais-kesskidi)
-- [PreCheck](https://open-time.net/post/2026/10/19/PreCheck)
 <!-- BLOG-POST-LIST:END -->
