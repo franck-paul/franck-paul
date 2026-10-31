@@ -9,9 +9,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Am, stram, gram](https://open-time.net/post/2026/10/31/Am-stram-gram)
 - [Recharge, épisode n° 2](https://open-time.net/post/2026/10/30/Recharge-episode-n-2)
 - [Des fois PHP, hein ?](https://open-time.net/post/2026/10/29/Des-fois-PHP-hein-)
 - [L’arnaque](https://open-time.net/post/2026/10/28/Larnaque)
 - [Recharge](https://open-time.net/post/2026/10/27/Recharge)
-- [Transit](https://open-time.net/post/2026/10/26/Transit)
 <!-- BLOG-POST-LIST:END -->
