@@ -9,9 +9,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Plein écran](https://open-time.net/post/2026/11/02/Plein-ecran)
 - [Calendrier de l’après, semaine 44](https://open-time.net/post/2026/11/01/Calendrier-de-lapres-semaine-44)
 - [Am, stram, gram](https://open-time.net/post/2026/10/31/Am-stram-gram)
 - [Recharge, épisode n° 2](https://open-time.net/post/2026/10/30/Recharge-episode-n-2)
 - [Des fois PHP, hein ?](https://open-time.net/post/2026/10/29/Des-fois-PHP-hein-)
-- [L’arnaque](https://open-time.net/post/2026/10/28/Larnaque)
 <!-- BLOG-POST-LIST:END -->
