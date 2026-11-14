@@ -9,9 +9,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Dans quelques heures](https://open-time.net/post/2026/11/14/Dans-quelques-heures)
 - [Ça va être le moment](https://open-time.net/post/2026/11/13/Ca-va-etre-le-moment)
 - [Générations](https://open-time.net/post/2026/11/12/Generations)
 - [Tchou](https://open-time.net/post/2026/11/11/Tchou)
 - [Valeur](https://open-time.net/post/2026/11/10/Valeur)
-- [Lunaire](https://open-time.net/post/2026/11/09/Lunaire)
 <!-- BLOG-POST-LIST:END -->
