@@ -9,9 +9,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Sas](https://open-time.net/post/2026/11/16/Sas)
 - [Calendrier de l’après, semaine 46](https://open-time.net/post/2026/11/15/Calendrier-de-lapres-semaine-46)
 - [Dans quelques heures](https://open-time.net/post/2026/11/14/Dans-quelques-heures)
 - [Ça va être le moment](https://open-time.net/post/2026/11/13/Ca-va-etre-le-moment)
 - [Générations](https://open-time.net/post/2026/11/12/Generations)
-- [Tchou](https://open-time.net/post/2026/11/11/Tchou)
 <!-- BLOG-POST-LIST:END -->
