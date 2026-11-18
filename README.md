@@ -9,9 +9,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Timeline](https://open-time.net/post/2026/11/18/Timeline)
 - [Julietta](https://open-time.net/post/2026/11/17/Julietta)
 - [Sas](https://open-time.net/post/2026/11/16/Sas)
 - [Calendrier de l’après, semaine 46](https://open-time.net/post/2026/11/15/Calendrier-de-lapres-semaine-46)
 - [Dans quelques heures](https://open-time.net/post/2026/11/14/Dans-quelques-heures)
-- [Ça va être le moment](https://open-time.net/post/2026/11/13/Ca-va-etre-le-moment)
 <!-- BLOG-POST-LIST:END -->
