@@ -9,9 +9,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [XSS en veux-tu en voilà](https://open-time.net/post/2026/11/19/XSS-en-veux-tu-en-voila)
 - [Timeline](https://open-time.net/post/2026/11/18/Timeline)
 - [Julietta](https://open-time.net/post/2026/11/17/Julietta)
 - [Sas](https://open-time.net/post/2026/11/16/Sas)
 - [Calendrier de l’après, semaine 46](https://open-time.net/post/2026/11/15/Calendrier-de-lapres-semaine-46)
-- [Dans quelques heures](https://open-time.net/post/2026/11/14/Dans-quelques-heures)
 <!-- BLOG-POST-LIST:END -->
