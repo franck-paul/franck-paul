@@ -9,9 +9,9 @@
 ### Latest news / Dernières nouvelles (in French)
 
 <!-- BLOG-POST-LIST:START -->
+- [La pluie salée](https://open-time.net/post/2026/11/26/La-pluie-salee)
 - [Barista numérique](https://open-time.net/post/2026/11/25/Barista-numerique)
 - [De l’éloge de la lenteur à l’époque de l’IA](https://open-time.net/post/2026/11/24/De-leloge-de-la-lenteur-a-lepoque-de-lIA)
 - [Comment dire](https://open-time.net/post/2026/11/23/Comment-dire)
 - [Calendrier de l’après, semaine 47](https://open-time.net/post/2026/11/22/Calendrier-de-lapres-semaine-47)
-- [Y’a pas le logo](https://open-time.net/post/2026/11/21/Ya-pas-le-logo)
 <!-- BLOG-POST-LIST:END -->
